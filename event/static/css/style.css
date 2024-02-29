@@ -1,0 +1,43 @@
+.container{
+  /* margin-top:20 ; */
+
+}
+  
+  .search-box-container {
+    display: inline-block;
+    position: relative;
+    /* width: 100px; */
+  }
+  
+  .submit {
+    background-color: #e91e63;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 7px;
+  }
+  
+  .search-box {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #d63384;
+    width: 350px;
+  }
+  
+  .response {
+    /* margin-top: 20px; */
+  }
+  
+  .logo-img {
+    display: block;
+    margin: auto;
+    width: 400px; /* Adjust as needed */
+    height: 500px;
+  }
+
+
+#s1{
+  margin-bottom: 30px;
+}

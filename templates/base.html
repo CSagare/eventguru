@@ -1,0 +1,349 @@
+{% load static %}
+<!doctype html>
+<html lang="en">
+
+<head>
+  <link rel="icon" type="image/png" href="static/img/eventguru.png">
+  
+  <title>
+    Event Guru-EPRS
+  </title>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0, shrink-to-fit=no" name="viewport" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <!--     Fonts and icons     -->
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css"> -->
+  <script src="https://kit.fontawesome.com/88fd139688.js" crossorigin="anonymous"></script>
+  <!-- Material Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+  <!-- Material Kit CSS -->
+  <link href="{% static 'css/material-kit.css' %}" rel="stylesheet" />
+
+
+  <link rel="stylesheet" href="{% static 'css/style.css' %}">
+
+    <script src="{% static 'js/function.js' %}"></script>
+
+</head>
+
+<body>
+  <!-- <div class="row">
+    {% if user.is_authenticated and not request.GET.next %}
+    <div class="col-6">
+
+      <div id="success-alert" class="alert alert-success alert-dismissible fade show" role="alert">
+        {{ user.username }} successfully logged in!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close">X</button>
+      </div>
+      {% endif %}
+      <script>
+        // Get the success alert element
+        const successAlert = document.getElementById('success-alert');
+        // Set a timer to hide the success alert after 3 seconds (3000 milliseconds)
+        setTimeout(function() {
+          successAlert.style.display = 'none';
+        }, 3000); // Change 1000 to 3000
+      </script>
+      
+    </div>
+  </div> -->
+  
+  
+  
+
+ <!-- Navbar Transparent -->
+ <!-- Navbar -->
+ 
+<div class="container position-sticky z-index-sticky top-0">
+  <nav class="navbar navbar-expand-lg  blur border-radius-xl top-0 z-index-fixed shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
+    <div class="container-fluid">
+
+      
+      <a class="navbar-brand font-weight-bolder ms-sm-3" href="{% url 'index' %}" rel="tooltip" title="event" data-placement="bottom" target="_blank">
+        EVENT GURU
+      </a>
+      <button class="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon mt-2">
+          <span class="navbar-toggler-bar bar1"></span>
+          <span class="navbar-toggler-bar bar2"></span>
+          <span class="navbar-toggler-bar bar3"></span>
+          <span class="navbar-toggler-bar bar4"></span>
+        </span>
+      </button>
+      <div class="collapse navbar-collapse w-100 pt-3 pb-2 py-lg-0 ms-lg-12 ps-lg-5" id="navigation">
+        <ul class="navbar-nav navbar-nav-hover ms-auto">
+          <li class="nav-item dropdown dropdown-hover mx-2 ms-lg-6">
+            <a class="nav-link ps-2 d-flex cursor-pointer align-items-center" href="{% url 'index' %}" id="dropdownMenuPages2" data-bs-toggle="dropdown" aria-expanded="false">
+              <i class="material-icons opacity-6 me-2 text-md">home</i>
+              Home
+              <!-- <img src="./assets/img/down-arrow-white.svg" alt="down-arrow" class="arrow ms-auto ms-md-2 d-lg-block d-none"> -->
+              <!-- <img src="./assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-auto ms-md-2 d-lg-none d-block"> -->
+            </a>
+          </li>
+
+            <!-- dropdown for event palnners"> -->
+            <li class="nav-item dropdown dropdown-hover mx-2">
+              <a class="nav-link ps-2 d-flex cursor-pointer align-items-center" id="dropdownMenuPages" data-bs-toggle="dropdown" aria-expanded="false">
+                <i class="material-icons opacity-6 me-2 text-md">event</i>
+                Event Planners
+                <img src="{% static 'img/down-arrow-dark.svg' %}" alt="down-arrow" class="arrow ms-auto ms-md-2">
+              </a>
+              <div class="dropdown-menu dropdown-menu-animation ms-n3 dropdown-md p-3 border-radius-xl mt-0 mt-lg-3" aria-labelledby="dropdownMenuPages">
+                <div class="d-none d-lg-block">
+      <!-- <h6 class="dropdown-header text-dark font-weight-bolder d-flex align-items-center px-1">
+        <a href="./pages/sign-in.html" class="dropdown-item border-radius-md">
+          <span>Planning Resources</span>
+        Landing Pages</h6> -->
+        <a href="{% url 'planners' %}" class="dropdown-item border-radius-md">
+          <span>Planners Profile</span>
+        </a>
+      <a href="" class="dropdown-item border-radius-md">
+        <span>Featured Planners</span>
+      </a>
+      <a href="" class="dropdown-item border-radius-md">
+        <span>Categories</span>
+      </a>
+      <h6 class="dropdown-header text-dark font-weight-bolder d-flex align-items-center px-1 mt-3">
+        Resources
+      </h6>
+      <a href="" class="dropdown-item border-radius-md">
+        <span>Resources</span>
+      </a>
+    </div>
+              </div>
+            </li>
+          <li class="nav-item dropdown dropdown-hover mx-2">
+            <a href="{% url 'about' %}" class="nav-link ps-2 d-flex cursor-pointer align-items-center">
+              <i class="material-icons opacity-6 me-2 text-md">dashboard</i>
+              About-us
+            </a>
+          </li>
+          
+          <li class="nav-item dropdown dropdown-hover mx-2">
+            <a href="{% url 'contact' %}" class="nav-link ps-2 d-flex cursor-pointer align-items-center">
+              <i class="material-icons opacity-6 me-2 text-md">group</i>
+              Contact-us
+            </a>
+          </li>
+
+          {% if user.is_authenticated %}
+
+         
+          <li class="nav-item ms-lg-auto my-auto ms-3 ms-lg-0 mt-2 mt-lg-0">
+            <div class="btn-group">
+              <button type="button" class="btn btn-sm bg-gradient-primary mb-0 me-1 mt-2 mt-md-0">{{ user.username }}</button>
+              <button type="button" class="btn btn-sm bg-gradient-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
+                <span class="visually-hidden">Toggle Dropdown</span>
+              </button>
+              <ul class="dropdown-menu">
+
+                <li><a class="dropdown-item" href="">Profile</a></li>
+                <li><a class="dropdown-item" href="{% url 'logout' %}">Logout</a></li>
+              </ul>
+            </div>
+          </li>
+        {% else %}
+          <li class="nav-item ms-lg-auto my-auto ms-3 ms-lg-0 mt-2 mt-lg-0">
+            <a href="{% url 'register' %}" class="btn btn-sm bg-gradient-light mb-0 me-1 mt-2 mt-md-0">Register</a>
+          </li>
+          <li class="nav-item ms-lg-auto my-auto ms-0 ms-lg-0 mt-2 mt-lg-0">
+            <a href="{% url 'login' %}" class="btn btn-sm bg-gradient-primary mb-0 me-1 mt-2 mt-md-0">Log in</a>
+          </li>
+        {% endif %}
+        
+        
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- End Navbar -->
+  </div></div></div>
+  
+  
+   <!-- End Navbar -->
+ 
+
+
+ 
+
+  
+
+ {%if messages %}
+    {% for message in messages %}
+    <div class="alert alert-{{message.tags}} alert-dismissible fade show" role="alert">
+      {{message}}
+      <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+    {% endfor %}
+  {% endif %}
+{% block content %}
+
+
+
+
+
+
+{% endblock %}
+
+ <!-- footer start -->
+ <footer class="footer pt-5 mt-5">
+  <div class="container">
+    <div class=" row">
+      <div class="col-md-3 mb-4 ms-auto">
+        <div>
+          <a href="{% url 'index' %}">
+            <img src="static/img/eventguru.png" class="mb-3 footer-logo" class="logo-img" alt="main_logo">
+          </a>
+         <a href="{% url 'index' %}"><h6 class="font-weight-bolder mb-4" >Event GURU</h6></a> 
+        </div>
+        <div>
+          <ul class="d-flex flex-row ms-n3 nav">
+            <li class="nav-item">
+              <a class="nav-link pe-1" href="" target="_blank">
+              <i class="fab fa-facebook text-lg opacity-8"></i>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link pe-1" href="" target="_blank">
+                <i class="fab fa-twitter text-lg opacity-8"></i>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link pe-1" href="" target="_blank">
+                <i class="fab fa-dribbble text-lg opacity-8"></i>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link pe-1" href="" target="_blank">
+                <i class="fab fa-github text-lg opacity-8"></i>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link pe-1" href=" target=">
+                <i class="fab fa-youtube text-lg opacity-8"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-2 col-sm-6 col-6 mb-4">
+        <div>
+          <h6 class="text-sm">Company</h6>
+          <ul class="flex-column ms-n3 nav">
+            <li class="nav-item">
+              <a class="nav-link" href="" target="_blank">
+                About Us
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="" target="_blank">
+                Freebies
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="" target="_blank">
+                Premium Tools
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="" target="_blank">
+                Blog
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-2 col-sm-6 col-6 mb-4">
+        <div>
+          <h6 class="text-sm">Resources</h6>
+          <ul class="flex-column ms-n3 nav">
+            <li class="nav-item">
+              <a class="nav-link" href="" target="_blank">
+                Illustrations
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="" target="_blank">
+                Bits & Snippets
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="" target="_blank">
+                Affiliate Program
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-2 col-sm-6 col-6 mb-4">
+        <div>
+          <h6 class="text-sm">Help & Support</h6>
+          <ul class="flex-column ms-n3 nav">
+            <li class="nav-item">
+              <a class="nav-link" href="" target="_blank">
+                Contact Us
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="" target="_blank">
+                Knowledge Center
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="" target="_blank">
+                Custom Development
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="" target="_blank">
+                Sponsorships
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-2 col-sm-6 col-6 mb-4 me-auto">
+        <div>
+          <h6 class="text-sm">Legal</h6>
+          <ul class="flex-column ms-n3 nav">
+            <li class="nav-item">
+              <a class="nav-link" href="" target="_blank">
+                Terms & Conditions
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="" target="_blank">
+                Privacy Policy
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="" target="_blank">
+                Licenses (EULA)
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-12">
+        <div class="text-center">
+          <p class="text-dark my-4 text-sm font-weight-normal">
+            Created © <script>
+              document.write(new Date().getFullYear())
+            </script> CGIM Application by <a href="https://www.sagarchaudhary1.com.np/" target="_blank">sagar</a>.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- footer end -->
+
+
+</body>
+
+</html>
