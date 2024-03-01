@@ -10,7 +10,12 @@ EventGuru is web app that provide seamless interaction to user and planners
 #### Using `venv` Module:
 
 ```bash
+mkdir yourprojectname
+cd yourprojectname
 python3 -m venv .venv
-
-to run server
 python manage.py runserver
+
+
+
+![Planner page](relative/path/to/screenshot/1.png)
+![Index page](relative/path/to/screenshot/2.png)
