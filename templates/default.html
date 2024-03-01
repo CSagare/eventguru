@@ -1,75 +1,68 @@
 {% extends 'base.html' %}
-{% block title %}Home{% endblock title %}  
+{% block title %}defaults{% endblock title %}
 {% block content %}
+
 <!-- first rows -->
 <div class="card card-body shadow-xl mx-3 mx-md-4 mt-n6">
   <!-- <div class="container"> -->
-    <div class="section text-center">
-      <section class="my-5 py-5">
-        <div class="container">
-          <div class="row align-items-center">
-            <div class="col-md-3 mx-auto">
-              <div class="row-md-8 mt-4"></div>
-              <!-- heading insertion here-->
+  <div class="section text-center">
+    <section class="my-5 py-5">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-md-3 mx-auto">
+            <div class="row-md-8 mt-4"></div>
+            <!-- heading insertion here-->
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title">Planner Name</h5>
+                <h3 class="card-text">{{ eventplanner.title }} events </h3>
+              </div>
+            </div>
+            <div class="row-md-8 mt-4"></div>
+          </div>
+          <!-- card and Information -->
+          <div class="row">
+            <div class="col-md-4 mr-md-2">
+              <!-- Left Card -->
               <div class="card">
                 <div class="card-body">
-                  <h5 class="card-title">Planner Name</h5>
-                  <h3 class="card-text">{{ eventplanner.title }} events </h3>
+                  <img src="static/planners/apollo_events.jpeg" class="card-img-top" alt="Event Image">
+                  <div class="card-body">
+                    <h5 class="card-title">{{ eventplanner.title }}</h5>
+                    <p class="card-text">Rating: {{ eventplanner.rating }}</p>
+                    <p class="text-white opacity-8">{{ eventplanner.description }}</p>
+                  </div>
                 </div>
+                <!-- Card Content -->
               </div>
-              <div class="row-md-8 mt-4"></div>
             </div>
-            <!-- card and Information -->
-            <div class="row">
-              <div class="col-md-3 mr-md-2">
-                <!-- Left Card -->
-                <div class="card">
-                  <div class="card-body">
-                    <img src="static/planners/apollo_events.jpeg" class="card-img-top" alt="Event Image">
-                    <div class="card-body">
-                      <h5 class="card-title">{{ eventplanner.title }}</h5>
-                      <p class="card-text">Rating: {{ eventplanner.rating }}</p>
-                      <p class="text-white opacity-8">{{ eventplanner.description }}</p>
-                    </div>
-                  </div>
-                  <!-- Card Content -->
-                </div>
-              </div>
-              <div class="col-md-9 ml-md-2">
-                <!-- Right Card -->
-                <div class="card">
-                  <!-- Card Content -->
-                  <div class="card-body">
-                    <h5 class="card-title">Rating</h5>
-                    <div class="rating"></div>
-                      <input type="radio" id="star5" name="rating" value="5" />
-                      <label for="star5" title="5 stars"></label>
-                      <input type="radio" id="star4" name="rating" value="4" />
-                      <label for="star4" title="4 stars"></label>
-                      <input type="radio" id="star3" name="rating" value="3" />
-                      <label for="star3" title="3 stars"></label>
-                      <input type="radio" id="star2" name="rating" value="2" />
-                      <label for="star2" title="2 stars"></label>
-                      <input type="radio" id="star1" name="rating" value="1" />
-                      <label for="star1" title="1 star"></label>
-                    </div>
+            <div class="col-md-9 ml-md-2">
+              <!-- Right Card -->
+              <div class="card">
+                <!-- Card Content -->
 
-                    <form>
-                      <textarea id="review" name="review" placeholder="Write a review"></textarea>
-                      <button type="submit">Submit</button>
-                    </form>
-                    <p class="card-text">Average Rating: {{ eventplanner.rating }}</p>
-                    <p class="card-text">Total Reviews: {{ eventplanner.reviews }}</p>
-                    <button class="btn btn-primary">Book Now</button>
-                  </div>
+                <div class="card-body">
+                  <h5 class="card-title">{{ eventplanner.name }}</h5>
+                  <p class="card-text">Location: {{ eventplanner.location }}</p>
+                  <p class="card-text">Description: {{ eventplanner.description }}</p>
+                  <p class="card-text">Contact Number: {{ eventplanner.number }}</p>
+                  <form>
+                    <textarea id="review" name="review" placeholder="Write a review"></textarea>
+                    <button type="submit">Submit</button>
+                  </form>
+                  <p class="card-text">Average Rating: {{ eventplanner.rating }}</p>
+                  <p class="card-text">Total Reviews: {{ eventplanner.reviews }}</p>
+                  <button class="btn btn-primary">Book Now</button>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </section>
-    </div>
+      </div>
   </div>
+  </section>
+</div>
+</div>
 <!-- </div> -->
 
 
