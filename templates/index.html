@@ -36,9 +36,10 @@
     </div>
   </div>
 
-  
+
   <div class="card card-body shadow-xl mx-3 mx-md-4 mt-n6">
     <div class="container">
+      
 
 <!-- planners -->
 <section class="pt-3 pb-4" id="count-stats">
@@ -94,16 +95,16 @@
       <section class="my-5 py-5">
         <div class="container">
           <div class="row align-items-center">
-            
+
             <!-- card insertion here-->
             {% for eventplanner in eventplanners|slice:":9" %}
             <div class="col-lg-4 ms-auto me-auto p-lg-4 mt-lg-0 mt-4">
               <div class="rotating-card-container">
                 <div class="card card-rotate card-background card-background-mask-primary shadow-primary mt-md-0 mt-5">
-                  <div class="front front-background" style="background-image: url('{% if eventplanner.logo %}{{ eventplanner.logo.url }}{% else %}{% endif %}'); background-size: cover;">
+                  <div class="front front-background" style="background-image: url('media/event_logos/apollo_events.jpeg'); background-size: cover;">
                     <div class="card-body py-7 text-center">
                       <i class="material-icons text-white text-4xl my-3">touch_app</i>
-                      <h3 class="text-white">{{ eventplanner.title }} <br /> Event Management</h3>
+                      <h2 class="text-white">{{ eventplanner.title }}    <br /> Event Management  </h2>
                       <p class="text-white opacity-8">Rating :</p>
                       <div class="star-rating">
                         <span class="">{{ eventplanner.rating }}</span>
@@ -111,7 +112,7 @@
                       </div>
                     </div>
                   </div>
-                  <div class="back back-background" style="background-image: url(); background-size: cover;">
+                  <div class="back back-background" style="background-image: url({% if eventplanner.logo %}{{ eventplanner.logo.url }}{% else %}{% endif %}); background-size: cover;">
                     <div class="card-body pt-7 text-center">
                       <h3 class="text-white">About</h3>
                       <p class="text-white opacity-8">{{ eventplanner.description }}</p>
