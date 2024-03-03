@@ -1,5 +1,6 @@
 from django.contrib import admin
 from .models import Eventplanner, contacts
+from .models import category, planner_category
 
 class EventplannerAdmin(admin.ModelAdmin):
     list_display = ('title', 'rating', 'user_id', 'logo_thumbnail')  # Customize displayed fields
@@ -23,3 +24,14 @@ class ContactsAdmin(admin.ModelAdmin):
     list_filter = ('name', 'email')
 
 admin.site.register(contacts, ContactsAdmin)
+# admin.site.register(Event)
+
+
+@admin.register(category)
+class CategoryAdmin(admin.ModelAdmin):
+    list_display = ('name', 'description')
+
+@admin.register(planner_category)
+class PlannerCategoryAdmin(admin.ModelAdmin):
+    list_display = ('eventplanner', 'category')
+
