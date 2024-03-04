@@ -10,7 +10,10 @@ class Eventplanner(models.Model):
     rating=models.FloatField()
     # location = models.CharField(max_length=200)
     user_id = models.ForeignKey(CustomUser, on_delete=models.CASCADE, related_name='events')
-    logo = models.ImageField(upload_to='event_logos/',  validators=[validate_image_file_extension], null=True, blank=True)
+    # logo = models.ImageField(upload_to='event_logos/',  validators=[validate_image_file_extension], null=True, blank=True)
+    logo = models.ImageField(upload_to='media/event_logos/')
+
+    # logo = models.ImageField(upload_to='images/')
 
 
 

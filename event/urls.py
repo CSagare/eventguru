@@ -1,5 +1,8 @@
 from django.urls import path
 from . import views
+from django.conf.urls.static import static
+from django.conf import settings
+
 
 urlpatterns = [
     # path('my-link/', views.my_view, name='my_view'),
@@ -11,8 +14,6 @@ urlpatterns = [
     path('defaults/<int:event_id>/', views.defaults, name='defaults'),
     path('planner/search/', views.search, name='planner_search'),
 
-
-
-   
-
 ]
+
+urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

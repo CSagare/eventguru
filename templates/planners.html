@@ -60,7 +60,16 @@
                 {% endif %} -->
 
 
-          <img src="static/planners/apollo_events.jpeg" class="card-img-top" alt="Event Image">
+          <!-- <img src="static/planners/apollo_events.jpeg" class="card-img-top" alt="Event Image"> -->
+          <!-- <img src="{{ image.image.url }}" alt="{{ image.name }}"> -->
+        
+
+      {% if eventplanner.logo %}
+        <img src="{{ eventplanner.logo.url }}" alt="Event Logo" style="max-width: 300px; max-height: 300px;">
+    {% else %}
+        <p>No logo available</p>
+    {% endif %}
+           <!-- Img src ma "{{'n.logo.url'}} -->
           <div class="card-body">
             <h5 class="card-title">{{ eventplanner.title }} events</h5>
             <p class="card-text">Rating: {{ eventplanner.rating }}</p>
