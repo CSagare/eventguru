@@ -65,7 +65,7 @@
         
 
       {% if eventplanner.logo %}
-        <img src="{{ eventplanner.logo.url }}" alt="Event Logo" style="max-width: 300px; max-height: 300px;">
+        <img src="{{ eventplanner.logo.url }}" alt="Event Logo" style="max-width: 400px; max-height: 300px;">
     {% else %}
         <p>No logo available</p>
     {% endif %}
@@ -73,7 +73,13 @@
           <div class="card-body">
             <h5 class="card-title">{{ eventplanner.title }} events</h5>
             <p class="card-text">Rating: {{ eventplanner.rating }}</p>
-            <p class="text-white opacity-8">{{ eventplanner.description }}</p>
+            <p class="text-black opacity-8">
+              {% if eventplanner.description|length > 150 %}
+              {{ eventplanner.description|slice:":150" }}{% if eventplanner.description|length > 150 %}...{% endif %}
+              {% else %}
+              {{ eventplanner.description }}
+              {% endif %}
+            </p>
             <a href="{% url 'defaults' eventplanner.id %}" class="btn btn-primary">Explore</a>
           </div>
         </div>

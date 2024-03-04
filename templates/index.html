@@ -1,18 +1,18 @@
-    {% extends 'base.html' %}
-    {% block title %}EventGuru{% endblock title %}  
-    {% block content %}
-    <div class="page-header min-vh-80" style="background-image: url(static/img/event.jpeg)">
+{% extends 'base.html' %}
+{% block title %}EventGuru{% endblock title %}
+{% block content %}
+<div class="page-header min-vh-80" style="background-image: url(static/img/event.jpeg)">
 
-    <span class="mask bg-gradient-dark opacity-6"></span>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8 mx-auto">
-          <div class="text-center">
-            <h1 class="text-white">Event Planner Finder</h1>
-            <h3 class="text-white">find the best planner </h3>
-            <h1 class="text-white"><i class="fa-regular fa-handshake"></i></h1>
-            
-            <!-- <button class="btn bg-gradient-primary btn-icon btn-lg" type="button">
+  <span class="mask bg-gradient-dark opacity-6"></span>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 mx-auto">
+        <div class="text-center">
+          <h1 class="text-white">Event Planner Finder</h1>
+          <h3 class="text-white">find the best planner </h3>
+          <h1 class="text-white"><i class="fa-regular fa-handshake"></i></h1>
+
+          <!-- <button class="btn bg-gradient-primary btn-icon btn-lg" type="button">
               <div class="d-flex align-items-center">
                 <i class="material-icons me-2" aria-hidden="true">favorite</i>
                 <div class="row text-center py-2 mt-3">
@@ -26,74 +26,74 @@
               </div>
             </button> -->
 
-            
-            
-        
-              
-          </div>
+
+
+
+
         </div>
       </div>
     </div>
   </div>
+</div>
 
 
-  <div class="card card-body shadow-xl mx-3 mx-md-4 mt-n6">
-    <div class="container">
-      
-
-<!-- number heading -->
-<section class="pt-3 pb-4" id="count-stats">
+<div class="card card-body shadow-xl mx-3 mx-md-4 mt-n6">
   <div class="container">
-    <div class="row">
-      <div class="col-lg-9 mx-auto py-3">
+
+
+    <!-- number heading -->
+    <section class="pt-3 pb-4" id="count-stats">
+      <div class="container">
         <div class="row">
-          <div class="col-md-4 position-relative">
-            <div class="p-3 text-center">
-              <h1 class="text-gradient text-primary"><span id="state1" countTo="12">12</span>+</h1>
-              <h5 class="mt-3">Event Planners</h5>
-              <p class="text-sm font-weight-normal">Best of the event planners</p>
-            </div>
-            <hr class="vertical dark">
-          </div>
-          <div class="col-md-4 position-relative">
-            <div class="p-3 text-center">
-              <h1 class="text-gradient text-primary"> <span id="state2" countTo="4">4</span>+</h1>
-              <h5 class="mt-3">Big Cities</h5>
-              <p class="text-sm font-weight-normal">Showing creativity among the big  cities around the world</p>
-            </div>
-            <hr class="vertical dark">
-          </div>
-          <div class="col-md-4">
-            <div class="p-3 text-center">
-              <h1 class="text-gradient text-primary" id="state3" countTo="24">24 hrs</h1>
-              <h5 class="mt-3">Available</h5>
-              <p class="text-sm font-weight-normal">We are with you all the time for your events</p>
+          <div class="col-lg-9 mx-auto py-3">
+            <div class="row">
+              <div class="col-md-4 position-relative">
+                <div class="p-3 text-center">
+                  <h1 class="text-gradient text-primary"><span id="state1" countTo="12">12</span>+</h1>
+                  <h5 class="mt-3">Event Planners</h5>
+                  <p class="text-sm font-weight-normal">Best of the event planners</p>
+                </div>
+                <hr class="vertical dark">
+              </div>
+              <div class="col-md-4 position-relative">
+                <div class="p-3 text-center">
+                  <h1 class="text-gradient text-primary"> <span id="state2" countTo="4">4</span>+</h1>
+                  <h5 class="mt-3">Big Cities</h5>
+                  <p class="text-sm font-weight-normal">Showing creativity among the big cities around the world</p>
+                </div>
+                <hr class="vertical dark">
+              </div>
+              <div class="col-md-4">
+                <div class="p-3 text-center">
+                  <h1 class="text-gradient text-primary" id="state3" countTo="24">24 hrs</h1>
+                  <h5 class="mt-3">Available</h5>
+                  <p class="text-sm font-weight-normal">We are with you all the time for your events</p>
+                </div>
+              </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
-  </div>
-</section>
-<!-- end heading number -->
+    </section>
+    <!-- end heading number -->
 
-      <div class="section text-center">
-        <h2 class="title" id="s1">Event Planners</h2>
+    <div class="section text-center">
+      <h2 class="title" id="s1">Event Planners</h2>
 
 
       <div class="container">
         <form id="search-form" method="GET" action="{% url 'planner_search' %}">
-            <div class="search-box-container">
-                <input class="search-box" type="text" name="q" placeholder="Search...">
-                <button type="submit" class="submit">
-                    <i class="fa fa-search"></i> 
-                </button>
-            </div>
+          <div class="search-box-container">
+            <input class="search-box" type="text" name="q" placeholder=" Search by name and wedding category...">
+            <button type="submit" class="submit">
+              <i class="fa fa-search"></i>
+            </button>
+          </div>
         </form>
         <h3 class="response"></h3>
         <ul id="search-results"></ul>
-    </div>
-    
+      </div>
+
 
 
       <section class="my-5 py-5">
@@ -106,10 +106,17 @@
               <div class="rotating-card-container">
                 <div class="card card-rotate card-background card-background-mask-primary shadow-primary mt-md-0 mt-5">
                   <!-- <div class="front front-background" style="background-image: url('media/event_logos/apollo_events.jpeg'); background-size: cover;"> -->
-                  <div class="front front-background" style="background-image: url('static/planners/apollo_events.jpeg'); background-size: cover;">
+                  <div class="front front-background" style="background-image: url('/media/media/event_logos/a2.jpeg');  min-width: 370px;background-size: cover;">
+                  <!-- <div>
+                    {% if eventplanner.logo %}
+                    <img src="{{ eventplanner.logo.url }}" alt="Event Logo"
+                      style="max-width: 400px; max-height: 300px;">
+                    {% else %}
+                    <p>No logo available</p>
+                    {% endif %} -->
                     <div class="card-body py-7 text-center">
                       <i class="material-icons text-white text-4xl my-3">touch_app</i>
-                      <h2 class="text-white">{{ eventplanner.title }}    <br /> Event Management  </h2>
+                      <h2 class="text-black">{{ eventplanner.title }} <br /> Event<h2 class="text-white"> Management </h2></h2>
                       <p class="text-white opacity-8">Rating :</p>
                       <div class="star-rating">
                         <span class="">{{ eventplanner.rating }}</span>
@@ -118,29 +125,32 @@
                     </div>
                   </div>
                   <!-- <div class="back back-background" style="background-image: url('{% if eventplanner.logo %}{{ eventplanner.logo.url }}{% else %}{% endif %}'); background-size: cover;"> -->
-                  <div class="back back-background" style="background-image: url('static/planners/vogue_events.jpeg'); background-size: cover;">
+                  <div class="back back-background"
+                    style="background-image: url('/media/media/event_logos/a1.jpeg'); background-size: cover;">
                     <div class="card-body pt-7 text-center">
                       <h3 class="text-white">About</h3>
                       <p class="text-white opacity-8">{{ eventplanner.description }}</p>
-                      <a href="{% url 'defaults' eventplanner.id %}" target="_blank" class="btn btn-white btn-sm w-50 mx-auto mt-3">Book Now</a>
+                      <a href="{% url 'defaults' eventplanner.id %}" target="_blank"
+                        class="btn btn-white btn-sm w-50 mx-auto mt-3">Book Now</a>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-          {% endfor %}
-    
-      
-      <!-- <div class="col-lg-6 ms-auto"> -->
-       
-      </div>
+            {% endfor %}
+
+
+
+            <!-- <div class="col-lg-6 ms-auto"> -->
+
+          </div>
+        </div>
     </div>
+    </section>
   </div>
-</section>
 </div>
-</div> 
-      </div>
-    
+</div>
+
 <!-- caption -->
 <div class="container">
   <div class="row">
@@ -148,22 +158,23 @@
       <div class="col-lg-6">
         <!-- <span class="badge bg-primary mb-3">Infinite combinations</span> -->
         <h2 class="text-dark mb-0">Huge Event Category</h2>
-        <p class="lead">Widely depending on the context, such as sports events, business conferences, entertainment events,
-           or even categories within a specific event type, like music genres in a music festival.</p>
+        <p class="lead">Widely depending on the context, such as sports events, business conferences, entertainment
+          events,
+          or even categories within a specific event type, like music genres in a music festival.</p>
       </div>
     </div>
   </div>
 </div>
 
 
-    <!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+<!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
 <div class="container">
   <div class="row">
     <div class="col-lg-6 my-auto">
       <h3 class="mt-5 mt-lg-0">Read More About Us</h3>
       <p class="pe-5">Event planning is a dynamic and multifaceted process that requires creativity, organization,
-         attention to detail, and effective communication skills to bring a client's vision to life and create memorable
-          experiences for all involved.</p>
+        attention to detail, and effective communication skills to bring a client's vision to life and create memorable
+        experiences for all involved.</p>
       <a href="{% url 'contact' %}" class="text-primary icon-move-right">More about us
         <i class="fas fa-arrow-right text-sm ms-1"></i>
       </a>
@@ -175,7 +186,8 @@
         </div>
         <div class="description ps-3">
           <p class="mb-0">Testimonials or reviews from past clients expressing satisfaction
-            <br>  with the company's services and the outcomes of their events.  </p>
+            <br> with the company's services and the outcomes of their events.
+          </p>
         </div>
       </div>
 
@@ -184,17 +196,19 @@
           <i class="fas fa-hourglass opacity-10"></i>
         </div>
         <div class="description ps-3">
-          <p class="mb-0">An overview of the types of events the company specializes in planning, such 
-            <br>as corporate events, weddings, conferences, fundraisers, or private parties.</p>
-          </div>
+          <p class="mb-0">An overview of the types of events the company specializes in planning, such
+            <br>as corporate events, weddings, conferences, fundraisers, or private parties.
+          </p>
         </div>
-        <div class="p-3 info-horizontal">
-          <div class="icon icon-shape  bg-gradient-primary shadow-primary text-center">
+      </div>
+      <div class="p-3 info-horizontal">
+        <div class="icon icon-shape  bg-gradient-primary shadow-primary text-center">
           <i class="fas fa-handshake opacity-10"></i>
         </div>
         <div class="description ps-3">
-          <p class="mb-0">Ways for potential clients to get in touch with the company, such as 
-            <br>a contact form, email address, phone number, or office location.</p>
+          <p class="mb-0">Ways for potential clients to get in touch with the company, such as
+            <br>a contact form, email address, phone number, or office location.
+          </p>
         </div>
       </div>
     </div>
@@ -215,13 +229,13 @@
               <div class="col-md-6">
                 <div class="input-group input-group-dynamic mb-4">
                   <label class="form-label">First Name</label>
-                  <input class="form-control" aria-label="First Name..." type="text" >
+                  <input class="form-control" aria-label="First Name..." type="text">
                 </div>
               </div>
               <div class="col-md-6 ps-2">
                 <div class="input-group input-group-dynamic">
                   <label class="form-label">Last Name</label>
-                  <input type="text" class="form-control" placeholder="" aria-label="Last Name..." >
+                  <input type="text" class="form-control" placeholder="" aria-label="Last Name...">
                 </div>
               </div>
             </div>
@@ -239,7 +253,8 @@
               <div class="col-md-12">
                 <div class="form-check form-switch mb-4 d-flex align-items-center">
                   <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault" checked="">
-                  <label class="form-check-label ms-3 mb-0" for="flexSwitchCheckDefault">I agree to the <a href="javascript:;" class="text-dark"><u>Terms and Conditions</u></a>.</label>
+                  <label class="form-check-label ms-3 mb-0" for="flexSwitchCheckDefault">I agree to the <a
+                      href="javascript:;" class="text-dark"><u>Terms and Conditions</u></a>.</label>
                 </div>
               </div>
               <div class="col-md-12">
@@ -256,9 +271,3 @@
 
 
 {% endblock %}
-
-
-
-
-
-

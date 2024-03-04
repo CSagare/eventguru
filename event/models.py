@@ -50,3 +50,6 @@ class planner_category(models.Model):
 #     categories = models.ManyToManyField(category, related_name='events')
 #     def __str__(self):
 #         return self.title
+    
+
+    
