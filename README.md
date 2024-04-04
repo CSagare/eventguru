@@ -20,3 +20,4 @@ python manage.py runserver
 # ![Planner page](./screenshot/1.png)
 # ![Index page](./screenshot/2.png)
 # algo
+# algo
