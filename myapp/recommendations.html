@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Event Recommendations</title>
+</head>
+<body>
+    <h1>Event Recommendations</h1>
+    
+    <ul>
+        {% for event in recommendations %}
+            <li>
+                Event ID: {{ event.event_id }} <br>
+                Rating: {{ event.rating }} <br>
+                Planner: {{ event.planners }}
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

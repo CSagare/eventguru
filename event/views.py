@@ -1,3 +1,4 @@
+import os
 from django.shortcuts import get_object_or_404, render, redirect
 from django.contrib import messages
 from django.shortcuts import  render, redirect
@@ -109,3 +110,49 @@ def search(request):
         event_planners = Eventplanner.objects.all()
     
     return render(request, 'search_result.html', {'event_planners': event_planners, 'query': query})
+
+
+
+    
+
+from django.shortcuts import render
+from django.http import HttpResponse
+import pickle
+
+current_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Load the trained model
+with open(os.path.join(current_dir, 'model.pkl'), 'rb') as file:
+    model = pickle.load(file)
+
+# Load the trained model
+# with open('model.pkl', 'rb') as file:
+#     model = pickle.load(file)
+
+# Load event_titles_map from event_titles.txt
+event_titles_map = {}
+# with open('/event_titles.txt') as f:
+with open(os.path.join(current_dir, 'event_titles.txt')) as f:
+
+    for line in f.readlines():
+        parts = [x.strip() for x in line.split(',')]
+        event_id = int(parts[0])
+        event_name = parts[1]
+        event_titles_map[event_id] = event_name
+
+def home(request):
+    return render(request, 'frontsearch.html')
+
+def recommendations(request):
+    if request.method == 'POST':
+        # Get user input from the form
+        active_client = int(request.POST.get('client_id'))
+        K = int(request.POST.get('k'))
+
+        # Get recommendations from the model
+        recommended_events = model[active_client][:K]
+
+        # Render the recommendations template with the recommended events
+        return render(request, 'recommendations.html', {'recommended_events': recommended_events, 'event_titles_map': event_titles_map})
+    else:
+        return HttpResponse("Method not allowed")

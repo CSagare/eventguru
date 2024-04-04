@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'authuser',
     'event',
     'dash',
+    'recommendations',
+
 ]
 
 MIDDLEWARE = [

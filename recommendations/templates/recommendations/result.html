@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- recommendations/templates/recommendations/result.html -->
+
+<h1>Hybrid Recommendations:</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Rank</th>
+            <th>Event ID</th>
+            <th>Planners</th>
+            <th>Location</th>
+            <th>Price</th>
+            <th>Rating</th>
+            <th>Services</th>
+            <th>Vote Count</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for recommendation in recommendations %}
+        <tr>
+            <td>{{ recommendation.rank }}</td>
+            <td>{{ recommendation.event_id }}</td>
+            <td>{{ recommendation.planners }}</td>
+            <td>{{ recommendation.location }}</td>
+            <td>{{ recommendation.price }}</td>
+            <td>{{ recommendation.rating }}</td>
+            <td>{{ recommendation.services }}</td>
+            <td>{{ recommendation.vote_count }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+</body>
+</html>

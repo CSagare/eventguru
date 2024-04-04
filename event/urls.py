@@ -13,6 +13,8 @@ urlpatterns = [
     path('about',views.about,name='about'),
     path('defaults/<int:event_id>/', views.defaults, name='defaults'),
     path('planner/search/', views.search, name='planner_search'),
+    path('show', views.home, name='show'),
+    path('recommendations', views.recommendations, name='recommendations'),
 
 ]
 

@@ -1,0 +1,31 @@
+<!-- recommendations/templates/recommendations/index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ <!-- search_form.html -->
+<form method="post">
+    {% csrf_token %}
+    <input type="text" name="keywords" placeholder="Enter keywords separated by spaces">
+    <button type="submit">Search</button>
+</form>
+<!-- recommendations/templates/recommendations/index.html -->
+
+<form method="post">
+    {% csrf_token %}
+    User ID: <input type="text" name="user_id"><br>
+    Keyword 1: <input type="text" name="keyword1"><br>
+    Keyword 2: <input type="text" name="keyword2"><br>
+    Keyword 3: <input type="text" name="keyword3"><br>
+    Keyword 4: <input type="text" name="keyword4"><br>
+    <input type="submit" value="Get Recommendations">
+</form>
+
+    
+</body>
+</html>

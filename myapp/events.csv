@@ -1,0 +1,1505 @@
+event_id,user_id,start_time,planners,location,price,rating,services,Prop-writer,recommended,vote_count,popularity
+684921758,3647864012,2012-10-31T00:00:00.001Z,Angela Pvt Ltd,kathmandu,high,3.5,Weddings,Harvey,1,11800,150.437577
+244999119,3476440521,2012-11-03T00:00:00.001Z,Larry Pvt Ltd,chitwan,medium,4,Private Parties,Angela,1,4500,139.082615
+3928440935,517514445,2012-11-05T00:00:00.001Z,Louise Pvt Ltd,birgung,low,4.5,Corporate Events,Larry,1,4466,107.376788
+2582345152,781585781,2012-10-30T00:00:00.001Z,Benjamin Pvt Ltd,chitwan,high,4,Weddings,Louise,1,9106,112.31295
+1051165850,1016098580,2012-09-27T00:00:00.001Z,Joanne Pvt Ltd,parsa,low,3.5,Weddings,Benjamin,0,2124,43.926995
+1212611096,1426522332,2012-11-16T00:00:00.001Z,Arthur Pvt Ltd,balglung,medium,3.5,Private Parties,Joanne,1,3576,115.699814
+3689283674,725266702,2012-11-02T20:00:00.003Z,Sharon Pvt Ltd,hetauda,high,4,Corporate Events,Arthur,1,3330,48.681969
+2584113432,613687941,2012-10-31T00:00:00.001Z,Eric Pvt Ltd,lalitpur,medium,4.5,Weddings,Sharon,0,6767,134.279229
+3365728297,1098509207,2012-10-31T00:00:00.001Z,Jeremy Pvt Ltd,bara,low,3.4,Weddings,Eric,1,5293,98.885637
+2912638473,3598071768,2012-10-18T00:00:00.001Z,Margaret Pvt Ltd,japan,high,3.5,Private Parties,Jeremy,0,7004,155.790452
+1609864127,4252244266,2012-11-06T22:40:00.003Z,Brian Pvt Ltd,india,low,4.2,Corporate Events,Margaret,0,1400,57.925623
+1304227508,4083498051,2012-08-31T00:00:00.001Z,David Pvt Ltd,china,medium,4.1,Weddings,Brian,1,2965,107.928811
+2608543989,711497121,2012-11-12T17:00:00.003Z,William Pvt Ltd,galgi,high,3.5,Weddings,David,1,5246,145.847379
+298169907,1020819241,2012-12-01T00:00:00.001Z,Lori Pvt Ltd,galli,medium,4,Private Parties,William,0,2311,49.046956
+2953099360,881617516,2012-08-26T17:00:00.003Z,Christopher Pvt Ltd,nepalgung,low,4.5,Corporate Events,Lori,1,6359,99.398009
+615449287,3832426265,2012-08-31T00:00:00.001Z,Margaret Pvt Ltd,sira,high,4,Weddings,Christopher,0,1630,53.978602
+1922719636,4185999054,2012-10-31T00:00:00.001Z,Gary Pvt Ltd,bardibas,low,3.5,Weddings,Margaret,0,11776,144.448633
+1261820355,1240515743,2012-11-08T00:00:00.001Z,David Pvt Ltd,mugu,medium,3.5,Private Parties,Gary,1,4948,135.413856
+2773204108,1999363021,2012-11-16T20:00:00.002Z,Cheryl Pvt Ltd,jumla,high,4,Corporate Events,David,0,4160,52.035179
+2285783902,44098316,2012-09-28T00:00:00.001Z,Sharon Pvt Ltd,humla,medium,4.5,Weddings,Cheryl,1,4760,120.965743
+1873976153,1918590410,2012-09-30T00:00:00.001Z,Lois Pvt Ltd,mustang,low,3.4,Weddings,Sharon,0,6586,89.866276
+1820269907,1768539776,2012-10-23T00:00:00.001Z,Clifford Pvt Ltd,pokhara,high,3.5,Private Parties,Lois,1,1398,37.668301
+1929622843,4235478695,2012-11-08T00:00:00.001Z,Donald Pvt Ltd,nepalgung,low,4.2,Corporate Events,Clifford,0,4524,94.370564
+2312158323,3324266513,2012-10-05T00:00:00.001Z,Michael Pvt Ltd,sira,medium,4.1,Weddings,Donald,1,1303,42.990906
+1091130052,3686526729,2012-10-04T00:00:00.001Z,Richard Pvt Ltd,bardibas,high,3.5,Weddings,Michael,0,2337,61.22601
+1888241344,4120508790,2012-10-31T00:00:00.001Z,Ralph Pvt Ltd,mugu,medium,4,Private Parties,Richard,1,7562,100.025899
+3436633625,3214543653,2012-09-27T02:00:00.003Z,Donna Pvt Ltd,jumla,low,4.5,Corporate Events,Ralph,0,7241,198.372395
+1511862915,813883609,2012-11-04T00:00:00.001Z,Danny Pvt Ltd,humla,high,4,Weddings,Donna,1,2114,64.928382
+3980763324,375876914,2012-10-31T00:00:00.001Z,Emily Pvt Ltd,mustang,low,3.5,Weddings,Danny,1,8662,418.708552
+2259674237,1065410499,2012-09-30T00:00:00.001Z,Albert Pvt Ltd,pokhara,medium,3.5,Private Parties,Emily,1,7604,93.004993
+104397174,1900245709,2012-11-09T00:00:00.001Z,Melvin Pvt Ltd,nepalgung,high,3,Corporate Events,Albert,1,4321,35.149586
+2352676247,2939696577,2012-11-04T00:00:00.001Z,Nicholas Pvt Ltd,sira,medium,4.5,Weddings,Melvin,0,8806,77.68208
+163395593,934253914,2012-10-31T00:00:00.001Z,Teresa Pvt Ltd,bardibas,low,3.4,Awards events,Nicholas,0,4645,78.530105
+268215542,1733069841,2012-10-29T00:00:00.001Z,Timothy Pvt Ltd,mugu,high,3.5,Awards events,Teresa,0,3525,3.857526
+4202927804,1905079423,2012-10-20T00:00:00.001Z,Cynthia Pvt Ltd,jumla,low,4.2,Awards events,Timothy,1,3528,89.186492
+40348900,2746451489,2012-10-29T00:00:00.001Z,Timothy Pvt Ltd,humla,medium,4.1,Weddings,Cynthia,1,3138,21.939663
+940258698,2305902318,2012-10-04T00:00:00.001Z,Cynthia Pvt Ltd,mustang,high,3,Private Parties,Timothy,1,3095,116.840296
+3154390339,1055441237,2012-10-01T00:00:00.001Z,Julie Pvt Ltd,pokhara,medium,3.5,Corporate Events,Cynthia,1,3530,46.985445
+3685386977,3344985936,2012-08-31T00:00:00.001Z,Arthur Pvt Ltd,kalikot,low,4,Weddings,Julie,0,4179,89.270217
+31247346,641912619,2012-11-18T06:00:00.003Z,Richard Pvt Ltd,sunsari,high,4.5,Weddings,Arthur,1,2841,73.79505
+2587616435,3053278014,2012-11-13T11:00:00.002Z,Larry Pvt Ltd,Kampot,low,4,Private Parties,Richard,1,2033,49.98659
+4219761316,1434745018,2012-10-30T00:00:00.001Z,Joseph Pvt Ltd,kathmandu,medium,3.5,Corporate Events,Larry,1,2487,51.872839
+297856962,3026659950,2012-10-21T00:00:00.001Z,Edward Pvt Ltd,chitwan,high,3.5,Weddings,Joseph,1,4597,59.995418
+3191079645,1018564374,2012-11-19T04:00:00.003Z,Jeffrey Pvt Ltd,birgung,medium,4,Weddings,Edward,1,2463,71.862892
+4057770067,1388567623,2012-10-02T00:00:00.001Z,Rudolph Pvt Ltd,chitwan,low,4.5,Private Parties,Jeffrey,1,4176,102.322217
+4004496621,3076890398,2012-10-21T00:00:00.001Z,Paul Pvt Ltd,parsa,high,3.4,Corporate Events,Rudolph,1,5560,81.834855
+739705932,4235478695,2012-10-31T00:00:00.001Z,Robert Pvt Ltd,balglung,low,3.5,Weddings,Paul,0,6032,118.078691
+2219919748,657882633,2012-08-28T00:00:00.001Z,Victor Pvt Ltd,hetauda,medium,4.2,Weddings,Robert,1,4418,78.291018
+2998372996,208532117,2012-10-30T00:00:00.001Z,Andrew Pvt Ltd,lalitpur,high,4.1,Private Parties,Victor,1,2598,43.349855
+920467258,1733069841,2012-10-28T00:00:00.001Z,Tina Pvt Ltd,bara,medium,3.5,Corporate Events,Andrew,0,3769,61.196071
+3555202073,3029409500,2012-11-09T00:00:00.001Z,Robert Pvt Ltd,japan,low,4,Weddings,Tina,1,2317,62.169881
+1145166049,2509951454,2013-07-08T02:00:00.000Z,William Pvt Ltd,india,high,4.5,Weddings,Robert,0,4794,56.523205
+895832538,4185863978,2012-08-31T00:00:00.001Z,Charles Pvt Ltd,china,low,4,Private Parties,William,0,3299,28.529607
+2828937719,941664829,2012-10-27T12:45:00.003Z,Robert Pvt Ltd,galgi,medium,3.5,Corporate Events,Charles,1,2495,75.674458
+2165261948,911998654,2012-10-31T00:00:00.001Z,Andre Pvt Ltd,galli,high,3.5,Weddings,Robert,1,1736,51.692953
+1081122807,2560826107,2012-10-28T17:00:00.003Z,Ian Pvt Ltd,nepalgung,medium,4,Weddings,Andre,0,4641,125.114374
+3161434996,1817277614,2012-08-31T09:00:00.000Z,David Pvt Ltd,sira,low,4.5,Private Parties,Ian,1,2568,65.352913
+905503405,3954474781,2012-10-31T00:00:00.001Z,Carlos Pvt Ltd,bardibas,high,3.4,Corporate Events,David,0,6296,66.390712
+3028497756,2579961268,2012-11-20T01:00:00.003Z,Gerald Pvt Ltd,mugu,low,3.5,Weddings,Carlos,0,783,22.57178
+2243576360,3271102461,2012-10-13T00:00:00.001Z,Ricky Pvt Ltd,jumla,medium,4.2,Weddings,Gerald,1,4903,45.274225
+3950286482,415464198,2012-10-31T22:00:00.002Z,Ken Pvt Ltd,humla,high,4.1,Private Parties,Ricky,0,1095,39.744242
+2311647821,2597689396,2012-10-26T00:00:00.001Z,Charles Pvt Ltd,mustang,medium,3.5,Corporate Events,Ken,1,2768,85.36908
+2038082048,3642324803,2012-11-04T00:00:00.001Z,Charles Pvt Ltd,pokhara,low,4,Weddings,Charles,0,2430,42.741719
+679148240,3975206093,2012-10-31T00:00:00.001Z,John Pvt Ltd,nepalgung,high,4.5,Weddings,Charles,1,2629,67.391328
+2439597708,708665138,2012-10-04T09:30:00.003Z,Sheila Pvt Ltd,sira,low,4,Private Parties,John,0,4721,139.272042
+735593165,1007347480,2012-12-10T00:00:00.001Z,William Pvt Ltd,bardibas,medium,3.5,Corporate Events,Sheila,1,12002,187.322927
+2126750158,3137081969,2012-10-08T00:00:00.001Z,James Pvt Ltd,mugu,high,3.5,Weddings,William,0,6870,92.201962
+3611263082,1294698325,2012-10-30T00:00:00.001Z,Michael Pvt Ltd,jumla,medium,3,Awards events,James,1,1423,36.167578
+963138294,4150140610,2012-08-14T20:00:00.000Z,David Pvt Ltd,humla,low,4.5,Weddings,Michael,0,8776,120.725053
+2622371373,3647864012,2012-11-23T13:10:00.003Z,Maya Pvt Ltd,mustang,high,3.4,Private Parties,David,1,2141,32.319043
+732997628,3476440521,2012-11-01T16:30:00.002Z,Boris Pvt Ltd,pokhara,low,3.5,Corporate Events,Maya,1,1020,40.748915
+4216192606,517514445,2012-10-29T00:00:00.001Z,Fess Pvt Ltd,nepalgung,medium,4.2,Weddings,Boris,1,1387,60.034162
+2569196977,781585781,2012-11-13T00:00:00.001Z,Jody Pvt Ltd,sira,high,4.1,Weddings,Fess,1,7458,90.23792
+2313587840,1016098580,2012-10-31T00:00:00.001Z,Barbara Pvt Ltd,bardibas,medium,3,Private Parties,Jody,0,1151,27.082182
+920600431,1426522332,2012-07-29T19:00:00.000Z,Christopher Pvt Ltd,mugu,low,3.5,Corporate Events,Barbara,0,4858,79.456485
+2821117540,725266702,2012-12-01T23:00:00.003Z,Robert Pvt Ltd,jumla,high,4,Weddings,Christopher,0,992,44.640292
+3212079634,613687941,2012-10-04T00:30:00.002Z,Scott Pvt Ltd,humla,low,4.5,Weddings,Robert,1,1962,32.852443
+4145665238,1098509207,2012-07-11T02:00:00.000Z,Clarence Pvt Ltd,mustang,medium,4,Private Parties,Scott,1,6560,128.655964
+754216076,3598071768,2012-10-28T00:00:00.001Z,Anthony Pvt Ltd,pokhara,high,3.5,Corporate Events,Clarence,1,2892,94.199316
+1555919109,4252244266,2012-11-12T00:00:00.001Z,Ralph Pvt Ltd,kalikot,medium,3.5,Weddings,Anthony,1,6849,77.300194
+524691289,4083498051,2012-11-09T00:00:00.001Z,Richard Pvt Ltd,sunsari,low,4,Weddings,Ralph,0,3118,77.178973
+3618436742,711497121,2012-10-02T17:00:00.003Z,Karen Pvt Ltd,Kampot,high,4.5,Private Parties,Richard,1,4496,110.620647
+4055349094,1020819241,2012-10-27T00:00:00.001Z,The Powerpuff Girls Pvt Ltd,kathmandu,low,3.4,Corporate Events,Karen,1,4410,243.791743
+3657281130,881617516,2012-09-15T17:00:00.003Z,Elfen Pvt Ltd,chitwan,medium,3.5,Weddings,The Powerpuff Girls,1,34,2.418535
+3406775761,3832426265,2012-10-31T00:00:00.001Z,Chen Pvt Ltd,birgung,high,4.2,Weddings,Elfen,1,1326,41.796339
+1107859556,4185999054,2012-10-08T18:10:00.003Z,Matt Pvt Ltd,chitwan,medium,4.1,Private Parties,Chen,1,5764,72.225265
+183285682,1240515743,2012-09-24T00:00:00.001Z,Sharon Pvt Ltd,parsa,low,3.5,Corporate Events,Matt,1,1959,44.041186
+2042697619,1999363021,2012-08-27T22:00:00.003Z,John Pvt Ltd,balglung,high,4,Weddings,Sharon,1,2846,130.311355
+1769821149,44098316,2012-10-29T00:00:00.001Z,The Lemon Drop Kid Pvt Ltd,hetauda,low,4.5,Weddings,John,0,6135,203.73459
+3323980704,1918590410,2012-10-31T00:00:00.001Z,Michael Pvt Ltd,lalitpur,medium,4,Private Parties,The Lemon Drop Kid,1,4570,62.341073
+2915353594,1768539776,2012-11-05T17:10:00.003Z,ECW Pvt Ltd,bara,high,3.5,Corporate Events,Michael,1,1474,47.323228
+2508555495,4235478695,2012-10-26T00:00:00.001Z,They Pvt Ltd,japan,medium,3.5,Weddings,ECW,0,2491,48.775723
+3349548561,3324266513,2012-10-29T00:00:00.001Z,G3 Pvt Ltd,india,low,4,Weddings,They,1,4227,67.263269
+1801869689,3686526729,2012-11-01T02:00:00.003Z,Dona Pvt Ltd,china,high,4.5,Private Parties,G3,0,2143,69.405188
+2922265580,4120508790,2012-10-04T00:00:00.001Z,Inside Pvt Ltd,galgi,low,3.4,Corporate Events,Dona,0,9742,481.098624
+2860184053,3214543653,2012-11-07T18:00:00.003Z,Mostly Pvt Ltd,galli,medium,3.5,Weddings,Inside,1,10867,724.247784
+2428635671,813883609,2012-11-06T00:00:00.001Z,The Battle of Algiers Pvt Ltd,nepalgung,high,4.2,Weddings,Mostly,1,13752,167.58371
+2636581520,375876914,2012-10-26T00:00:00.001Z,Kenny Pvt Ltd,sira,medium,4.1,Private Parties,The Battle of Algiers,0,143,9.476999
+2305935776,1065410499,2012-10-29T00:00:00.001Z,Sam Pvt Ltd,bardibas,low,3.5,Corporate Events,Kenny,1,8297,108.849621
+1660818988,1900245709,2012-07-11T02:00:00.000Z,Lawrence Pvt Ltd,mugu,high,4,Weddings,Sam,0,3428,6.909942
+3563682200,2939696577,2012-11-14T00:00:00.001Z,Sara Pvt Ltd,jumla,low,4.5,Awards events,Lawrence,0,3292,60.269279
+4088563716,934253914,2012-10-21T00:00:00.001Z,Tracy Pvt Ltd,humla,medium,4,Weddings,Sara,1,5181,3.195174
+2863236195,1733069841,2012-11-06T00:00:00.001Z,Shirley Pvt Ltd,mustang,high,3.5,Private Parties,Tracy,0,3984,127.284427
+3488564904,1905079423,2012-10-31T00:00:00.001Z,Olivia Pvt Ltd,pokhara,medium,3.5,Corporate Events,Shirley,1,1470,35.580815
+2129139974,2746451489,2012-10-25T00:00:00.002Z,Steven Pvt Ltd,nepalgung,low,3,Weddings,Olivia,0,583,21.133748
+3684195312,2305902318,2012-10-27T00:00:00.001Z,Maggie Pvt Ltd,sira,high,4.5,Weddings,Steven,1,1725,56.268916
+3213836603,1055441237,2012-10-31T00:00:00.001Z,Sam Pvt Ltd,bardibas,low,3.4,Private Parties,Maggie,0,2278,42.986467
+3933213847,3344985936,2012-11-12T00:00:00.001Z,Nora Pvt Ltd,mugu,medium,3.5,Corporate Events,Sam,1,2268,63.148529
+3446902030,641912619,2012-11-29T12:00:00.003Z,Douglas Pvt Ltd,jumla,high,4.2,Weddings,Nora,0,3631,202.042635
+4106103231,3053278014,2012-10-30T06:30:00.003Z,Benjamin Pvt Ltd,humla,medium,4.1,Weddings,Douglas,1,1514,49.661984
+3472605389,1434745018,2012-10-21T00:00:00.001Z,Victoria Pvt Ltd,mustang,low,3,Private Parties,Benjamin,0,1791,34.20669
+4246557753,3026659950,2012-11-07T11:50:00.003Z,Bruce Pvt Ltd,pokhara,high,3.5,Corporate Events,Victoria,1,4040,25.468493
+3602808603,1018564374,2012-10-05T00:00:00.001Z,Dominion Tank Police Pvt Ltd,nepalgung,low,4,Weddings,Bruce,1,927,39.019229
+119933342,1388567623,2012-11-01T10:00:00.002Z,Peter Pvt Ltd,sira,medium,4.5,Weddings,Dominion Tank Police,1,5494,78.144395
+1711893150,3076890398,2012-10-28T00:00:00.001Z,Pedro Pvt Ltd,bardibas,high,4,Private Parties,Peter,1,5608,101.250416
+2828744482,4235478695,2012-08-30T00:00:00.001Z,Melanie Pvt Ltd,mugu,medium,3.5,Corporate Events,Pedro,0,2961,56.758411
+1627031750,657882633,2012-10-01T00:00:00.001Z,John Pvt Ltd,jumla,low,3.5,Weddings,Melanie,0,4853,70.867401
+3256763267,208532117,2012-10-24T00:00:00.001Z,Travel the World by Train Pvt Ltd,humla,high,4,Weddings,John,0,3624,53.905592
+545994124,1733069841,2012-11-30T00:00:00.001Z,Daniel Pvt Ltd,mustang,low,4.5,Private Parties,Travel the World by Train,1,4369,65.677399
+1162247222,3029409500,2012-09-29T00:00:00.001Z,Beyonce Pvt Ltd,pokhara,medium,3.4,Corporate Events,Daniel,1,7359,115.040024
+2105535604,2509951454,2012-11-28T21:00:00.003Z,Cube Pvt Ltd,kalikot,high,3.5,Weddings,Beyonce,1,1810,44.141021
+2682191451,4185863978,2012-11-20T00:00:00.001Z,Chain of Fools Pvt Ltd,sunsari,medium,4.2,Weddings,Cube,1,1971,81.781591
+1649886205,941664829,2012-12-09T14:00:00.003Z,Cold Blooded Pvt Ltd,Kampot,low,4.1,Private Parties,Chain of Fools,0,4021,5.954334
+2455742965,911998654,2012-10-30T00:00:00.001Z,Nighthawks Pvt Ltd,kathmandu,high,3.5,Corporate Events,Cold Blooded,1,3096,73.313918
+4174222591,2560826107,2012-08-30T00:00:00.001Z,Vampire Effect Pvt Ltd,chitwan,low,4,Weddings,Nighthawks,1,5295,165.125366
+119750609,1817277614,2012-11-15T00:00:00.001Z,Fatal Beauty Pvt Ltd,birgung,medium,4.5,Weddings,Vampire Effect,1,3443,70.78591
+2158886392,3954474781,2012-10-05T00:00:00.001Z,Mr. Vampire Pvt Ltd,chitwan,high,4,Private Parties,Fatal Beauty,1,4755,99.499595
+2054163586,2579961268,2012-07-03T11:00:00.000Z,Darkwolf Pvt Ltd,parsa,medium,3.5,Corporate Events,Mr. Vampire,1,9427,434.278564
+2575352938,3271102461,2012-10-30T00:00:00.001Z,Drowning on Dry Land Pvt Ltd,balglung,low,3.5,Weddings,Darkwolf,1,2129,67.447636
+46300535,415464198,2012-10-29T00:00:00.001Z,Arachnid Pvt Ltd,hetauda,high,4,Weddings,Drowning on Dry Land,1,6525,86.493424
+3759330615,2597689396,2012-10-09T00:00:00.001Z,Lucio Fulci Pvt Ltd,lalitpur,low,4.5,Private Parties,Arachnid,0,1750,41.845878
+30650936,3642324803,2012-10-05T00:00:00.001Z,Viva La Bam Pvt Ltd,bara,medium,3.4,Corporate Events,Lucio Fulci,1,510,26.710398
+18463055,3975206093,2012-09-27T00:00:00.001Z,Spirit Lost Pvt Ltd,japan,high,3.5,Weddings,Viva La Bam,1,1431,44.927635
+2071837302,708665138,2012-10-31T00:00:00.001Z,GTO: Great Teacher Onizuka Pvt Ltd,india,medium,4.2,Awards events,Spirit Lost,0,2320,50.306728
+3900421971,1007347480,2012-07-10T13:00:00.000Z,Cat and the Canary Pvt Ltd,china,low,4.1,Weddings,GTO: Great Teacher Onizuka,1,3224,114.522237
+1810747729,3137081969,2012-11-22T15:00:00.003Z,Naked Lies Pvt Ltd,galgi,high,3.5,Private Parties,Cat and the Canary,0,549,21.214571
+3392552803,1294698325,2012-10-30T00:00:00.001Z,Star Trek: Voyager Pvt Ltd,galli,low,4,Corporate Events,Naked Lies,0,1171,29.332905
+1769487166,4150140610,2012-10-30T00:00:00.001Z,Allergies: A Natural Approach Pvt Ltd,nepalgung,medium,4.5,Weddings,Star Trek: Voyager,1,1880,51.247321
+3162166853,3647864012,2012-10-13T01:20:00.003Z,Lost in the Wild Pvt Ltd,sira,high,4,Weddings,Allergies: A Natural Approach,1,1151,33.769336
+536059045,3476440521,2012-09-28T00:00:00.001Z,Goddess of Mercy Pvt Ltd,bardibas,medium,3.5,Private Parties,Lost in the Wild,0,2028,63.079003
+3507025494,517514445,2012-08-09T02:00:00.000Z,The Tricky Master Pvt Ltd,mugu,low,3.5,Corporate Events,Goddess of Mercy,1,1891,39.004588
+3123670463,781585781,2012-10-29T07:00:00.003Z,The Game Pvt Ltd,jumla,high,3,Weddings,The Tricky Master,0,199,12.362599
+3884118877,1016098580,2012-08-31T00:00:00.001Z,Deepak Chopra Pvt Ltd,humla,low,4.5,Weddings,The Game,0,874,22.550135
+2892367012,1426522332,2012-10-04T00:00:00.001Z,Get Out Your Handkerchiefs Pvt Ltd,mustang,medium,3.4,Private Parties,Deepak Chopra,1,954,48.03528
+1991264807,725266702,2012-10-31T00:00:00.001Z,Cannibal Women in the Avocado Jungle of Death Pvt Ltd,pokhara,high,3.5,Corporate Events,Get Out Your Handkerchiefs,0,843,38.73494
+2658555390,613687941,2012-11-28T00:00:00.001Z,Where Sleeping Dogs Lie Pvt Ltd,nepalgung,medium,4.2,Weddings,Cannibal Women in the Avocado Jungle of Death,1,2759,66.803149
+666088517,1098509207,2012-11-04T00:00:00.001Z,Sweet November Pvt Ltd,sira,low,4.1,Weddings,Where Sleeping Dogs Lie,0,1808,44.989192
+3124812840,3598071768,2012-10-26T00:00:00.002Z,The Edward R. Murrow Collection Pvt Ltd,bardibas,high,3,Private Parties,Sweet November,1,1092,54.159392
+2191612778,4252244266,2012-11-12T00:00:00.001Z,Firetrap Pvt Ltd,mugu,low,3.5,Corporate Events,The Edward R. Murrow Collection,0,2142,66.21806
+2863707763,4083498051,2012-10-26T00:00:00.001Z,Sleepover Nightmare Pvt Ltd,jumla,medium,4,Weddings,Firetrap,1,2482,58.485967
+1830089924,711497121,2012-08-08T04:30:00.000Z,A Little Princess Pvt Ltd,humla,high,4.5,Weddings,Sleepover Nightmare,0,3114,91.332849
+1885776015,1020819241,2012-08-31T00:00:00.001Z,MTV Yoga Pvt Ltd,mustang,medium,4,Private Parties,A Little Princess,1,841,35.601665
+1819075340,881617516,2012-11-04T00:00:00.001Z,Demon Warrior Koji Pvt Ltd,pokhara,low,3.5,Corporate Events,MTV Yoga,0,1603,56.747978
+1629566665,3832426265,2012-09-19T00:00:00.001Z,The Strongest Man in the World Pvt Ltd,nepalgung,high,3.5,Weddings,Demon Warrior Koji,1,3972,77.77477
+4193497268,4185999054,2012-10-15T00:00:00.001Z,Husbands and Wives Pvt Ltd,sira,low,4,Weddings,The Strongest Man in the World,1,1922,61.788035
+1343362100,1240515743,2012-10-16T01:00:00.003Z,Laird: White Knuckle Extreme Pvt Ltd,bardibas,medium,4.5,Private Parties,Husbands and Wives,1,627,25.159168
+3580637647,1999363021,2012-10-22T10:00:00.003Z,A Killer Within Pvt Ltd,mugu,high,3.4,Corporate Events,Laird: White Knuckle Extreme,1,1895,52.341226
+332209679,44098316,2012-10-30T00:00:00.001Z,Gentlemen of Fortune Pvt Ltd,jumla,medium,3.5,Weddings,A Killer Within,0,1921,101.599427
+1599219405,1918590410,2012-10-08T02:00:00.003Z,Gormenghast Pvt Ltd,humla,low,4.2,Weddings,Gentlemen of Fortune,0,4518,73.616808
+4215686475,1768539776,2012-11-04T00:00:00.001Z,Ninotchka Pvt Ltd,mustang,high,4.1,Private Parties,Gormenghast,0,5265,82.502566
+2285108120,4235478695,2012-10-30T00:00:00.001Z,John Cleese on How to Irritate People Pvt Ltd,pokhara,low,3.5,Corporate Events,Ninotchka,1,3106,100.21391
+3757350352,3324266513,2012-09-30T17:00:00.003Z,MTV: Making the Band 2 Pvt Ltd,kalikot,medium,4,Weddings,John Cleese on How to Irritate People,1,1277,56.257249
+1366554501,3686526729,2012-08-03T03:00:00.000Z,One Last Dance Pvt Ltd,sunsari,high,4.5,Weddings,MTV: Making the Band 2,1,331,17.88953
+4285155515,4120508790,2012-10-27T00:00:00.001Z,Richard Pryor: Live on the Sunset Strip Pvt Ltd,Kampot,medium,4,Private Parties,One Last Dance,1,2811,64.798873
+2422810156,3214543653,2012-12-13T11:30:00.002Z,Fame Pvt Ltd,kathmandu,low,3.5,Corporate Events,Richard Pryor: Live on the Sunset Strip,0,767,24.855701
+218126976,813883609,2012-10-29T00:00:00.001Z,The Chorus Pvt Ltd,chitwan,high,3.5,Weddings,Fame,1,1533,34.981698
+2885716123,375876914,2012-12-14T00:00:00.001Z,Smokey and the Bandit Pvt Ltd,birgung,low,4,Awards events,The Chorus,1,3025,59.325589
+472699259,1065410499,2012-11-11T14:00:00.003Z,Cartoon Network Halloween: 9 Creepy Cartoon Capers Pvt Ltd,chitwan,medium,4.5,Weddings,Smokey and the Bandit,1,434,21.605568
+1095858231,1900245709,2012-11-09T00:00:00.001Z,Tomorrow Pvt Ltd,parsa,high,3.4,Private Parties,Cartoon Network Halloween: 9 Creepy Cartoon Capers,1,433,26.074908
+1455527953,2939696577,2012-10-30T00:00:00.001Z,Funny Face Pvt Ltd,balglung,medium,3.5,Corporate Events,Tomorrow,1,7047,74.506246
+546889678,934253914,2012-10-31T00:00:00.001Z,Jack Pvt Ltd,hetauda,low,4.2,Weddings,Funny Face,1,862,39.604363
+1364538695,1733069841,2012-10-05T00:00:00.001Z,The Devil's Brigade Pvt Ltd,lalitpur,high,4.1,Weddings,Jack,1,790,36.973031
+4163453351,1905079423,2012-11-10T00:00:00.001Z,Adam-12 Pvt Ltd,bara,low,3.5,Private Parties,The Devil's Brigade,0,2553,99.687084
+3703612480,2746451489,2012-11-05T00:00:00.001Z,Reservoir Dogs Pvt Ltd,japan,medium,4,Corporate Events,Adam-12,1,373,17.7735
+3716036142,2305902318,2012-08-31T00:00:00.001Z,The History Channel Presents: Troy Pvt Ltd,india,high,4.5,Weddings,Reservoir Dogs,1,3021,62.898336
+590379964,1055441237,2012-10-24T00:00:00.001Z,Pressure Pvt Ltd,china,medium,4,Weddings,The History Channel Presents: Troy,0,1000,44.19092
+1670529571,3344985936,2012-11-20T21:00:00.002Z,Regular Guys Pvt Ltd,galgi,low,3.5,Private Parties,Pressure,1,6396,100.635882
+1553171836,641912619,2012-09-25T00:00:00.001Z,Bollywood Bound Pvt Ltd,galli,high,3.5,Corporate Events,Regular Guys,0,1074,44.765377
+1924180022,3053278014,2012-11-11T20:00:00.003Z,Scratch Pvt Ltd,nepalgung,low,3,Weddings,Bollywood Bound,0,2051,29.91353
+570436992,1434745018,2012-11-14T00:00:00.001Z,The Last Shot Pvt Ltd,sira,medium,4.5,Weddings,Scratch,1,1346,84.366984
+2789589094,3026659950,2012-10-19T00:00:00.001Z,Moby Pvt Ltd,bardibas,high,3.4,Private Parties,The Last Shot,1,2888,45.381501
+2005050320,1018564374,2012-11-08T00:00:00.001Z,IFilm: Deranged Pvt Ltd,mugu,high,3.5,Corporate Events,Moby,0,3145,84.689648
+3088405938,1388567623,2012-09-24T00:00:00.001Z,Billy Blanks: Tae Bo: Cardio Circuit 1 Pvt Ltd,jumla,medium,4.2,Weddings,IFilm: Deranged,1,5880,120.09361
+620931168,3076890398,2012-10-03T21:00:00.003Z,Missing in Action Pvt Ltd,humla,low,4.1,Weddings,Billy Blanks: Tae Bo: Cardio Circuit 1,0,6495,76.310119
+3384785057,4235478695,2012-10-31T00:00:00.001Z,Panic in the Streets Pvt Ltd,mustang,high,3,Private Parties,Missing in Action,0,1519,63.473086
+2409076523,657882633,2012-10-31T00:00:00.001Z,Death to Smoochy Pvt Ltd,pokhara,low,3.5,Corporate Events,Panic in the Streets,1,2322,48.572726
+2305488974,208532117,2012-08-31T00:00:00.001Z,Dead Birds Pvt Ltd,nepalgung,medium,4,Weddings,Death to Smoochy,0,1564,38.068736
+937369584,1733069841,2012-09-03T00:00:00.001Z,Airplane II: The Sequel Pvt Ltd,sira,high,4.5,Weddings,Dead Birds,1,451,20.678787
+1012343640,3029409500,2012-11-23T00:00:00.002Z,Blood and Sand Pvt Ltd,bardibas,medium,4,Private Parties,Airplane II: The Sequel,0,2093,48.829437
+1194159142,2509951454,2012-10-29T00:00:00.001Z,X2: X-Men United Pvt Ltd,mugu,low,3.5,Corporate Events,Blood and Sand,1,2350,46.115758
+1144728004,4185863978,2012-10-31T00:00:00.001Z,The SoulTaker Pvt Ltd,jumla,high,3.5,Weddings,X2: X-Men United,0,2061,89.938296
+2513953842,941664829,2012-10-31T20:00:00.002Z,Marilyn Manson: Fear of a Satanic Planet Pvt Ltd,humla,low,4,Weddings,The SoulTaker,1,5877,79.679601
+4142633382,911998654,2012-11-01T03:00:00.003Z,Arliss: The Best of Arliss Pvt Ltd,mustang,medium,4.5,Private Parties,Marilyn Manson: Fear of a Satanic Planet,0,694,28.840997
+533528858,2560826107,2012-11-10T00:00:00.001Z,Chasing Freedom Pvt Ltd,pokhara,high,3.4,Corporate Events,Arliss: The Best of Arliss,1,2532,42.840582
+1303299495,1817277614,2012-10-30T00:00:00.001Z,Peter Tosh: Stepping Razor: Red X Pvt Ltd,nepalgung,medium,3.5,Weddings,Chasing Freedom,0,542,26.548594
+1927107595,3954474781,2012-08-31T00:00:00.001Z,Taking Lives Pvt Ltd,sira,low,4.2,Weddings,Peter Tosh: Stepping Razor: Red X,1,1851,115.597753
+1430932461,2579961268,2012-10-09T14:30:00.003Z,Gupt Pvt Ltd,bardibas,high,4.1,Private Parties,Taking Lives,1,1918,68.757242
+1610359399,3271102461,2012-11-07T00:00:00.001Z,The Deer Hunter Pvt Ltd,mugu,low,3.5,Corporate Events,Gupt,1,7006,109.984351
+519705421,415464198,2012-10-20T00:00:00.001Z,The Fall of the Roman Empire Pvt Ltd,jumla,medium,4,Weddings,The Deer Hunter,1,1260,39.448066
+2401113510,2597689396,2012-07-29T19:00:00.000Z,Jason Pvt Ltd,humla,high,4.5,Awards events,The Fall of the Roman Empire,0,6985,271.972889
+3060412046,3642324803,2012-10-31T00:00:00.001Z,Erica Pvt Ltd,mustang,medium,4,Weddings,Jason,0,5584,206.227151
+18690082,3975206093,2012-10-16T01:05:00.003Z,Kevin Pvt Ltd,pokhara,low,3.5,Private Parties,Erica,0,2704,45.313197
+811345080,708665138,2012-11-07T13:00:00.003Z,Diana Pvt Ltd,kalikot,high,3.5,Corporate Events,Kevin,1,978,42.40024
+373308576,1007347480,2012-10-22T00:00:00.001Z,Brian Pvt Ltd,sunsari,low,4,Weddings,Diana,1,3506,2.871739
+1957749285,3137081969,2012-08-31T00:00:00.001Z,Carla Pvt Ltd,Kampot,medium,4.5,Weddings,Brian,1,2438,7.255718
+3050501263,1294698325,2012-10-25T00:00:00.002Z,Kelly Pvt Ltd,kathmandu,high,3.4,Private Parties,Carla,1,3886,81.499621
+3288650677,4150140610,2012-10-21T00:00:00.001Z,Tom Pvt Ltd,chitwan,medium,3.5,Corporate Events,Kelly,0,2233,47.686442
+2265946558,3647864012,2012-10-22T00:00:00.001Z,Lisa Pvt Ltd,birgung,low,4.2,Weddings,Tom,1,1710,43.129703
+238152389,3476440521,2012-12-03T16:00:00.003Z,Emma Pvt Ltd,chitwan,high,4.1,Weddings,Lisa,1,510,27.220157
+3048578499,517514445,2012-11-03T00:00:00.001Z,Martin Pvt Ltd,parsa,low,3.5,Private Parties,Emma,1,2651,90.33681
+3639157503,781585781,2012-10-27T00:00:00.001Z,Marie Pvt Ltd,balglung,medium,4,Corporate Events,Martin,1,1418,50.073575
+805562777,1016098580,2012-11-03T00:00:00.001Z,Leo Pvt Ltd,hetauda,high,4.5,Weddings,Marie,1,1386,45.419668
+3509870432,1426522332,2012-10-27T00:00:00.001Z,Sophie Pvt Ltd,lalitpur,medium,4,Weddings,Leo,1,2392,41.380094
+2437040715,725266702,2012-11-09T00:00:00.001Z,Michael Pvt Ltd,bara,low,3.5,Private Parties,Sophie,1,1928,54.931334
+4134671058,613687941,2012-11-12T00:00:00.001Z,Kate Pvt Ltd,japan,high,3.5,Corporate Events,Michael,0,597,25.752118
+1626822880,1098509207,2012-11-21T13:00:00.003Z,Alice Pvt Ltd,india,low,3,Weddings,Kate,1,2589,60.810723
+3365249126,3598071768,2012-11-03T00:00:00.001Z,Sara Pvt Ltd,china,medium,4.5,Weddings,Alice,1,5797,51.328145
+2644800408,4252244266,2012-12-08T00:00:00.001Z,Nathan Pvt Ltd,galgi,high,3.4,Private Parties,Sara,0,1712,46.834704
+3911341942,4083498051,2012-11-04T00:00:00.001Z,Christine Pvt Ltd,galli,medium,3.5,Corporate Events,Nathan,1,2341,62.641286
+298871218,711497121,2012-10-31T00:00:00.001Z,Scott Pvt Ltd,nepalgung,low,4.2,Weddings,Christine,0,914,33.616115
+44776435,1020819241,2012-09-21T00:00:00.001Z,Emily Pvt Ltd,sira,high,4.1,Weddings,Scott,0,5080,68.889395
+3151646514,881617516,2012-10-08T22:00:00.003Z,Dave Pvt Ltd,bardibas,low,3,Private Parties,Emily,1,613,27.990284
+2602203758,3832426265,2012-10-31T00:00:00.001Z,Chris Pvt Ltd,mugu,medium,3.5,Corporate Events,Dave,1,3439,67.33767
+898889852,4185999054,2012-12-15T13:00:00.003Z,Katie Pvt Ltd,jumla,high,4,Weddings,Chris,0,1570,27.835436
+1413634049,1240515743,2012-11-21T00:00:00.003Z,Rebecca Pvt Ltd,humla,medium,4.5,Weddings,Katie,1,2342,66.757869
+1859823732,1999363021,2012-11-04T00:00:00.001Z,Carol Pvt Ltd,mustang,low,4,Private Parties,Rebecca,0,354,17.060695
+4247882282,44098316,2012-08-31T00:00:00.001Z,Samuel Pvt Ltd,pokhara,high,3.5,Corporate Events,Carol,0,223,11.137655
+1983888102,1918590410,2012-11-23T00:00:00.002Z,Oliver Pvt Ltd,nepalgung,low,3.5,Weddings,Samuel,1,1547,44.906918
+1396446223,1768539776,2012-11-08T00:00:00.001Z,Andrea Pvt Ltd,sira,medium,4,Weddings,Oliver,0,4800,67.698004
+42204521,4235478695,2012-10-22T00:00:00.001Z,Alex Pvt Ltd,bardibas,high,4.5,Private Parties,Andrea,1,4116,44.108427
+1381535648,3324266513,2012-10-10T08:15:00.003Z,David Pvt Ltd,mugu,medium,3.4,Corporate Events,Alex,0,3992,43.987061
+3585709696,3686526729,2013-01-13T00:00:00.001Z,Carlos Pvt Ltd,jumla,low,3.5,Weddings,David,1,5996,106.815545
+2630105655,4120508790,2012-10-03T00:00:00.001Z,Julie Pvt Ltd,humla,high,4.2,Awards events,Carlos,0,4053,15.953444
+944759264,3214543653,2012-10-29T00:00:00.001Z,Lucy Pvt Ltd,mustang,low,4.1,Weddings,Julie,1,4432,54.035265
+3385943756,813883609,2012-11-06T00:00:00.001Z,Paul Pvt Ltd,pokhara,medium,3.5,Private Parties,Lucy,0,2399,64.183321
+738328406,375876914,2012-10-31T00:00:00.001Z,Lillian Pvt Ltd,nepalgung,high,4,Corporate Events,Paul,1,471,20.344364
+3337001263,1065410499,2012-12-03T21:00:00.003Z,John Pvt Ltd,sira,medium,4.5,Weddings,Lillian,0,341,18.714197
+3166241555,1900245709,2012-10-30T00:00:00.003Z,Rachel Pvt Ltd,bardibas,low,4,Weddings,John,1,1523,60.467984
+404979471,2939696577,2012-10-24T00:00:00.001Z,Elizabeth Pvt Ltd,mugu,high,3.5,Private Parties,Rachel,1,2636,143.350376
+706200405,934253914,2012-11-04T00:00:00.001Z,Steven Pvt Ltd,jumla,low,3.5,Corporate Events,Elizabeth,1,5751,110.153618
+2525346233,1733069841,2012-07-26T21:10:00.000Z,Philip Pvt Ltd,humla,medium,4,Weddings,Steven,1,428,16.90444
+2042113559,1905079423,2012-10-29T00:00:00.001Z,Mark Pvt Ltd,mustang,high,4.5,Weddings,Philip,0,963,39.873791
+1386404286,2746451489,2012-10-30T00:00:00.001Z,Sarah Pvt Ltd,pokhara,medium,3.4,Private Parties,Mark,0,2278,38.126095
+3475854859,2305902318,2012-11-04T00:00:00.001Z,Jack Pvt Ltd,kalikot,low,3.5,Corporate Events,Sarah,0,2862,48.780039
+3531332626,1055441237,2012-11-04T00:00:00.001Z,George Pvt Ltd,sunsari,high,4.2,Weddings,Jack,1,2968,100.412364
+236108826,3344985936,2012-10-29T00:00:00.001Z,Isabella Pvt Ltd,Kampot,low,4.1,Weddings,George,1,925,42.887121
+899438727,641912619,2012-08-30T00:00:00.001Z,Anthony Pvt Ltd,kathmandu,medium,3.5,Private Parties,Isabella,1,1099,23.657284
+92245848,3053278014,2012-10-14T00:00:00.001Z,William Pvt Ltd,chitwan,high,4,Corporate Events,Anthony,1,2124,76.840712
+2314435352,1434745018,2012-11-04T00:00:00.001Z,Bobby Pvt Ltd,birgung,medium,4.5,Weddings,William,0,2965,44.635452
+3346955590,3026659950,2012-08-30T00:00:00.001Z,Louis Pvt Ltd,chitwan,low,4,Weddings,Bobby,1,3829,103.718387
+236295067,1018564374,2012-11-19T15:55:00.003Z,Amy Pvt Ltd,parsa,high,3.5,Private Parties,Louis,1,1489,45.616098
+2233058127,1388567623,2012-11-19T00:00:00.001Z,Anna Pvt Ltd,balglung,low,3.5,Corporate Events,Amy,1,621,22.845143
+2257756009,3076890398,2012-10-31T07:00:00.003Z,Ruth Pvt Ltd,hetauda,medium,3,Weddings,Anna,1,1251,31.703608
+3417170518,4235478695,2012-10-21T00:00:00.001Z,Catherine Pvt Ltd,lalitpur,high,4.5,Weddings,Ruth,1,2397,71.510596
+2373658545,657882633,2012-11-20T13:00:00.003Z,David Pvt Ltd,bara,high,3.4,Private Parties,Catherine,1,1179,36.65422
+3755008121,208532117,2012-10-10T12:00:00.003Z,Charlotte Pvt Ltd,japan,medium,3.5,Corporate Events,David,1,389,19.625972
+2396566946,1733069841,2012-12-12T18:00:00.002Z,Clara Pvt Ltd,india,low,4.2,Weddings,Charlotte,0,1998,86.105615
+3039059830,3029409500,2012-10-30T00:00:00.001Z,Alexander Pvt Ltd,china,high,4.1,Weddings,Clara,1,2692,37.195046
+2588877820,2509951454,2012-09-08T15:30:00.003Z,Margaret Pvt Ltd,galgi,low,3,Private Parties,Alexander,1,695,32.473628
+2144335101,4185863978,2012-10-05T00:00:00.001Z,John Pvt Ltd,galli,medium,3.5,Corporate Events,Margaret,0,434,23.336875
+892306356,941664829,2012-11-12T00:00:00.001Z,Emily Pvt Ltd,nepalgung,high,4,Weddings,John,1,2303,45.94834
+3145208730,911998654,2012-10-30T00:00:00.001Z,James Pvt Ltd,sira,medium,4.5,Weddings,Emily,0,2089,48.93337
+3331152144,2560826107,2012-10-27T00:00:00.001Z,Alex Pvt Ltd,bardibas,low,4,Private Parties,James,0,8705,138.049577
+1619676916,1817277614,2012-11-09T04:45:00.003Z,Laura Pvt Ltd,mugu,high,3.5,Corporate Events,Alex,1,672,22.643776
+565075405,3954474781,2012-08-30T12:00:00.003Z,Julian Pvt Ltd,jumla,low,3.5,Weddings,Laura,1,447,18.866672
+2627400380,2579961268,2012-09-24T00:00:00.001Z,Lisa Pvt Ltd,humla,medium,4,Awards events,Julian,0,366,18.251129
+230117918,3271102461,2012-09-30T00:00:00.001Z,Harry Pvt Ltd,mustang,high,4.5,Weddings,Lisa,1,3793,95.914473
+4358089,415464198,2012-10-30T00:00:00.001Z,Caroline Pvt Ltd,pokhara,medium,3.4,Private Parties,Harry,0,1157,44.490453
+2876844499,2597689396,2012-10-31T00:00:00.001Z,Samantha Pvt Ltd,nepalgung,low,3.5,Corporate Events,Caroline,0,959,30.475297
+1933542442,3642324803,2012-11-03T00:00:00.001Z,Mario Pvt Ltd,sira,high,4.2,Weddings,Samantha,1,1247,62.479574
+3284103018,3975206093,2012-10-30T00:00:00.001Z,Anna Pvt Ltd,bardibas,low,4.1,Weddings,Mario,0,7268,167.93287
+2654661184,708665138,2012-11-26T00:00:00.001Z,Alice Pvt Ltd,mugu,medium,3.5,Private Parties,Anna,1,1770,37.68056
+3773489407,1007347480,2012-10-31T00:00:00.001Z,Kevin Pvt Ltd,jumla,high,4,Corporate Events,Alice,0,16,1.004579
+1880156476,3137081969,2012-10-27T00:00:00.001Z,Julia Pvt Ltd,humla,medium,4.5,Weddings,Kevin,1,1485,52.995628
+1949729672,1294698325,2012-11-10T00:00:00.001Z,Christina Pvt Ltd,mustang,low,4,Weddings,Julia,0,5439,95.301296
+25800108,4150140610,2012-10-30T12:30:00.003Z,Richard Pvt Ltd,pokhara,high,3.5,Private Parties,Christina,1,2608,65.948959
+408474887,3647864012,2012-10-28T00:00:00.001Z,Daniel Pvt Ltd,nepalgung,low,3.5,Corporate Events,Richard,0,5815,132.397737
+3175383828,3476440521,2012-10-10T02:05:00.003Z,Lily Pvt Ltd,sira,medium,4,Weddings,Daniel,1,3855,88.935165
+3711909804,517514445,2012-11-04T00:00:00.001Z,Edward Pvt Ltd,bardibas,high,4.5,Weddings,Lily,0,1243,51.188633
+229252687,781585781,2012-09-30T00:00:00.001Z,Marcus Pvt Ltd,mugu,medium,3.4,Private Parties,Edward,1,4185,101.74155
+2538041788,1016098580,2012-10-30T00:00:00.001Z,Rachel Pvt Ltd,jumla,low,3.5,Corporate Events,Marcus,1,1344,33.691694
+642644408,1426522332,2012-10-31T00:00:00.001Z,Luke Pvt Ltd,humla,high,4.2,Weddings,Rachel,1,1502,42.361215
+2398136361,725266702,2012-10-04T00:00:00.001Z,Chris Pvt Ltd,mustang,low,4.1,Weddings,Luke,1,1116,38.729418
+3701432790,613687941,2012-10-28T08:30:00.003Z,Megan Pvt Ltd,pokhara,medium,3.5,Private Parties,Chris,0,954,40.597856
+4098307380,1098509207,2012-10-09T02:00:00.003Z,Benjamin Pvt Ltd,kalikot,high,4,Corporate Events,Megan,0,1060,32.389353
+1605169579,3598071768,2012-10-29T17:00:00.003Z,Chloe Pvt Ltd,sunsari,medium,4.5,Weddings,Benjamin,0,1383,24.399642
+3980899956,4252244266,2012-11-12T00:00:00.001Z,Justin Pvt Ltd,Kampot,low,4,Weddings,Chloe,1,543,24.507987
+676728856,4083498051,2012-10-17T00:00:00.001Z,Emma Pvt Ltd,kathmandu,high,3.5,Private Parties,Justin,1,10099,82.121691
+882787831,711497121,2012-08-31T00:00:00.001Z,Harold Pvt Ltd,chitwan,low,3.5,Corporate Events,Emma,1,1129,46.727941
+690062686,1020819241,2012-09-23T07:30:00.003Z,Eric Pvt Ltd,birgung,medium,3,Weddings,Harold,1,1490,51.113717
+2624001814,881617516,2012-10-30T00:00:00.001Z,Joanne Pvt Ltd,chitwan,high,4.5,Weddings,Eric,0,2896,53.732892
+4242131970,3832426265,2012-10-30T00:00:00.001Z,John Pvt Ltd,parsa,medium,3.4,Private Parties,Joanne,1,1926,58.849256
+1093844070,4185999054,2012-09-28T00:00:00.001Z,Carl Pvt Ltd,balglung,low,3.5,Corporate Events,John,1,967,30.863434
+3249170164,1240515743,2012-10-31T08:30:00.003Z,Katherine Pvt Ltd,hetauda,high,4.2,Weddings,Carl,1,572,31.586215
+4032767837,1999363021,2012-11-30T16:00:00.003Z,Edward Pvt Ltd,lalitpur,low,4.1,Weddings,Katherine,1,1121,36.711378
+2992914551,44098316,2012-10-13T00:00:00.001Z,Abraham Pvt Ltd,bara,medium,3,Private Parties,Edward,1,1699,41.426678
+3425996117,1918590410,2012-11-24T00:00:00.001Z,Emily Pvt Ltd,japan,high,3.5,Corporate Events,Abraham,1,482,20.652943
+78018780,1768539776,2012-10-27T00:00:00.001Z,Bridget Pvt Ltd,india,medium,4,Weddings,Emily,1,2281,52.792678
+616947433,4235478695,2012-11-04T00:00:00.001Z,George Pvt Ltd,china,low,4.5,Awards events,Bridget,0,6571,95.007934
+4215729078,3324266513,2012-10-05T00:00:00.001Z,Alan Pvt Ltd,galgi,high,4,Weddings,George,1,1498,48.205606
+2815171271,3686526729,2012-11-03T00:00:00.001Z,Karen Pvt Ltd,galli,low,3.5,Private Parties,Alan,1,1560,58.782359
+191035332,4120508790,2012-07-10T19:00:00.000Z,Elizabeth Pvt Ltd,nepalgung,medium,3.5,Corporate Events,Karen,0,2977,73.872343
+1397608202,3214543653,2012-11-11T00:00:00.001Z,Scott Pvt Ltd,sira,high,4,Weddings,Elizabeth,1,703,37.321848
+2491721612,813883609,2012-10-30T00:00:00.001Z,Michael Pvt Ltd,bardibas,medium,4.5,Weddings,Scott,0,808,32.271938
+3029657775,375876914,2012-10-22T00:00:00.001Z,Julie Pvt Ltd,mugu,low,3.4,Private Parties,Michael,0,1680,76.842247
+1330332438,1065410499,2012-11-06T00:00:00.001Z,Kim Pvt Ltd,jumla,high,3.5,Corporate Events,Julie,1,948,38.924136
+227049625,1900245709,2012-09-30T00:00:00.001Z,Andrew Pvt Ltd,humla,low,4.2,Weddings,Kim,1,381,19.38841
+1643773664,2939696577,2012-10-20T00:00:00.001Z,Charles Pvt Ltd,mustang,medium,4.1,Weddings,Andrew,0,1795,61.025639
+1530694090,934253914,2012-11-09T00:00:00.001Z,Jessica Pvt Ltd,pokhara,high,3.5,Private Parties,Charles,1,783,33.507289
+1536770720,1733069841,2012-10-27T02:00:00.003Z,Michael Pvt Ltd,nepalgung,medium,4,Corporate Events,Jessica,0,338,17.815595
+623791878,1905079423,2012-11-04T00:00:00.001Z,Paul Pvt Ltd,sira,low,4.5,Weddings,Michael,0,1276,50.767332
+2741999232,2746451489,2012-10-29T00:00:00.001Z,Joseph Pvt Ltd,bardibas,high,4,Weddings,Paul,1,142,12.092241
+1437150324,2305902318,2012-11-03T00:00:00.001Z,Jon Pvt Ltd,mugu,low,3.5,Private Parties,Joseph,0,717,30.254021
+4021236305,1055441237,2012-11-25T00:00:00.001Z,Jason Pvt Ltd,jumla,medium,3.5,Corporate Events,Jon,1,604,34.308098
+2324438453,3344985936,2012-10-02T03:00:00.003Z,Joshua Pvt Ltd,humla,high,4,Weddings,Jason,0,73,3.091077
+2594274741,641912619,2012-11-09T08:00:00.002Z,Paul Pvt Ltd,mustang,medium,4.5,Weddings,Joshua,1,2206,41.862983
+191858278,3053278014,2012-10-14T00:00:00.001Z,Harry Pvt Ltd,pokhara,low,3.4,Private Parties,Paul,0,1910,46.160048
+3007918636,1434745018,2012-10-30T00:00:00.001Z,Christopher Pvt Ltd,nepalgung,high,3.5,Corporate Events,Harry,1,187,12.516546
+1019287013,3026659950,2012-10-28T00:00:00.001Z,Katie Pvt Ltd,sira,low,4.2,Weddings,Christopher,0,601,23.230851
+2498438372,1018564374,2012-10-11T00:00:00.001Z,Brandon Pvt Ltd,bardibas,medium,4.1,Weddings,Katie,1,334,19.224754
+2388719133,1388567623,2012-08-31T00:00:00.001Z,James Pvt Ltd,mugu,high,3.5,Private Parties,Brandon,0,1811,44.455166
+2604545919,3076890398,2012-09-25T00:00:00.001Z,Robin Pvt Ltd,jumla,medium,4,Corporate Events,James,1,578,16.460356
+4206300929,4235478695,2012-08-31T00:00:00.001Z,Jesse Pvt Ltd,humla,low,4.5,Weddings,Robin,1,3885,109.528572
+2863044222,657882633,2012-10-26T00:00:00.001Z,Elizabeth Pvt Ltd,mustang,high,4,Weddings,Jesse,1,426,18.325897
+2112694342,208532117,2012-10-05T00:00:00.001Z,Daniel Pvt Ltd,pokhara,low,3.5,Private Parties,Elizabeth,1,858,37.054554
+378308819,1733069841,2012-10-30T00:00:00.001Z,Anne Pvt Ltd,kalikot,medium,3.5,Corporate Events,Daniel,0,2672,65.229868
+3790866767,3029409500,2012-11-03T22:00:00.003Z,Jeffrey Pvt Ltd,sunsari,high,3,Weddings,Anne,0,2374,101.187052
+2172580817,2509951454,2012-08-15T06:00:00.000Z,Matthew Pvt Ltd,Kampot,high,4.5,Weddings,Jeffrey,0,1065,29.257137
+922424424,4185863978,2012-11-23T00:00:00.002Z,KellyPvt Ltd,kathmandu,medium,3.4,Private Parties,Matthew,1,6122,85.688789
+2002146936,941664829,2012-10-06T00:00:00.001Z,Karen Pvt Ltd,chitwan,low,3.5,Corporate Events,Kelly,1,8064,123.630332
+3491741350,911998654,2012-10-16T00:00:00.001Z,Rebecca Pvt Ltd,birgung,high,4.2,Weddings,Karen,1,7487,106.914973
+140336062,2560826107,2012-11-08T00:00:00.001Z,William Pvt Ltd,chitwan,low,4.1,Awards events,Rebecca,1,957,63.628459
+1437816019,1817277614,2012-10-17T00:00:00.001Z,Richard Pvt Ltd,parsa,medium,3,Weddings,William,0,2192,41.498631
+244219005,3954474781,2012-11-14T03:00:00.003Z,David Pvt Ltd,balglung,high,3.5,Private Parties,Richard,1,2295,58.991388
+974024618,2579961268,2012-10-31T00:00:00.001Z,Melissa Pvt Ltd,hetauda,medium,4,Corporate Events,David,1,2077,1.859364
+1076499062,3271102461,2012-10-05T00:00:00.001Z,Brian Pvt Ltd,lalitpur,low,4.5,Weddings,Melissa,1,4347,138.433168
+1773363754,415464198,2012-09-30T00:00:00.001Z,Anthony Pvt Ltd,bara,high,4,Weddings,Brian,1,572,21.436682
+3678607925,2597689396,2012-10-01T00:00:00.001Z,Michelle Pvt Ltd,japan,low,3.5,Private Parties,Anthony,1,3493,65.402595
+3917524398,3642324803,2012-10-27T00:00:00.001Z,Brian Pvt Ltd,india,medium,3.5,Corporate Events,Michelle,1,106,10.660441
+686023870,3975206093,2012-10-19T00:00:00.001Z,Patrick Pvt Ltd,china,high,4,Weddings,Brian,1,5152,77.817571
+1100725936,708665138,2012-10-31T00:00:00.001Z,Andrew Pvt Ltd,galgi,medium,4.5,Weddings,Patrick,0,136,7.029308
+2424074793,1007347480,2012-10-25T00:00:00.002Z,Monica Pvt Ltd,galli,low,3.4,Private Parties,Andrew,1,2010,61.121717
+1574913732,3137081969,2012-10-03T00:00:00.001Z,Karen Pvt Ltd,nepalgung,high,3.5,Corporate Events,Monica,1,4412,104.121555
+3007412705,1294698325,2012-11-21T00:00:00.002Z,Michael Pvt Ltd,sira,low,4.2,Weddings,Karen,0,3806,73.575118
+3728974729,4150140610,2012-12-07T20:00:00.002Z,Lisa Pvt Ltd,bardibas,medium,4.1,Weddings,Michael,1,1165,37.698465
+3526163305,3647864012,2012-11-04T00:00:00.001Z,John Pvt Ltd,mugu,high,3.5,Private Parties,Lisa,0,1054,35.814765
+2227570794,3476440521,2012-11-09T00:00:00.001Z,Michael Pvt Ltd,jumla,medium,4,Corporate Events,John,0,488,15.835672
+1684746528,517514445,2012-10-30T00:00:00.001Z,Fred Pvt Ltd,humla,low,4.5,Weddings,Michael,1,1747,46.781182
+4192218834,781585781,2012-11-09T00:00:00.001Z,Jane Pvt Ltd,mustang,high,4,Weddings,Fred,1,2271,69.457898
+964120039,1016098580,2012-10-13T00:00:00.001Z,George Pvt Ltd,pokhara,low,3.5,Private Parties,Jane,0,3144,43.348022
+1445820524,1426522332,2012-08-31T09:00:00.000Z,Richard Pvt Ltd,nepalgung,medium,3.5,Corporate Events,George,1,1232,40.20395
+1991938600,725266702,2012-10-31T00:00:00.001Z,Amy Pvt Ltd,sira,high,4,Weddings,Richard,0,4339,63.429157
+3022809854,613687941,2012-08-31T00:00:00.001Z,Lisa Pvt Ltd,bardibas,medium,4.5,Weddings,Amy,0,2008,67.427755
+1718839450,1098509207,2012-10-25T00:00:00.001Z,John Pvt Ltd,mugu,low,3.4,Private Parties,Lisa,1,1667,43.192048
+776708517,3598071768,2012-11-04T00:00:00.001Z,James Pvt Ltd,jumla,high,3.5,Corporate Events,John,0,2434,47.651083
+2477400016,4252244266,2012-09-28T00:00:00.001Z,Jennifer Pvt Ltd,humla,low,4.2,Weddings,James,1,2066,51.881077
+880064528,4083498051,2012-10-06T00:00:00.001Z,Kevin Pvt Ltd,mustang,medium,4.1,Weddings,Jennifer,0,5766,57.834787
+1224985099,711497121,2012-10-27T00:00:00.001Z,Karen Pvt Ltd,pokhara,high,3.5,Private Parties,Kevin,1,621,29.608322
+1907550340,1020819241,2012-09-29T00:00:00.001Z,Michael Pvt Ltd,nepalgung,medium,4,Corporate Events,Karen,0,1224,51.548589
+1973916091,881617516,2012-10-30T00:00:00.001Z,Andrew Pvt Ltd,sira,low,4.5,Weddings,Michael,1,428,27.867368
+843570927,3832426265,2012-12-03T20:00:00.002Z,John Pvt Ltd,bardibas,high,4,Weddings,Andrew,0,1173,38.832842
+589257919,4185999054,2012-11-14T20:00:00.002Z,Bruce Pvt Ltd,mugu,low,3.5,Private Parties,John,1,1048,40.597344
+860629845,1240515743,2012-10-20T13:00:00.003Z,Brian Pvt Ltd,jumla,medium,3.5,Corporate Events,Bruce,0,2513,140.849495
+3451289141,1999363021,2012-10-30T00:00:00.001Z,Emma Pvt Ltd,humla,high,3,Weddings,Brian,1,1974,34.035114
+1738754396,44098316,2012-08-31T00:00:00.001Z,James Pvt Ltd,mustang,medium,4.5,Awards events,Emma,1,466,16.302378
+2571012976,1918590410,2012-10-31T00:00:00.001Z,Sharon Pvt Ltd,pokhara,low,3.4,Weddings,James,1,1308,55.249434
+724028325,1768539776,2012-11-08T00:00:00.001Z,Lisa Pvt Ltd,kalikot,high,3.5,Private Parties,Sharon,1,634,28.200874
+2415154995,4235478695,2012-09-04T00:00:00.001Z,Jack Pvt Ltd,sunsari,low,4.2,Corporate Events,Lisa,0,392,18.69984
+585272047,3324266513,2012-11-27T10:00:00.003Z,Charlie Pvt Ltd,Kampot,medium,4.1,Weddings,Jack,0,1648,40.262261
+539032065,3686526729,2012-10-16T16:00:00.003Z,Kate Pvt Ltd,kathmandu,high,3,Weddings,Charlie,0,1418,56.811056
+65641389,4120508790,2012-11-07T03:00:00.003Z,Dave Pvt Ltd,chitwan,medium,3.5,Private Parties,Kate,1,3235,51.535701
+191271461,3214543653,2012-11-21T00:00:00.001Z,Harry Pvt Ltd,birgung,low,4,Corporate Events,Dave,1,302,20.913852
+265740872,813883609,2012-10-27T00:00:00.001Z,Jane Pvt Ltd,chitwan,high,4.5,Weddings,Harry,1,579,27.166757
+153997026,375876914,2012-10-29T00:00:00.001Z,Mary Pvt Ltd,parsa,low,4,Weddings,Jane,1,369,16.058284
+845902488,1065410499,2012-10-29T00:00:00.001Z,John Pvt Ltd,balglung,medium,3.5,Private Parties,Mary,0,2166,46.200042
+1671385767,1900245709,2012-11-22T00:00:00.002Z,Robert Pvt Ltd,hetauda,high,3.5,Corporate Events,John,1,963,24.939295
+2063056872,2939696577,2012-10-12T00:00:00.001Z,Melissa Pvt Ltd,lalitpur,medium,4,Weddings,Robert,1,376,19.836124
+1165693561,934253914,2012-10-31T00:00:00.001Z,Adam Pvt Ltd,bara,low,4.5,Weddings,Melissa,1,290,15.350451
+1154762179,1733069841,2012-10-02T00:00:00.001Z,Thomas Pvt Ltd,japan,high,3.4,Private Parties,Adam,1,264,15.625949
+3362121781,1905079423,2012-11-24T00:00:00.002Z,Steven Pvt Ltd,india,low,3.5,Corporate Events,Thomas,1,650,31.802807
+1018819627,2746451489,2012-08-31T00:00:00.001Z,Lisa Pvt Ltd,china,medium,4.2,Weddings,Steven,1,616,24.100863
+854375268,2305902318,2012-11-06T00:00:00.001Z,Richard Pvt Ltd,galgi,high,4.1,Weddings,Lisa,1,50,3.593349
+2571050863,1055441237,2012-10-30T00:00:00.001Z,Lisa Pvt Ltd,galli,medium,3.5,Private Parties,Richard,0,216,14.824166
+757000026,3344985936,2012-12-01T11:00:00.003Z,John Pvt Ltd,nepalgung,low,4,Corporate Events,Lisa,1,950,32.079995
+495876188,641912619,2012-11-01T07:35:00.003Z,Kate Pvt Ltd,sira,high,4.5,Weddings,John,1,3218,57.739713
+835360674,3053278014,2012-10-31T00:00:00.001Z,David Pvt Ltd,bardibas,low,4,Weddings,Kate,0,1410,37.272385
+1780282425,1434745018,2012-10-28T00:00:00.001Z,Steven Pvt Ltd,mugu,medium,3.5,Private Parties,David,1,2825,53.213931
+3374746454,3026659950,2012-10-31T00:00:00.001Z,Robert Pvt Ltd,jumla,high,3.5,Corporate Events,Steven,0,840,36.38795
+1096700405,1018564374,2012-10-30T00:00:00.001Z,Sharon Pvt Ltd,humla,medium,4,Weddings,Robert,0,3783,60.929352
+2362894171,1388567623,2012-10-31T00:00:00.001Z,John Pvt Ltd,mustang,low,4.5,Weddings,Sharon,1,924,36.605246
+4272211954,3076890398,2012-10-31T00:00:00.001Z,Amy Pvt Ltd,pokhara,high,3.4,Private Parties,John,1,2566,56.257411
+3376050735,4235478695,2012-12-11T20:00:00.003Z,Linda Pvt Ltd,nepalgung,low,3.5,Corporate Events,Amy,0,1449,29.21998
+3744389392,657882633,2012-09-29T00:00:00.001Z,James Pvt Ltd,sira,medium,4.2,Weddings,Linda,1,1345,34.773106
+191661856,208532117,2012-08-31T00:00:00.001Z,Emily Pvt Ltd,bardibas,high,4.1,Weddings,James,0,313,9.895061
+1376745282,1733069841,2012-08-31T00:00:00.001Z,Kim Pvt Ltd,mugu,medium,3.5,Private Parties,Emily,0,932,36.743324
+293751558,3029409500,2012-10-31T20:00:00.003Z,Michael Pvt Ltd,jumla,low,4,Corporate Events,Kim,1,1225,44.967453
+176458041,2509951454,2012-10-29T16:30:00.003Z,John Pvt Ltd,humla,high,4.5,Weddings,Michael,0,1240,41.207568
+2233735163,4185863978,2012-10-07T00:00:00.001Z,Steven Pvt Ltd,mustang,low,4,Awards events,John,1,360,16.479851
+1179474743,941664829,2012-11-03T00:00:00.001Z,Robert Pvt Ltd,pokhara,medium,3.5,Weddings,Steven,0,1999,42.069993
+2871310940,911998654,2012-11-09T00:00:00.001Z,John Doe's Event Planning,nepalgung,high,3.5,Private Parties,Robert,1,656,26.61951
+1781986615,2560826107,2012-10-31T00:00:00.001Z,Jane Smith's Event Planning,sira,high,3,Corporate Events,John Doe,0,4663,80.316463
+334013045,1817277614,2012-11-06T00:00:00.001Z,Michael Johnson's Event Planning,bardibas,medium,4.5,Weddings,Jane Smith,1,999,41.273567
+3843631351,3954474781,2012-10-30T00:00:00.001Z,Sarah Brown's Event Planning,mugu,low,3.4,Weddings,Michael Johnson,0,514,24.107835
+2310207880,2579961268,2012-11-12T00:00:00.001Z,David Lee's Event Planning,jumla,high,3.5,Private Parties,Sarah Brown,1,712,32.044191
+650456731,3271102461,2012-10-03T00:00:00.001Z,Emily Davis's Event Planning,humla,low,4.2,Corporate Events,David Lee,0,652,16.595874
+2700038507,415464198,2012-10-31T00:00:00.001Z,Robert Wilson's Event Planning,mustang,medium,4.1,Weddings,Emily Davis,1,1705,8.282876
+3913698961,2597689396,2012-11-04T00:00:00.001Z,Jessica Martinez's Event Planning,pokhara,high,3,Weddings,Robert Wilson,1,333,19.83683
+2350936091,3642324803,2012-11-26T00:05:00.003Z,James Anderson's Event Planning,kalikot,medium,3.5,Private Parties,Jessica Martinez,1,1147,36.069611
+2608367718,3975206093,2012-11-10T00:00:00.001Z,Lisa Taylor's Event Planning,sunsari,low,4,Corporate Events,James Anderson,1,427,18.827753
+949519938,708665138,2012-10-30T00:00:00.001Z,Christopher Clark's Event Planning,Kampot,high,4.5,Weddings,Lisa Taylor,0,85,5.159407
+293516808,1007347480,2012-11-11T00:00:00.001Z,Karen Rodriguez's Event Planning,kathmandu,low,4,Weddings,Christopher Clark,0,1114,48.126297
+1942535569,3137081969,2012-12-07T09:00:00.003Z,Mark Thompson's Event Planning,chitwan,medium,3.5,Private Parties,Karen Rodriguez,0,2126,38.885195
+1420231458,1294698325,2012-11-11T00:00:00.001Z,Elizabeth Lewis's Event Planning,birgung,high,3.5,Corporate Events,Mark Thompson,1,516,29.211255
+2143251401,4150140610,2012-11-05T00:00:00.003Z,Joshua Harris's Event Planning,chitwan,medium,4,Weddings,Elizabeth Lewis,1,332,17.783361
+3882632768,3647864012,2012-11-26T00:00:00.002Z,Michelle Young's Event Planning,parsa,low,4.5,Weddings,Joshua Harris,1,820,31.435539
+616825218,3476440521,2012-10-31T00:00:00.001Z,William Martinez's Event Planning,balglung,high,3.4,Private Parties,Michelle Young,1,1940,57.673932
+1010067902,517514445,2012-10-02T00:00:00.001Z,Amanda Scott's Event Planning,hetauda,low,3.5,Corporate Events,William Martinez,0,2104,41.176631
+3797841998,781585781,2012-10-30T00:00:00.001Z,Daniel Green's Event Planning,lalitpur,medium,4.2,Weddings,Amanda Scott,1,226,13.661289
+2307150378,1016098580,2012-10-30T00:00:00.001Z,Samantha White's Event Planning,bara,high,4.1,Weddings,Daniel Green,1,119,11.77398
+507816315,1426522332,2012-10-29T00:00:00.001Z,Joseph Rodriguez's Event Planning,japan,medium,3.5,Private Parties,Samantha White,1,1799,21.218
+1418616930,725266702,2012-10-29T00:00:00.001Z,Laura Martinez's Event Planning,india,low,4,Corporate Events,Joseph Rodriguez,1,1527,58.57976
+2501314150,613687941,2012-11-08T00:00:00.001Z,Steven Adams's Event Planning,china,high,4.5,Weddings,Laura Martinez,1,2023,51.970905
+1968232351,1098509207,2012-08-01T06:00:00.000Z,Patricia Lopez's Event Planning,galgi,low,4,Weddings,Steven Adams,1,595,18.447479
+2795674177,3598071768,2012-10-12T00:00:00.002Z,Andrew King's Event Planning,galli,medium,3.5,Private Parties,Patricia Lopez,1,3012,109.684788
+1401905636,4252244266,2012-11-04T00:00:00.001Z,Rebecca Baker's Event Planning,nepalgung,high,3.5,Corporate Events,Andrew King,0,2926,77.580661
+3836582687,4083498051,2012-08-31T00:00:00.001Z,Ryan Perez's Event Planning,sira,medium,4,Weddings,Rebecca Baker,1,2631,75.290998
+3739525198,711497121,2012-11-20T17:00:00.003Z,Kelly Carter's Event Planning,bardibas,low,4.5,Weddings,Ryan Perez,1,9455,68.550698
+1066839399,1020819241,2012-11-16T20:00:00.003Z,Justin Rivera's Event Planning,mugu,high,3.4,Private Parties,Kelly Carter,0,3739,58.040149
+1363619788,881617516,2012-12-07T23:10:00.003Z,Ashley Edwards's Event Planning,jumla,low,3.5,Corporate Events,Justin Rivera,1,1673,59.113174
+2996923495,3832426265,2012-11-03T00:00:00.001Z,Scott Mitchell's Event Planning,humla,medium,4.2,Weddings,Ashley Edwards,0,1074,36.32705
+108328258,4185999054,2012-11-22T20:00:00.002Z,Heather Morris's Event Planning,mustang,high,4.1,Awards events,Scott Mitchell,0,1314,55.659988
+945627510,1240515743,2012-10-06T00:00:00.001Z,Brandon Gonzalez's Event Planning,pokhara,medium,3.5,Weddings,Heather Morris,1,288,14.132583
+2489007829,1999363021,2012-10-29T00:00:00.001Z,Stephanie Torres's Event Planning,nepalgung,low,4,Private Parties,Brandon Gonzalez,1,855,34.070054
+3105234108,44098316,2012-11-22T00:00:00.002Z,Nicholas Nelson's Event Planning,sira,high,4.5,Corporate Events,Stephanie Torres,0,1526,44.34333
+3253996490,1918590410,2012-11-24T00:00:00.002Z,Megan Walker's Event Planning,bardibas,low,4,Weddings,Nicholas Nelson,1,785,26.065735
+1032588622,1768539776,2012-10-10T07:00:00.003Z,Jose Cooper's Event Planning,mugu,medium,3.5,Weddings,Megan Walker,0,484,23.473004
+3728988828,4235478695,2012-10-30T00:00:00.001Z,Katherine Reed's Event Planning,jumla,high,3.5,Private Parties,Jose Cooper,0,1155,45.589568
+4020625664,3324266513,2012-10-30T00:00:00.001Z,Eric Cook's Event Planning,humla,medium,3,Corporate Events,Katherine Reed,1,1051,23.496054
+2573061069,3686526729,2012-12-08T00:00:00.001Z,Sandra Morgan's Event Planning,mustang,low,4.5,Weddings,Eric Cook,0,410,16.939441
+423623928,4120508790,2012-11-08T00:00:00.001Z,Gabriel Bell's Event Planning,pokhara,high,3.4,Weddings,Sandra Morgan,1,6336,81.914696
+2615721365,3214543653,2012-08-31T09:00:00.000Z,Amy Richardson's Event Planning,nepalgung,low,3.5,Private Parties,Gabriel Bell,0,331,19.500893
+2410300337,813883609,2012-10-08T02:00:00.003Z,Thomas Wood's Event Planning,sira,medium,4.2,Corporate Events,Amy Richardson,1,1333,29.558157
+728126986,375876914,2012-10-04T00:00:00.001Z,Julie Mitchell's Event Planning,bardibas,high,4.1,Weddings,Thomas Wood,0,1583,46.075037
+389818573,1065410499,2012-10-30T00:00:00.001Z,Stephen Ward's Event Planning,mugu,medium,3,Weddings,Julie Mitchell,1,901,23.531721
+3221372597,1900245709,2012-11-14T00:00:00.001Z,Amanda Lopez's Event Planning,jumla,low,3.5,Private Parties,Stephen Ward,0,1077,49.078546
+4092423355,2939696577,2012-11-09T06:00:00.003Z,Patrick Coleman's Event Planning,humla,high,4,Corporate Events,Amanda Lopez,1,1543,37.02665
+2659763559,934253914,2012-09-10T03:00:00.003Z,Cynthia Rogers's Event Planning,mustang,low,4.5,Weddings,Patrick Coleman,0,6.5,45.154631
+3472930517,1733069841,2012-12-11T20:00:00.002Z,Ronald Murphy's Event Planning,pokhara,medium,4,Weddings,Cynthia Rogers,1,1018,46.887983
+97217712,1905079423,2012-10-29T00:00:00.001Z,Brittany Bennett's Event Planning,kalikot,high,3.5,Private Parties,Ronald Murphy,1,533,24.598479
+3551254564,2746451489,2012-11-09T00:00:00.003Z,Michael Nelson's Event Planning,sunsari,medium,3.5,Corporate Events,Brittany Bennett,1,2164,32.363538
+935182201,2305902318,2012-12-01T22:00:00.003Z,Lori Adams's Event Planning,Kampot,low,4,Weddings,Michael Nelson,1,695,11.50396
+517558243,1055441237,2012-11-04T00:00:00.001Z,Timothy Garcia's Event Planning,kathmandu,high,4.5,Weddings,Lori Adams,0,369,19.375768
+3828205008,3344985936,2013-05-15T05:05:00.003Z,Tiffany Cooper's Event Planning,chitwan,low,3.4,Private Parties,Timothy Garcia,0,1288,36.125715
+2760876250,641912619,2012-10-27T00:00:00.002Z,Alan Gray's Event Planning,birgung,medium,3.5,Corporate Events,Tiffany Cooper,0,550,25.450534
+550528378,3053278014,2012-11-06T00:00:00.001Z,Christina Evans's Event Planning,chitwan,high,4.2,Weddings,Alan Gray,1,1043,41.890722
+975577539,1434745018,2012-11-10T00:00:00.001Z,Phillip Phillips's Event Planning,parsa,medium,4.1,Weddings,Christina Evans,1,431,22.179658
+1537309411,3026659950,2012-10-21T00:15:00.003Z,Kimberly Parker's Event Planning,balglung,low,3.5,Private Parties,Phillip Phillips,1,3946,139.575085
+3182833252,1018564374,2012-08-31T00:00:00.001Z,Dennis Turner's Event Planning,hetauda,high,4,Corporate Events,Kimberly Parker,1,332,18.264635
+973265170,1388567623,2012-10-27T17:30:00.003Z,Christine Morris's Event Planning,lalitpur,low,4.5,Weddings,Dennis Turner,0,220,11.187696
+536196786,3076890398,2012-12-12T01:00:00.003Z,Randy Russell's Event Planning,bara,medium,4,Weddings,Christine Morris,1,831,41.670544
+3003229843,4235478695,2012-10-03T00:00:00.001Z,Melissa Diaz's Event Planning,japan,high,3.5,Private Parties,Randy Russell,1,498,27.46264
+2009645483,657882633,2012-10-06T00:00:00.001Z,Gary Bennett's Event Planning,india,medium,3.5,Corporate Events,Melissa Diaz,1,388,17.455024
+301530247,208532117,2012-10-13T04:00:00.003Z,Christie Watson's Event Planning,china,low,4,Weddings,Gary Bennett,1,393,21.394281
+1190695846,1733069841,2012-10-26T23:00:00.003Z,Wayne Collins's Event Planning,galgi,high,4.5,Awards events,Christie Watson,1,1,0.605645
+2894128040,3029409500,2012-10-10T20:00:00.002Z,Stacey Butler's Event Planning,galli,low,3.4,Weddings,Wayne Collins,1,1497,61.692197
+2280892735,2509951454,2012-09-27T00:00:00.001Z,Marvin Cooper's Event Planning,nepalgung,medium,3.5,Private Parties,Stacey Butler,1,292,14.530946
+239276659,4185863978,2012-12-05T20:00:00.002Z,Courtney Richardson's Event Planning,sira,high,4.2,Corporate Events,Marvin Cooper,0,631,25.978555
+4140354199,941664829,2012-12-14T14:05:00.003Z,Shawn Carter's Event Planning,bardibas,medium,4.1,Weddings,Courtney Richardson,1,208,6.643778
+974085606,911998654,2012-08-31T00:00:00.001Z,Leslie Alexander's Event Planning,mugu,low,3.5,Weddings,Shawn Carter,1,932,36.788745
+380501274,2560826107,2012-10-29T18:00:00.003Z,Tina Hernandez's Event Planning,jumla,high,4,Private Parties,Leslie Alexander,0,893,31.054334
+2329324806,1817277614,2012-08-31T00:00:00.001Z,Ricky Ross's Event Planning,humla,low,4.5,Corporate Events,Tina Hernandez,1,577,21.891078
+102952604,3954474781,2012-09-29T00:00:00.001Z,Monica Howard's Event Planning,mustang,medium,4,Weddings,Ricky Ross,0,438,18.335992
+1085970489,2579961268,2012-09-03T00:00:00.001Z,Jeffrey Gonzalez's Event Planning,pokhara,high,3.5,Weddings,Monica Howard,0,818,40.138009
+918116457,3271102461,2012-10-31T00:00:00.001Z,Angela Barnes's Event Planning,nepalgung,high,3.5,Private Parties,Jeffrey Gonzalez,1,1509,44.090535
+1268441808,415464198,2012-10-25T00:00:00.001Z,Joel Ward's Event Planning,sira,medium,3,Corporate Events,Angela Barnes,1,47,3.300061
+1178194459,2597689396,2012-09-30T00:00:00.001Z,Erica Price's Event Planning,bardibas,low,4.5,Weddings,Joel Ward,0,349,20.632673
+3436797348,3642324803,2012-11-15T00:00:00.001Z,Alberto Green's Event Planning,mugu,high,3.4,Weddings,Erica Price,1,1195,36.664991
+3263635682,3975206093,2012-10-12T00:00:00.001Z,Crystal Mitchell's Event Planning,jumla,low,3.5,Private Parties,Alberto Green,0,189,18.26121
+872950970,708665138,2012-10-08T00:00:00.001Z,Bryan Wright's Event Planning,humla,medium,4.2,Corporate Events,Crystal Mitchell,0,378,16.681269
+3648276654,1007347480,2012-11-17T00:00:00.001Z,Monique Scott's Event Planning,mustang,high,4.1,Weddings,Bryan Wright,1,133,10.088006
+1783910332,3137081969,2012-09-25T03:55:00.003Z,Bruce Campbell's Event Planning,pokhara,medium,3,Weddings,Monique Scott,0,255,7.89147
+1619445765,1294698325,2012-09-03T00:00:00.001Z,Colleen Roberts's Event Planning,nepalgung,low,3.5,Private Parties,Bruce Campbell,1,297,16.715631
+422354467,4150140610,2012-11-13T00:00:00.001Z,Johnny Flores's Event Planning,sira,high,4,Corporate Events,Colleen Roberts,0,165,9.357734
+3028432012,3647864012,2012-12-10T00:00:00.001Z,Leslie Hill's Event Planning,bardibas,low,4.5,Weddings,Johnny Flores,1,318,11.22268
+3582418533,3476440521,2012-10-03T00:00:00.001Z,Janet Cooper's Event Planning,mugu,medium,4,Weddings,Leslie Hill,0,299,14.564667
+3506658662,517514445,2012-10-26T00:00:00.001Z,Brian Martinez's Event Planning,jumla,high,3.5,Private Parties,Janet Cooper,1,305,11.356079
+3710884082,781585781,2012-10-27T00:00:00.001Z,Diana Rodriguez's Event Planning,humla,medium,3.5,Corporate Events,Brian Martinez,0,1316,52.612025
+1335528193,1016098580,2012-09-28T23:00:00.003Z,Carlos Perez's Event Planning,mustang,low,4,Weddings,Diana Rodriguez,1,267,13.800656
+766157199,1426522332,2012-12-06T21:00:00.002Z,Margaret Clark's Event Planning,pokhara,high,4.5,Weddings,Carlos Perez,0,639,27.097932
+578876481,725266702,2012-10-27T00:00:00.001Z,Victor Coleman's Event Planning,kalikot,low,3.4,Private Parties,Margaret Clark,1,111,10.706613
+221202458,613687941,2012-11-10T13:00:00.003Z,Cassandra Martinez's Event Planning,sunsari,medium,3.5,Corporate Events,Victor Coleman,1,111,7.342892
+3596510482,1098509207,2012-11-23T00:00:00.002Z,Troy Allen's Event Planning,Kampot,high,4.2,Weddings,Cassandra Martinez,1,1267,50.561849
+3969260761,3598071768,2012-08-31T00:00:00.001Z,Shannon Moore's Event Planning,kathmandu,medium,4.1,Weddings,Troy Allen,1,9,0.719996
+2157929746,4252244266,2012-11-26T00:00:00.002Z,Rachel Lopez's Event Planning,chitwan,low,3.5,Private Parties,Shannon Moore,0,3009,59.248437
+1629910947,4083498051,2012-10-31T00:00:00.001Z,Corey Bell's Event Planning,birgung,high,4,Corporate Events,Rachel Lopez,0,5376,90.457886
+861702567,711497121,2012-11-09T00:00:00.001Z,Alicia Price's Event Planning,chitwan,low,4.5,Weddings,Corey Bell,0,1030,40.723459
+2938749256,1020819241,2012-10-29T00:00:00.001Z,Carl Richardson's Event Planning,parsa,medium,4,Awards events,Alicia Price,1,915,41.247402
+1992413107,881617516,2012-10-26T00:00:00.001Z,Jacqueline Martinez's Event Planning,balglung,high,3.5,Weddings,Carl Richardson,1,1115,10.083905
+2688524160,3832426265,2012-07-14T08:30:00.000Z,Harold Cooper's Event Planning,hetauda,medium,3.5,Private Parties,Jacqueline Martinez,1,318,16.759252
+1333829432,4185999054,2012-11-11T03:00:00.003Z,Sabrina Barnes's Event Planning,lalitpur,low,4,Corporate Events,Harold Cooper,1,604,22.132418
+3438993032,1240515743,2012-12-14T00:00:00.001Z,Ramon Brown's Event Planning,bara,high,4.5,Weddings,Sabrina Barnes,0,2028,10.520961
+2438434714,1999363021,2012-11-01T00:00:00.001Z,Sylvia Hill's Event Planning,japan,low,3.4,Weddings,Ramon Brown,1,756,35.384423
+169679772,44098316,2012-10-05T00:00:00.001Z,Harry Johnson's Event Planning,india,medium,3.5,Private Parties,Sylvia Hill,1,359,15.673154
+2985774237,1918590410,2012-10-25T00:00:00.001Z,Charlene Howard's Event Planning,china,high,4.2,Corporate Events,Harry Johnson,1,87,8.981427
+376593949,1768539776,2012-10-12T00:00:00.002Z,Clarence Torres's Event Planning,galgi,medium,4.1,Weddings,Charlene Howard,0,3462,31.482872
+156353771,4235478695,2012-10-28T00:00:00.001Z,Yolanda Green's Event Planning,galli,low,3.5,Weddings,Clarence Torres,0,1155,47.436675
+1282082433,3324266513,2012-10-31T00:00:00.001Z,Martin Allen's Event Planning,nepalgung,high,4,Private Parties,Yolanda Green,1,4637,136.886704
+2418966752,3686526729,2012-10-04T00:00:00.001Z,Elaine Adams's Event Planning,sira,low,4.5,Corporate Events,Martin Allen,1,3260,60.442593
+3120842736,4120508790,2012-11-24T20:00:00.002Z,Calvin Scott's Event Planning,bardibas,medium,4,Weddings,Elaine Adams,1,2487,2.502487
+51311653,3214543653,2012-10-27T00:00:00.001Z,Miriam Ramirez's Event Planning,mugu,high,3.5,Weddings,Calvin Scott,1,3237,48.110909
+1310511988,813883609,2012-12-01T20:00:00.002Z,Arthur Wright's Event Planning,jumla,medium,3.5,Private Parties,Miriam Ramirez,0,2071,35.387874
+2575303578,375876914,2012-12-13T00:00:00.001Z,Joann Hernandez's Event Planning,humla,low,3,Corporate Events,Arthur Wright,1,4097,4.66891
+78990001,1065410499,2012-10-22T00:00:00.001Z,Karl Lewis's Event Planning,mustang,high,4.5,Weddings,Joann Hernandez,1,2528,73.82289
+1841503354,1900245709,2012-10-27T00:00:00.001Z,Lucille Mitchell's Event Planning,pokhara,low,3.4,Weddings,Karl Lewis,0,1456,51.469576
+3227431115,2939696577,2012-08-31T00:00:00.001Z,Daryl Johnson's Event Planning,nepalgung,medium,3.5,Private Parties,Lucille Mitchell,1,2951,85.115058
+1233762920,934253914,2012-12-08T12:00:00.003Z,Kristin Lopez's Event Planning,sira,high,4.2,Corporate Events,Daryl Johnson,0,2105,61.437586
+4085386358,1733069841,2012-10-22T00:00:00.001Z,Roland Clark's Event Planning,bardibas,medium,4.1,Weddings,Kristin Lopez,0,709,31.160542
+3964060639,1905079423,2012-10-30T00:00:00.001Z,Eleanor Barnes's Event Planning,mugu,low,3,Weddings,Roland Clark,1,183,15.761384
+3893357703,2746451489,2012-10-31T00:00:00.001Z,Vernon Parker's Event Planning,jumla,high,3.5,Private Parties,Eleanor Barnes,1,318,17.561955
+590998091,2305902318,2012-10-13T00:00:00.001Z,Bethany Gonzalez's Event Planning,humla,low,4,Corporate Events,Vernon Parker,0,5487,71.124686
+1462902079,1055441237,2012-10-31T00:00:00.001Z,Jerome Richardson's Event Planning,mustang,medium,4.5,Weddings,Bethany Gonzalez,1,1705,38.864027
+2918749132,3344985936,2012-11-02T00:00:00.001Z,Dominique Smith's Event Planning,pokhara,high,4,Weddings,Jerome Richardson,0,1910,57.753914
+2829792984,641912619,2012-10-26T00:00:00.001Z,Ruth Hernandez's Event Planning,nepalgung,medium,3.5,Private Parties,Dominique Smith,0,202,13.25753
+4133786107,3053278014,2012-10-20T00:00:00.001Z,Clifford King's Event Planning,sira,low,3.5,Corporate Events,Ruth Hernandez,1,283,13.318744
+2210350678,1434745018,2012-12-09T21:00:00.002Z,Danielle Campbell's Event Planning,bardibas,high,4,Weddings,Clifford King,0,338,18.70031
+1857985857,3026659950,2012-08-31T00:00:00.001Z,Bruce Wood's Event Planning,mugu,low,4.5,Weddings,Danielle Campbell,1,1557,47.094369
+2585678579,1018564374,2012-08-31T00:00:00.001Z,Cindy Perez's Event Planning,jumla,medium,3.4,Private Parties,Bruce Wood,0,284,14.486311
+1399695501,1388567623,2012-11-23T00:00:00.002Z,Reginald Baker's Event Planning,humla,high,3.5,Corporate Events,Cindy Perez,1,292,18.61472
+1968332736,3076890398,2012-10-20T00:00:00.001Z,Jacqueline Evans's Event Planning,mustang,medium,4.2,Weddings,Reginald Baker,0,696,29.035222
+290465119,4235478695,2012-10-18T00:00:00.001Z,Lorenzo Allen's Event Planning,pokhara,low,4.1,Awards events,Jacqueline Evans,1,573,27.055085
+1529554640,657882633,2012-10-29T00:00:00.001Z,Kristine Adams's Event Planning,kalikot,high,3.5,Weddings,Lorenzo Allen,0,772,23.004607
+53934373,208532117,2012-10-06T00:00:00.001Z,Allen Hill's Event Planning,sunsari,low,4,Private Parties,Kristine Adams,1,2265,48.744209
+3222995145,1733069841,2012-11-10T00:00:00.003Z,Gloria Howard's Event Planning,Kampot,medium,4.5,Corporate Events,Allen Hill,0,369,14.209329
+1300373544,3029409500,2012-10-29T00:00:00.001Z,Franklin Cook's Event Planning,kathmandu,high,4,Weddings,Gloria Howard,1,874,36.368839
+3676617790,2509951454,2012-11-06T03:30:00.002Z,Marjorie Moore's Event Planning,chitwan,medium,3.5,Weddings,Franklin Cook,1,302,24.353302
+3347988500,4185863978,2012-10-04T00:00:00.001Z,Danny Brown's Event Planning,birgung,low,3.5,Private Parties,Marjorie Moore,1,311,19.143321
+3457347530,941664829,2012-10-25T01:05:00.003Z,Sherry Lewis's Event Planning,chitwan,high,4,Corporate Events,Danny Brown,1,197,13.327372
+1888712494,911998654,2012-11-03T00:00:00.001Z,Stuart Richardson's Event Planning,parsa,low,4.5,Weddings,Sherry Lewis,0,880,37.917002
+2932009302,2560826107,2012-10-30T00:00:00.001Z,Andrea Martinez's Event Planning,balglung,medium,3.4,Weddings,Stuart Richardson,0,512,23.663713
+3381519000,1817277614,2012-10-29T00:00:00.001Z,Regina Carter's Event Planning,hetauda,high,3.5,Private Parties,Andrea Martinez,0,313,14.44381
+4195924644,3954474781,2012-11-03T00:00:00.001Z,Dominic Turner's Event Planning,lalitpur,medium,4.2,Corporate Events,Regina Carter,1,166,10.605084
+2936461848,2579961268,2012-11-09T00:00:00.001Z,Jacqueline Reed's Event Planning,bara,low,4.1,Weddings,Dominic Turner,1,221,11.873856
+2424001534,3271102461,2012-10-31T00:00:00.001Z,Arturo Garcia's Event Planning,japan,high,3.5,Weddings,Jacqueline Reed,1,282,12.708963
+3835917768,415464198,2012-10-29T00:00:00.001Z,Janice Collins's Event Planning,india,low,4,Private Parties,Arturo Garcia,1,78,8.098369
+401976348,2597689396,2012-10-30T00:00:00.001Z,Willie Sanchez's Event Planning,china,medium,4.5,Corporate Events,Janice Collins,0,276,20.374308
+126987905,3642324803,2012-11-06T00:00:00.001Z,Casey Ward's Event Planning,galgi,high,4,Weddings,Willie Sanchez,1,1946,42.006908
+3434302633,3975206093,2012-11-02T00:00:00.001Z,Lydia Anderson's Event Planning,galli,low,3.5,Weddings,Casey Ward,1,4571,875.581305
+3096327312,708665138,2012-10-31T02:00:00.002Z,Jerry Green's Event Planning,nepalgung,high,3.5,Private Parties,Lydia Anderson,1,1623,39.127082
+1397490059,1007347480,2012-11-11T00:00:00.003Z,Joanne Ramirez's Event Planning,sira,low,3,Corporate Events,Jerry Green,1,327,20.790703
+782675480,3137081969,2012-11-06T00:00:00.001Z,Gwendolyn Price's Event Planning,bardibas,medium,4.5,Weddings,Joanne Ramirez,1,476,18.65988
+2600467156,1294698325,2012-10-31T00:00:00.001Z,Rodney Butler's Event Planning,mugu,high,3.4,Weddings,Gwendolyn Price,1,1022,45.720894
+1935879458,4150140610,2012-10-31T00:00:00.001Z,Georgia Roberts's Event Planning,jumla,medium,3.5,Private Parties,Rodney Butler,1,444,21.789615
+3627805046,3647864012,2012-10-31T00:00:00.001Z,Oliver Flores's Event Planning,humla,low,4.2,Corporate Events,Georgia Roberts,0,390,20.199057
+651935571,3476440521,2012-09-15T23:20:00.003Z,Tracy Hill's Event Planning,mustang,high,4.1,Weddings,Oliver Flores,1,513,26.123705
+1985153611,517514445,2012-10-31T00:00:00.001Z,Bernard Howard's Event Planning,pokhara,low,3,Weddings,Tracy Hill,1,491,12.599836
+3527349382,781585781,2012-10-29T00:00:00.001Z,Bessie Martinez's Event Planning,nepalgung,medium,3.5,Private Parties,Bernard Howard,0,410,13.543053
+1243182652,1016098580,2012-10-30T00:00:00.001Z,Jeffrey Parker's Event Planning,sira,high,4,Corporate Events,Bessie Martinez,1,3336,60.722162
+2209880365,1426522332,2012-11-17T00:00:00.001Z,Martha Campbell's Event Planning,bardibas,medium,4.5,Weddings,Jeffrey Parker,0,765,32.227223
+3634712993,725266702,2012-10-29T00:00:00.001Z,Bobby Watson's Event Planning,mugu,low,4,Awards events,Martha Campbell,0,2264,46.875375
+1467610412,613687941,2012-09-28T23:25:00.003Z,Janice Ward's Event Planning,jumla,high,3.5,Weddings,Bobby Watson,1,188,11.215702
+2282291531,1098509207,2012-10-14T00:00:00.001Z,Dwight Reed's Event Planning,humla,low,3.5,Private Parties,Janice Ward,1,179,8.468586
+1281108322,3598071768,2012-10-12T00:00:00.001Z,Terri Bell's Event Planning,mustang,medium,4,Corporate Events,Dwight Reed,0,180,8.884318
+2773268550,4252244266,2012-11-06T00:00:00.001Z,Darryl Evans's Event Planning,pokhara,high,4.5,Weddings,Terri Bell,1,1071,27.491891
+1468984003,4083498051,2012-10-20T00:00:00.001Z,Eleanor Gray's Event Planning,nepalgung,high,3.4,Weddings,Darryl Evans,0,686,21.462935
+3068417283,711497121,2012-11-04T00:00:00.001Z,Edgar Johnson's Event Planning,sira,medium,3.5,Private Parties,Eleanor Gray,0,1599,28.848187
+3327844721,1020819241,2012-10-30T00:00:00.001Z,Gwendolyn Garcia's Event Planning,bardibas,low,4.2,Corporate Events,Edgar Johnson,1,2988,47.320801
+3642792280,881617516,2012-10-31T00:00:00.001Z,Joan Bennett's Event Planning,mugu,high,4.1,Weddings,Gwendolyn Garcia,0,3877,82.643036
+751127724,3832426265,2012-10-04T00:00:00.001Z,Russell Parker's Event Planning,jumla,low,3.5,Weddings,Joan Bennett,1,455,20.230535
+3213069097,4185999054,2012-11-14T14:00:00.003Z,Charlotte Turner's Event Planning,humla,medium,4,Private Parties,Russell Parker,0,1424,46.217769
+197942693,1240515743,2012-11-24T00:00:00.001Z,Joey Adams's Event Planning,mustang,high,4.5,Corporate Events,Charlotte Turner,1,719,36.952268
+4257575686,1999363021,2012-10-30T00:00:00.001Z,Angela Green's Event Planning,pokhara,medium,4,Weddings,Joey Adams,0,470,16.411345
+448676621,44098316,2012-08-31T00:00:00.001Z,Michele Lopez's Event Planning,kalikot,low,3.5,Weddings,Angela Green,1,6430,72.595961
+1827572703,1918590410,2012-12-12T00:00:00.001Z,Ross Richardson's Event Planning,sunsari,high,3.5,Private Parties,Michele Lopez,0,1532,33.648404
+3275971823,1768539776,2012-12-13T00:00:00.001Z,Clara Martinez's Event Planning,Kampot,low,4,Corporate Events,Ross Richardson,1,1896,57.69847
+367679822,4235478695,2012-12-31T00:00:00.001Z,Carlos Hernandez's Event Planning,kathmandu,medium,4.5,Weddings,Clara Martinez,0,770,34.052253
+3668618395,3324266513,2012-07-10T02:00:00.000Z,Darlene Rivera's Event Planning,chitwan,high,3.4,Weddings,Carlos Hernandez,1,1078,27.299301
+2625171567,3686526729,2012-10-30T00:00:00.001Z,Nathan Brown's Event Planning,birgung,medium,3.5,Private Parties,Darlene Rivera,1,409,20.219385
+3232226488,4120508790,2012-09-27T11:00:00.003Z,Marie Cook's Event Planning,chitwan,low,4.2,Corporate Events,Nathan Brown,1,1217,42.957216
+1570840351,3214543653,2012-10-30T00:00:00.001Z,Rachel Martinez's Event Planning,parsa,high,4.1,Weddings,Marie Cook,1,666,29.412262
+1701670121,813883609,2012-10-31T00:00:00.001Z,Phillip Perez's Event Planning,balglung,low,3.5,Weddings,Rachel Martinez,0,521,19.708731
+741577656,375876914,2012-09-30T00:00:00.001Z,Luis Rodriguez's Event Planning,hetauda,medium,4,Private Parties,Phillip Perez,0,2981,59.428223
+1311508070,1065410499,2012-10-21T00:00:00.001Z,Sally Turner's Event Planning,lalitpur,high,4.5,Corporate Events,Luis Rodriguez,0,391,19.711951
+3906525090,1900245709,2012-07-06T13:00:00.000Z,Darrell Adams's Event Planning,bara,medium,4,Weddings,Sally Turner,1,1448,49.199234
+1448857745,2939696577,2012-10-31T00:00:00.001Z,Marjorie Lewis's Event Planning,japan,low,3.5,Weddings,Darrell Adams,1,1994,46.199482
+1485887263,934253914,2012-11-04T00:00:00.001Z,Lance Johnson's Event Planning,india,high,3.5,Private Parties,Marjorie Lewis,1,216,13.758526
+4079660037,1733069841,2012-11-12T13:00:00.003Z,Janet Murphy's Event Planning,china,low,3,Corporate Events,Lance Johnson,1,992,29.505574
+916138104,1905079423,2012-10-31T00:00:00.001Z,Tyrone Parker's Event Planning,galgi,medium,4.5,Weddings,Janet Murphy,0,1523,43.873266
+3047905054,2746451489,2012-09-30T00:00:00.001Z,Bethany Rivera's Event Planning,galli,high,3.4,Weddings,Tyrone Parker,1,808,24.961625
+1324111481,2305902318,2012-08-31T00:00:00.001Z,Joey Scott's Event Planning,nepalgung,medium,3.5,Private Parties,Bethany Rivera,1,493,23.25645
+2247273347,1055441237,2012-11-08T00:00:00.001Z,Eric Jenkins's Event Planning,sira,low,4.2,Corporate Events,Joey Scott,1,2389,64.457947
+4151648493,3344985936,2012-10-31T00:00:00.001Z,Dominique Turner's Event Planning,bardibas,high,4.1,Weddings,Eric Jenkins,1,352,20.089933
+1387849986,641912619,2012-08-28T12:00:00.003Z,Emily Campbell's Event Planning,mugu,low,3,Awards events,Dominique Turner,1,1184,48.032734
+3315946306,3053278014,2012-11-11T00:00:00.001Z,Tracy Wood's Event Planning,jumla,medium,3.5,Weddings,Emily Campbell,1,630,16.92991
+2974411380,1434745018,2012-08-12T02:00:00.000Z,Gary Green's Event Planning,humla,high,4,Private Parties,Tracy Wood,1,304,14.780634
+4265122277,3026659950,2012-10-21T00:00:00.001Z,Shelley King's Event Planning,mustang,medium,4.5,Corporate Events,Gary Green,0,228,14.086292
+3219417278,1018564374,2012-10-31T00:00:00.001Z,Clinton Butler's Event Planning,pokhara,low,4,Weddings,Shelley King,1,609,29.261348
+767955252,1388567623,2012-07-20T02:00:00.000Z,Brenda Hernandez's Event Planning,nepalgung,high,3.5,Weddings,Clinton Butler,1,269,13.267631
+1501679119,3076890398,2012-10-29T17:00:00.003Z,Frederick Adams's Event Planning,sira,low,3.5,Private Parties,Brenda Hernandez,0,1862,58.401204
+3758801899,4235478695,2012-10-13T00:00:00.001Z,Sheila Wright's Event Planning,bardibas,medium,4,Corporate Events,Frederick Adams,1,385,23.515938
+529363423,657882633,2012-09-29T00:00:00.003Z,Lance Johnson’s events,mugu,high,4.5,Weddings,Sheila Wright,0,241,14.244518
+266991255,208532117,2012-10-31T00:00:00.001Z,Janet Murphy’s events,jumla,medium,3.4,Weddings,Victoria Smith,0,695,29.501489
+1407801833,1733069841,2012-10-31T00:00:00.001Z,Tyrone Parker’s events,humla,low,3.5,Private Parties,Emily Johnson,1,106,9.306253
+3494504561,3029409500,2012-10-31T00:00:00.001Z,Bethany Rivera’s events,mustang,high,4.2,Corporate Events,Michael Brown,1,97,8.37378
+1516269680,2509951454,2012-10-30T00:00:00.001Z,Joey Scott’s events,pokhara,low,4.1,Weddings,Sophia Williams,0,179,10.930537
+1003080943,4185863978,2012-10-11T00:00:00.001Z,Eric Jenkins’s events,nepalgung,medium,3.5,Weddings,Oliver Anderson,1,228,10.54544
+3681892474,941664829,2012-09-27T00:00:00.001Z,Dominique Turner’s events,sira,high,4,Private Parties,Ava Martinez,0,43,6.682006
+3441714081,911998654,2012-09-30T00:00:00.001Z,Emily Campbell’s events,bardibas,medium,4.5,Corporate Events,James Davis,0,826,46.832372
+585101277,2560826107,2012-10-26T00:00:00.001Z,Tracy Wood’s events,mugu,low,4,Weddings,Emma Wilson,1,439,24.664776
+3695021985,1817277614,2012-10-30T00:00:00.001Z,Gary Green’s events,jumla,high,3.5,Weddings,William Rodriguez,0,180,13.483387
+2411782898,3954474781,2012-10-02T20:00:00.003Z,Shelley King’s events,humla,low,3.5,Private Parties,Mia Thompson,1,1659,44.478043
+1833797882,2579961268,2012-09-19T12:30:00.003Z,Clinton Butler’s events,mustang,medium,4,Corporate Events,Noah Garcia,0,533,25.020428
+1868735086,3271102461,2012-10-30T00:00:00.001Z,Brenda Hernandez’s events,pokhara,high,4.5,Weddings,Isabella Hernandez,1,437,22.392544
+742371239,415464198,2012-10-16T00:00:00.001Z,Frederick Adams’s events,kalikot,medium,3.4,Weddings,Liam Martinez,0,2301,107.069763
+256505275,2597689396,2012-10-29T03:00:00.003Z,Sheila Wright’s events,sunsari,low,3.5,Private Parties,Charlotte Jones,1,423,22.572323
+472751320,3642324803,2012-10-22T00:00:00.002Z,Victoria Smith’s events,Kampot,high,4.2,Corporate Events,Ethan Brown,0,6478,113.858273
+2510844308,3975206093,2012-07-27T19:00:00.000Z,Emily Johnson’s events,kathmandu,low,4.1,Weddings,Amelia Taylor,1,222,10.004564
+599395378,708665138,2012-10-30T00:00:00.001Z,Michael Brown’s events,chitwan,medium,3.5,Weddings,Mason Evans,0,2463,68.734513
+2583766647,1007347480,2012-10-01T00:00:00.001Z,Sophia Williams’s events,birgung,high,4,Private Parties,Ella Martinez,1,395,18.888806
+1749438372,3137081969,2012-10-30T00:00:00.001Z,Oliver Anderson’s events,chitwan,medium,4.5,Corporate Events,Alexander Rodriguez,1,250,12.948627
+2097398760,1294698325,2012-08-30T00:00:00.001Z,Ava Martinez,parsa,low,4,Weddings,Sofia Thompson,1,611,27.11589
+2021591040,4150140610,2012-09-24T22:30:00.003Z,James Davis,balglung,high,3.5,Weddings,Logan White,1,481,26.153669
+1460702001,3647864012,2012-10-30T00:00:00.001Z,Emma Wilson,hetauda,low,3.5,Private Parties,Scarlett Brown,0,588,28.223664
+2040806459,3476440521,2012-11-18T00:00:00.001Z,William Rodriguez,lalitpur,medium,3,Corporate Events,Daniel Smith,0,895,37.507136
+739161736,517514445,2012-10-31T00:00:00.001Z,Mia Thompson,bara,high,4.5,Weddings,Audrey Garcia,0,531,11.023691
+2992630849,781585781,2012-10-04T00:00:00.001Z,Noah Garcia,japan,medium,3.4,Awards events,Nathan Anderson,1,1269,38.634767
+3031574388,1016098580,2012-08-31T09:00:00.000Z,Isabella Hernandez,india,low,3.5,Weddings,Grace Hernandez,1,602,25.877794
+426403871,1426522332,2012-11-01T00:00:00.001Z,Liam Martinez,china,high,4.2,Private Parties,Aaron Wilson,1,488,18.59991
+672898146,725266702,2012-10-05T00:00:00.001Z,Charlotte Jones,galgi,low,4.1,Corporate Events,Audrey Davis,1,207,12.282911
+2499367081,613687941,2012-11-30T16:00:00.003Z,Ethan Brown,galli,medium,3,Weddings,Sophia Rodriguez,0,5048,76.041867
+3915345019,1098509207,2012-10-31T00:00:00.001Z,Amelia Taylor,nepalgung,high,3.5,Weddings,Isaac Martinez,1,1520,54.81489
+4023489552,3598071768,2012-12-11T00:00:00.001Z,Mason Evans,sira,medium,4,Private Parties,Chloe Taylor,1,992,31.39165
+2746202243,4252244266,2012-10-31T00:00:00.001Z,Ella Martinez,bardibas,low,4.5,Corporate Events,Adam Brown,1,3857,99.561972
+1337579906,4083498051,2012-12-31T00:00:00.001Z,Alexander Rodriguez,mugu,high,4,Weddings,Olivia Evans,1,567,26.792794
+2434261763,711497121,2012-11-25T00:00:00.001Z,Sofia Thompson,jumla,low,3.5,Weddings,Ethan Davis,1,1429,36.307296
+1612428848,1020819241,2012-10-26T00:00:00.001Z,Logan White,humla,medium,3.5,Private Parties,Isabella Wilson,1,8907,104.309993
+1120137253,881617516,2012-08-31T00:00:00.001Z,Scarlett Brown,mustang,high,4,Corporate Events,Lucas Garcia,1,1599,68.140214
+3323227161,3832426265,2012-11-22T00:00:00.001Z,Daniel Smith,pokhara,high,4.5,Weddings,Ella Anderson,0,297,14.646884
+412401632,4185999054,2012-11-04T00:00:00.001Z,Audrey Garcia,nepalgung,medium,3.4,Weddings,Lily Thompson,1,1884,48.356214
+130433830,1240515743,2012-10-13T00:00:00.001Z,Nathan Anderson,sira,low,3.5,Private Parties,Jack Hernandez,1,838,28.540267
+1862523963,1999363021,2012-08-13T12:00:00.003Z,Grace Hernandez,bardibas,high,4.2,Corporate Events,Charlotte Johnson,0,1062,22.977983
+2027514460,44098316,2012-10-31T00:00:00.001Z,Aaron Wilson,mugu,low,4.1,Weddings,Owen Smith,1,1183,31.086791
+1903444229,1918590410,2012-11-11T00:00:00.001Z,Audrey Davis,jumla,medium,3.5,Weddings,Ava Martinez,0,1685,43.865294
+1287321572,1768539776,2012-11-17T00:00:00.001Z,Sophia Rodriguez,humla,high,4,Private Parties,Henry Davis,0,1400,43.055253
+4085563097,4235478695,2012-08-05T12:30:00.000Z,Isaac Martinez,mustang,medium,4.5,Corporate Events,Hannah Brown,1,403,15.772081
+3047285147,3324266513,2012-10-31T06:00:00.002Z,Chloe Taylor,pokhara,low,4,Weddings,Isaac White,1,588,26.19909
+2652418462,3686526729,2012-11-05T08:00:00.003Z,Adam Brown,nepalgung,high,3.5,Weddings,Layla Taylor,0,453,22.769108
+3258763656,4120508790,2012-10-30T00:00:00.001Z,Olivia Evans,sira,low,3.5,Private Parties,Daniel Hernandez,1,238,18.281798
+4075641901,3214543653,2012-10-08T01:05:00.003Z,Ethan Davis,bardibas,medium,4,Corporate Events,Eva Thompson,0,447,24.697533
+2534465304,813883609,2012-11-06T00:00:00.001Z,Isabella Wilson,mugu,high,4.5,Weddings,Jacob Rodriguez,0,393,19.718544
+385934286,375876914,2012-10-06T00:00:00.001Z,Lucas Garcia,jumla,medium,3.4,Weddings,Isabella Garcia,1,1743,31.349143
+2460468313,1065410499,2012-11-01T23:00:00.003Z,Ella Anderson,humla,low,3.5,Private Parties,William Anderson,0,1234,27.870312
+1960313393,1900245709,2012-10-03T00:00:00.001Z,Lily Thompson,mustang,high,4.2,Corporate Events,Ava Wilson,1,466,33.439187
+2747019143,2939696577,2012-09-30T00:00:00.001Z,Jack Hernandez,pokhara,low,4.1,Weddings,Jack Davis,0,2542,59.634029
+1112861675,934253914,2012-10-30T00:00:00.001Z,Charlotte Johnson,kalikot,medium,3.5,Weddings,Sophia Brown,1,1389,38.994297
+829789151,1733069841,2012-12-01T00:00:00.001Z,Owen Smith,sunsari,high,4,Private Parties,Liam Martinez,0,1252,49.660055
+1901024297,1905079423,2012-10-29T00:00:00.001Z,Ava Martinez,Kampot,medium,4.5,Corporate Events,Sophia Taylor,1,215,11.743085
+2140038223,2746451489,2012-11-04T00:00:00.001Z,Henry Davis,kathmandu,low,4,Weddings,Oliver Hernandez,0,94,9.110247
+2608868276,2305902318,2012-10-07T00:00:00.001Z,Hannah Brown,chitwan,high,3.5,Awards events,Ella Thompson,1,1600,6.227675
+756677655,1055441237,2012-11-18T00:00:00.001Z,Isaac White,birgung,low,3.5,Weddings,Isaac Smith,0,1175,42.57877
+3515917616,3344985936,2012-11-03T00:00:00.001Z,Layla Taylor,chitwan,medium,3,Private Parties,Olivia Davis,1,314,15.858629
+777926482,641912619,2012-10-08T22:00:00.003Z,Daniel Hernandez,parsa,high,4.5,Corporate Events,Mason Brown,1,208,14.866901
+1788118360,3053278014,2012-10-27T00:00:00.001Z,Eva Thompson,balglung,medium,3.4,Weddings,Sophie Wilson,1,779,15.194239
+4002262960,1434745018,2012-11-30T20:00:00.002Z,Jacob Rodriguez,hetauda,low,3.5,Weddings,Aiden Anderson,1,9413,146.757391
+2983692212,3026659950,2012-10-31T00:00:00.001Z,Isabella Garcia,lalitpur,high,4.2,Private Parties,Emily Garcia,0,186,8.629665
+2205781579,1018564374,2012-10-21T00:00:00.001Z,William Anderson,bara,low,4.1,Corporate Events,Noah Taylor,0,269,16.803457
+3568507739,1388567623,2012-11-10T10:20:00.003Z,Ava Wilson,japan,medium,3,Weddings,Sophie Hernandez,0,52,2.952595
+259831208,3076890398,2012-08-31T00:00:00.001Z,Jack Davis,india,high,3.5,Weddings,Owen Johnson,1,687,31.324734
+3609305791,4235478695,2012-10-26T00:00:00.001Z,Sophia Brown,china,medium,4,Private Parties,Lucas Martinez,1,274,20.415572
+1359628311,657882633,2012-11-23T00:00:00.002Z,Liam Martinez,galgi,low,4.5,Corporate Events,Chloe Davis,1,575,28.613892
+2418119146,208532117,2012-11-15T00:00:00.001Z,Sophia Taylor,galli,high,4,Weddings,Jack Anderson,1,1286,85.428395
+4338728,1733069841,2012-10-26T00:00:00.001Z,Oliver Hernandez,nepalgung,low,3.5,Weddings,Alexander Smith,0,5.3,4.137237
+2224372535,3029409500,2012-10-26T00:00:00.001Z,Ella Thompson,sira,medium,3.5,Private Parties,Charlotte Taylor,1,1772,60.246978
+3602218872,2509951454,2012-11-09T00:00:00.001Z,Isaac Smith,bardibas,high,4,Corporate Events,Isabella Brown,1,1165,42.551902
+2572191829,4185863978,2012-11-14T00:00:00.002Z,Olivia Davis,mugu,medium,4.5,Weddings,James Wilson,1,979,40.137264
+1279926604,941664829,2012-11-04T08:00:00.003Z,Mason Brown,jumla,low,3.4,Weddings,Emily White,0,409,24.857079
+2925123964,911998654,2012-09-01T00:00:00.001Z,Sophie Wilson,humla,high,3.5,Private Parties,Mia Hernandez,0,4856,40.413191
+68165527,2560826107,2012-09-25T23:00:00.003Z,Aiden Anderson,mustang,low,4.2,Corporate Events,Oliver Thompson,0,202,13.859307
+496448210,1817277614,2012-11-13T05:00:00.003Z,Emily Garcia,pokhara,medium,4.1,Weddings,Isaac Davis,0,386,18.832471
+621804360,3954474781,2012-11-22T00:00:00.001Z,Noah Taylor,nepalgung,high,3.5,Weddings,Sophia Martinez,1,145,9.568884
+2215538627,2579961268,2012-09-29T00:00:00.001Z,Sophie Hernandez,sira,medium,4,Private Parties,Ava Anderson,1,261,12.421504
+1802384866,3271102461,2012-10-31T21:00:00.003Z,Owen Johnson,bardibas,low,4.5,Corporate Events,Liam Wilson,1,340,18.096884
+3457772907,415464198,2012-11-10T14:00:00.003Z,Lucas Martinez,mugu,high,4,Weddings,Emma Smith,1,195,11.056763
+3735610888,2597689396,2012-10-06T19:00:00.003Z,Chloe Davis,jumla,low,3.5,Weddings,Noah Garcia,0,242,13.218008
+1375097426,3642324803,2012-12-04T22:30:00.003Z,Jack Anderson,humla,medium,3.5,Private Parties,Olivia Hernandez,1,178,11.262655
+2768148641,3975206093,2012-11-10T01:00:00.003Z,Alexander Smith,mustang,high,4,Corporate Events,Ethan Brown,1,4274,68.717016
+3714528190,708665138,2012-07-06T05:00:00.000Z,Charlotte Taylor,pokhara,medium,4.5,Weddings,Ella Wilson,0,569,19.412028
+1524210198,1007347480,2012-12-08T15:00:00.003Z,Isabella Brown,nepalgung,low,3.4,Weddings,Alexander Davis,1,331,16.791058
+2812096822,3137081969,2012-08-14T07:00:00.000Z,James Wilson,sira,high,3.5,Private Parties,Sophie Johnson,0,4997,65.197968
+912591076,1294698325,2012-08-08T22:00:00.000Z,Emily White,bardibas,low,4.2,Corporate Events,Charlotte Brown,0,1373,32.829538
+3230037737,4150140610,2012-11-15T03:00:00.003Z,Mia Hernandez,mugu,medium,4.1,Weddings,Lucas Martinez,1,1343,30.951203
+3568530093,3647864012,2012-10-31T23:00:00.003Z,Oliver Thompson,jumla,high,3.5,Awards events,Isabella Thompson,1,4048,103.698022
+3158209536,3476440521,2012-10-26T08:00:00.003Z,Isaac Davis,humla,medium,4,Weddings,Jack Hernandez,0,648,31.719463
+3578194644,517514445,2012-12-22T04:00:00.003Z,Sophia Martinez,mustang,low,4.5,Private Parties,Ava Smith,1,944,47.973995
+1040287874,781585781,2012-12-13T17:30:00.003Z,Ava Anderson,pokhara,high,4,Corporate Events,Emily Wilson,0,5862,143.041543
+1740216148,1016098580,2012-12-15T04:00:00.003Z,Liam Wilson,kalikot,low,3.5,Weddings,Oliver Anderson,0,3583,86.476817
+3748371922,1426522332,2012-10-03T23:00:00.003Z,Emma Smith,sunsari,medium,3.5,Weddings,Sophia Taylor,1,1174,59.824565
+3024415288,725266702,2012-09-28T16:00:00.003Z,Noah Garcia,Kampot,high,3,Private Parties,William Rodriguez,0,205,18.345613
+2091000363,613687941,2012-10-20T05:00:00.003Z,Olivia Hernandez,kathmandu,medium,4.5,Corporate Events,Mia Davis,1,4537,56.488027
+3564580304,1098509207,2012-11-19T23:00:00.003Z,Ethan Brown,chitwan,low,3.4,Weddings,Charlotte Brown,0,817,29.464852
+1291223,3598071768,2012-12-15T03:30:00.003Z,Ella Wilson,birgung,high,3.5,Weddings,Liam Taylor,1,506,18.106021
+3876880539,4252244266,2012-07-27T22:00:00.000Z,Alexander Davis,chitwan,low,4.2,Private Parties,Emma Wilson,0,1589,42.881415
+163596401,4083498051,2012-08-05T08:00:00.000Z,Sophie Johnson,parsa,medium,4.1,Corporate Events,Noah Martinez,1,352,18.735024
+2311535183,711497121,2012-08-18T00:00:00.003Z,Charlotte Brown,balglung,high,3,Weddings,Olivia Thompson,0,1919,62.766854
+3234404367,1020819241,2012-11-18T21:30:00.003Z,Lucas Martinez,hetauda,medium,3.5,Weddings,James Hernandez,1,487,24.153567
+2460940520,881617516,2012-11-19T00:00:00.003Z,Isabella Thompson,lalitpur,low,4,Private Parties,Sophie Johnson,0,1272,41.515702
+1381542878,3832426265,2012-08-11T02:00:00.000Z,Jack Hernandez,bara,high,4.5,Corporate Events,Charlotte Brown,1,588,26.676487
+2564944207,4185999054,2012-06-17T18:00:00.000Z,Ava Smith,japan,low,4,Weddings,Alexander Davis,1,353,16.278022
+1477873310,1240515743,2012-11-14T05:00:00.003Z,Emily Wilson,india,medium,3.5,Weddings,Ella Smith,1,526,18.831023
+4040720416,1999363021,2012-12-09T16:30:00.003Z,Oliver Anderson,china,high,3.5,Private Parties,Isaac Wilson,1,3040,113.161483
+3244310441,44098316,2012-09-29T03:00:00.003Z,Sophia Taylor,galgi,high,4,Corporate Events,Mia Garcia,0,636,28.800112
+783009956,1918590410,2012-11-22T03:00:00.003Z,William Rodriguez,galli,medium,4.5,Weddings,Oliver White,0,521,19.705489
+336717413,1768539776,2012-11-04T02:00:00.003Z,Mia Davis,nepalgung,high,3.4,Weddings,Lucas Thompson,0,2808,41.430245
+3541026589,4235478695,2012-10-30T00:00:00.003Z,Charlotte Brown,sira,medium,3.5,Private Parties,Emily Taylor,1,422,23.127561
+3917650144,3324266513,2012-11-17T14:00:00.003Z,Liam Taylor,bardibas,low,4.2,Corporate Events,William Rodriguez,1,292,12.867352
+261979142,3686526729,2012-11-26T20:00:00.002Z,Emma Wilson,mugu,high,4.1,Weddings,Ava Anderson,1,1451,44.815022
+2347805619,4120508790,2012-07-07T14:45:00.000Z,Noah Martinez,jumla,low,3.5,Weddings,Liam Wilson,1,779,37.537093
+518353450,3214543653,2012-10-06T02:00:00.003Z,Olivia Thompson,humla,medium,4,Private Parties,Emma Hernandez,0,207,10.99991
+3848398728,813883609,2012-12-01T22:00:00.002Z,James Hernandez,mustang,high,4.5,Corporate Events,Noah Davis,1,2998,56.868399
+50143156,375876914,2012-07-28T17:00:00.000Z,Sophie Johnson,pokhara,medium,4,Weddings,Olivia Martinez,1,604,22.991269
+582469111,1065410499,2012-11-03T18:00:00.003Z,Charlotte Brown,nepalgung,low,3.5,Weddings,James Johnson,1,247,15.798622
+1380967886,1900245709,2012-06-08T22:30:00.000Z,Alexander Davis,sira,high,3.5,Private Parties,Sophie Smith,1,1325,38.820858
+3667347651,2939696577,2012-10-23T19:00:00.003Z,Ella Smith,bardibas,low,4,Corporate Events,Alexander Brown,1,203,10.292864
+2859517688,934253914,2012-11-15T18:00:00.003Z,Isaac Wilson,mugu,medium,4.5,Weddings,Charlotte Wilson,1,1386,51.146047
+1390215838,1733069841,2012-12-08T00:30:00.003Z,Mia Garcia,jumla,high,3.4,Awards events,Isaac Garcia,1,950,20.501582
+585591875,1905079423,2012-12-02T04:00:00.003Z,Oliver White,humla,high,3.5,Weddings,Mia Thompson,0,1553,45.299089
+2104779638,2746451489,2012-12-02T04:00:00.003Z,Lucas Thompson,mustang,medium,4.2,Private Parties,Oliver Taylor,1,137,4.280619
+3752361120,2305902318,2012-07-31T02:00:00.000Z,Emily Taylor,pokhara,high,4.1,Corporate Events,Ella Anderson,1,644,28.848842
+2051823435,1055441237,2012-11-01T20:00:00.003Z,William Rodriguez,nepalgung,medium,3.5,Weddings,Lucas Hernandez,0,575,22.501041
+96388984,3344985936,2012-10-14T00:30:00.003Z,Ava Anderson,sira,low,4,Weddings,Emily White,1,2225,47.479755
+1411420719,641912619,2012-08-19T00:00:00.003Z,Liam Wilson,bardibas,high,4.5,Private Parties,William Rodriguez,0,109,10.147321
+3224415095,3053278014,2012-09-20T18:00:00.003Z,Emma Hernandez,mugu,low,4,Corporate Events,Emma Martinez,0,789,39.539045
+3858649440,1434745018,2012-03-30T19:00:00.000Z,Noah Davis,jumla,medium,3.5,Weddings,Noah Davis,1,527,19.747459
+4196123543,3026659950,2013-04-16T08:00:00.002Z,Olivia Martinez,humla,high,3.5,Weddings,Olivia Wilson,1,581,29.018826
+289547860,1018564374,2012-11-16T06:00:00.003Z,James Johnson,mustang,medium,3,Private Parties,James Thompson,0,50,4.801849
+4120081214,1388567623,2012-10-13T11:00:00.003Z,Sophie Smith,pokhara,low,4.5,Corporate Events,Sophia Brown,1,258,16.493576
+3052249532,3076890398,2012-08-26T10:00:00.003Z,Alexander Brown,kalikot,high,3.4,Weddings,Liam Johnson,0,483,21.549232
+485759520,4235478695,2012-08-31T01:00:00.003Z,Charlotte Wilson,sunsari,low,3.5,Weddings,Sophie Smith,0,210,13.080725
+371146330,657882633,2012-07-07T19:00:00.000Z,Isaac Garcia,Kampot,medium,4.2,Private Parties,Alexander Hernandez,1,1173,42.538258
+2227327488,208532117,2012-11-11T03:00:00.003Z,Mia Thompson,kathmandu,high,4.1,Corporate Events,Charlotte Davis,0,1581,29.876507
+2106045350,1733069841,2013-01-01T21:00:00.002Z,Oliver Taylor,chitwan,high,3,Weddings,Isaac Wilson,1,1621,61.849521
+1035220016,3029409500,2012-06-15T10:00:00.000Z,Ella Anderson,birgung,medium,3.5,Weddings,Mia Garcia,0,1365,37.44963
+4016707245,2509951454,2012-06-23T19:00:00.000Z,Lucas Hernandez,chitwan,high,4,Private Parties,Oliver Thompson,1,1462,37.378081
+645496062,4185863978,2012-08-06T02:00:00.000Z,Emily White,parsa,medium,4.5,Corporate Events,Emily Wilson,0,668,30.656345
+1147128236,941664829,2012-11-17T01:00:00.003Z,William Rodriguez,balglung,low,4,Weddings,William Rodriguez,1,338,15.142701
+525756623,911998654,2012-12-13T03:00:00.003Z,Emma Martinez,hetauda,high,3.5,Weddings,Emma Martinez,0,3070,59.547928
+818429524,2560826107,2012-12-08T15:30:00.003Z,Noah Davis,lalitpur,low,3.5,Private Parties,Noah Davis,1,425,19.998581
+588028409,1817277614,2012-11-17T00:00:00.001Z,Olivia Wilson,bara,medium,4,Corporate Events,Olivia Hernandez,0,669,27.615108
+4067449894,3954474781,2012-12-08T20:00:00.003Z,James Thompson,japan,high,4.5,Weddings,James Taylor,1,1778,29.041198
+3107665104,2579961268,2012-10-06T00:00:00.001Z,Sophia Brown,india,medium,3.4,Weddings,Sophia Brown,1,524,25.293538
+1986350795,3271102461,2012-07-17T17:30:00.000Z,Liam Johnson,china,low,3.5,Private Parties,Liam Johnson,1,1125,23.85119
+1931835222,415464198,2012-09-28T19:00:00.003Z,Sophie Smith,galgi,high,4.2,Corporate Events,Sophie Smith,1,484,21.685719
+485122519,2597689396,2012-11-19T07:00:00.003Z,Alexander Hernandez,galli,low,4.1,Weddings,Alexander Hernandez,0,201,13.630049
+2059837219,3642324803,2012-10-18T23:30:00.003Z,Charlotte Davis,nepalgung,medium,3.5,Weddings,Charlotte Davis,0,80,6.80692
+3302022697,3975206093,2012-12-04T00:00:00.001Z,Isaac Wilson,sira,high,4,Private Parties,Isaac Wilson,0,225,15.352807
+95222610,708665138,2012-11-09T00:00:00.001Z,Mia Garcia,bardibas,high,4.5,Corporate Events,Mia Garcia,1,556,23.661071
+1263083592,1007347480,2012-08-31T01:30:00.003Z,Oliver Thompson,mugu,medium,4,Weddings,Oliver Thompson,1,479,21.605533
+847448590,3137081969,2012-11-26T03:30:00.003Z,Los Angeles,jumla,high,3.5,Awards events,Emily Hernandez,1,391,22.620125
+1366335449,1294698325,2013-04-20T12:30:00.003Z,pickel,humla,medium,3.5,Weddings,William Rodriguez,1,366,18.587114
+2593875755,4150140610,2012-11-30T21:00:00.002Z,Phoenix,mustang,low,4,Private Parties,Emma Martinez,0,487,24.657931
+2579662896,3647864012,2012-11-24T18:00:00.003Z,Sorrento,pokhara,high,4.5,Corporate Events,Noah Davis,1,130,12.621769
+3834096078,3476440521,2020-01-01T00:00:00.002Z,sonoma events,nepalgung,low,3.4,Weddings,Olivia Hernandez,1,380,21.08952
+2093124256,517514445,2012-12-22T00:00:00.001Z,Philipsburg,sira,medium,3.5,Weddings,James Taylor,1,375,18.380176
+1975214296,781585781,2012-11-29T21:30:00.003Z,Philadelphia,bardibas,high,4.2,Private Parties,Sophia Brown,1,368,18.877795
+1835505558,1016098580,2012-10-07T02:00:00.003Z,washit,mugu,medium,4.1,Corporate Events,Liam Johnson,1,234,17.299333
+1632751544,1426522332,2012-09-08T10:00:00.002Z,reange,jumla,low,3.5,Weddings,Sophie Smith,1,251,16.848899
+1536697503,725266702,2012-11-08T00:00:00.003Z,Chapel Hill,humla,high,4,Weddings,Alexander Hernandez,1,797,21.547446
+2403068738,613687941,2012-10-12T00:00:00.001Z,Mauston,mustang,low,4.5,Private Parties,Charlotte Davis,0,464,16.930969
+1789989449,1098509207,2013-01-09T06:00:00.003Z,bulet,pokhara,medium,4,Corporate Events,Isaac Wilson,1,549,36.689223
+2563401651,3598071768,2012-05-21T15:00:00.000Z,Vancouver,nepalgung,high,3.5,Weddings,Mia Garcia,1,692,28.350927
+376189925,4252244266,2012-11-20T13:00:00.003Z,villas,sira,high,3.5,Weddings,Oliver Thompson,0,372,18.815442
+3215772830,4083498051,2012-08-04T02:00:00.000Z,begorgar,bardibas,medium,3,Private Parties,Emily Hernandez,1,742,29.787135
+2755694033,711497121,2012-12-15T21:00:00.003Z,Albuquerque,mugu,high,4.5,Corporate Events,William Rodriguez,0,204,8.927137
+3368350052,1020819241,2012-08-18T03:00:00.003Z,Arlington,jumla,medium,3.4,Weddings,Emma Martinez,0,287,15.213484
+38524330,881617516,2012-07-03T04:00:00.000Z,hill,humla,low,3.5,Weddings,Noah Davis,1,271,13.155999
+2425868121,3832426265,2012-06-30T00:00:00.000Z,top,mustang,high,4.2,Private Parties,Olivia Hernandez,1,285,15.433244
+1857725308,4185999054,2012-11-09T21:00:00.003Z,piece,pokhara,low,4.1,Corporate Events,James Taylor,0,109,5.762037
+207098887,1240515743,2012-08-12T04:00:00.000Z,Hollywood,kalikot,medium,3,Weddings,Sophia Brown,1,487,22.736038
+2618547501,1999363021,2012-10-20T14:30:00.003Z,naruto,sunsari,high,3.5,Weddings,Liam Johnson,0,1602,45.514031
+404325670,44098316,2012-11-03T17:00:00.003Z,Toronto,Kampot,medium,3.5,Private Parties,Sophie Smith,0,371,18.676291
+1356756236,1918590410,2012-08-26T01:00:00.003Z,candatorn,kathmandu,low,4,Corporate Events,Alexander Hernandez,1,274,14.376463
+514011616,1768539776,2012-10-27T19:00:00.003Z,carrom,chitwan,high,4.5,Weddings,Charlotte Davis,0,166,14.298297
+796822764,4235478695,2012-11-25T03:00:00.003Z,Crest Hill,birgung,low,4,Weddings,Isaac Wilson,1,592,27.018886
+3442924375,3324266513,2012-08-22T03:00:00.003Z,Miami Beach,chitwan,medium,3.5,Private Parties,Mia Garcia,0,320,14.84856
+4078921042,3686526729,2012-10-29T22:00:00.003Z,chesthill,parsa,high,3.5,Corporate Events,Oliver Thompson,1,1055,52.417529
+2826742018,4120508790,2012-11-30T22:46:49.002Z,checkmate,balglung,high,4,Weddings,Emily Hernandez,0,224,15.406173
+155557856,3214543653,2013-03-09T09:00:00.003Z,Sheffield,hetauda,medium,4.5,Weddings,William Rodriguez,1,110,6.523472
+3071741653,813883609,2012-12-10T07:30:00.003Z,laslang,lalitpur,high,3.4,Private Parties,Emma Martinez,0,24,4.72629
+1239551311,375876914,2012-08-03T00:00:00.000Z,Las Vegas,bara,medium,3.5,Corporate Events,Noah Davis,1,91,8.923215
+1540632454,1065410499,2012-09-24T16:00:00.003Z,landoflod,japan,low,4.2,Weddings,Olivia Hernandez,0,10995,514.569956
+3501516037,1900245709,2012-10-26T02:00:00.003Z,Miami Beach,india,high,4.1,Awards events,James Taylor,1,111,9.265672
+2951513418,2939696577,2012-08-22T14:00:00.002Z,Fayetteville,china,low,3.5,Weddings,Sophia Brown,1,4469,87.53437
+1843880228,934253914,2012-12-11T22:00:00.003Z,Pereira,galgi,medium,4,Private Parties,Liam Johnson,1,995,45.351617
+2388147069,1733069841,2012-11-17T04:00:00.003Z,Asheville,galli,high,4.5,Corporate Events,Sophie Smith,1,579,13.43573
+18215235,1905079423,2012-09-21T00:00:00.003Z,Atlanta,nepalgung,medium,4,Weddings,Alexander Hernandez,0,134,6.248309
+301829251,2746451489,2012-10-13T19:00:00.003Z,Gilbertsville,sira,low,3.5,Weddings,Charlotte Davis,0,690,31.294717
+1898037368,2305902318,2012-10-12T23:00:00.003Z,Clearwater,bardibas,high,3.5,Private Parties,Isaac Wilson,0,130,7.739276
+2270102256,1055441237,2012-09-26T19:30:00.003Z,guungs,mugu,low,4,Corporate Events,Mia Garcia,1,388,19.694695
+4014484701,3344985936,2012-10-17T00:00:00.003Z,lungss,jumla,medium,4.5,Weddings,Oliver Thompson,1,276,14.403696
+1986267159,641912619,2012-09-22T18:00:00.003Z,London,humla,high,3.4,Weddings,Emily Hernandez,1,1658,1.551497
+2474915261,3053278014,2012-11-04T05:00:00.003Z,SugarLand,mustang,high,3.5,Private Parties,William Rodriguez,1,1363,2.143764
+1000096950,1434745018,2012-10-25T19:00:00.003Z,mamo,pokhara,medium,4.2,Corporate Events,Emma Martinez,0,178,12.29603
+1035272527,3026659950,2013-03-08T22:00:00.003Z,Akron,nepalgung,high,4.1,Weddings,Noah Davis,1,1374,33.8473
+3160799083,1018564374,2012-10-17T04:00:00.003Z,Altamonte Springs,sira,medium,3.5,Weddings,Olivia Hernandez,1,453,21.723897
+746004244,1388567623,2012-10-31T01:00:00.003Z,mand,bardibas,low,4,Private Parties,James Taylor,1,535,31.791979
+2948991861,3076890398,2012-10-13T04:00:00.003Z,madoi,mugu,high,4.5,Corporate Events,Sophia Brown,1,226,14.113066
+3665853555,4235478695,2012-11-14T19:00:00.003Z,London,jumla,low,4,Weddings,Liam Johnson,1,1135,48.622278
+2126360479,657882633,2012-10-27T19:00:00.003Z,hunt,humla,medium,3.5,Weddings,Sophie Smith,1,145,9.061866
+3280118129,208532117,2012-10-18T19:00:00.003Z,desk,mustang,high,3.5,Private Parties,Alexander Hernandez,1,842,35.4763
+3214231049,1733069841,2012-11-24T19:30:00.003Z,Dublin,pokhara,medium,3,Corporate Events,Charlotte Davis,0,381,23.438398
+2963067539,3029409500,2012-11-24T14:00:00.003Z,drum,nepalgung,low,4.5,Weddings,Isaac Wilson,1,7927,138.133331
+1706843515,2509951454,2012-11-15T08:00:00.003Z,dreake,sira,high,3.4,Weddings,Mia Garcia,1,1177,47.336034
+2994761976,4185863978,2012-11-02T03:00:00.003Z,drake,bardibas,low,3.5,Private Parties,Oliver Thompson,0,1698,29.97224
+3008421892,941664829,2012-11-22T18:39:22.002Z,,mugu,medium,4.2,Corporate Events,Emily Hernandez,1,1457,47.845589
+3429068144,911998654,2012-09-27T23:00:00.003Z,Austin,jumla,high,4.1,Weddings,William Rodriguez,0,1022,48.507081
+1980367212,2560826107,2012-09-28T00:00:00.001Z,,humla,high,3,Weddings,Emma Martinez,0,702,20.28119
+3332224184,1817277614,2012-07-13T19:00:00.000Z,,mustang,medium,3.5,Private Parties,Noah Davis,1,1665,34.576913
+2567718553,3954474781,2012-12-22T13:00:00.003Z,Niles,pokhara,high,4,Corporate Events,Olivia Hernandez,1,496,22.573237
+1525403821,2579961268,2012-10-19T15:00:00.003Z,Fairview,kalikot,medium,4.5,Weddings,James Taylor,0,1129,36.194802
+450237005,3271102461,2012-08-23T03:30:00.003Z,Missoula,sunsari,low,4,Weddings,Sophia Brown,1,2454,52.786917
+3201578953,415464198,2013-07-31T15:00:00.002Z,,Kampot,high,3.5,Private Parties,Liam Johnson,0,1122,38.06168
+1239807738,2597689396,2012-09-01T03:00:00.003Z,,kathmandu,low,3.5,Corporate Events,Sophie Smith,0,1019,19.830132
+4109451679,3642324803,2012-08-11T02:00:00.000Z,Montreal,chitwan,medium,4,Weddings,Alexander Hernandez,1,2954,79.922059
+1126460162,3975206093,2012-08-18T13:00:00.000Z,Teoloyucan,birgung,high,4.5,Awards events,Charlotte Davis,0,485,19.738215
+3098082351,708665138,2012-11-03T05:00:00.003Z,Scottsdale,chitwan,medium,3.4,Weddings,Isaac Wilson,1,498,20.334629
+864648986,1007347480,2012-12-07T01:00:00.003Z,Fresno,parsa,low,3.5,Private Parties,Mia Garcia,0,2525,80.581367
+769548302,3137081969,2012-07-05T19:30:00.000Z,Austin,balglung,high,4.2,Corporate Events,Oliver Thompson,1,772,32.05145
+2301288090,1294698325,2012-12-03T00:00:00.001Z,Treviglio,hetauda,low,4.1,Weddings,Emily Hernandez,0,210,15.064058
+1843547516,4150140610,2012-10-14T17:00:00.003Z,Book Fair,lalitpur,medium,3.5,Weddings,William Rodriguez,1,529,21.272734
+2486769057,3647864012,2012-09-28T20:00:00.003Z,Music Concert,bara,high,4,Private Parties,Emma Martinez,0,4949,79.754966
+2259107837,3476440521,2012-11-11T04:00:00.003Z,Fashion Show,japan,high,4.5,Corporate Events,Noah Davis,1,254,13.191829
+2753288679,517514445,2012-07-18T19:00:00.000Z,Food Festival,india,medium,4,Weddings,Olivia Hernandez,0,3948,50.622607
+4023930600,781585781,2012-07-14T06:00:00.000Z,Movie Premiere,china,high,3.5,Weddings,James Taylor,1,458,22.787667
+501314028,1016098580,2012-11-15T08:00:00.003Z,Technology Expo,galgi,medium,3.5,Private Parties,Sophia Brown,1,636,29.498304
+684411144,1426522332,2012-08-15T19:30:00.000Z,Cultural Fair,galli,low,4,Corporate Events,Liam Johnson,1,735,25.400935
+3350068575,725266702,2012-11-15T08:00:00.003Z,Street Parade,nepalgung,high,4.5,Weddings,Sophie Smith,1,256,17.231675
+688307242,613687941,2012-11-12T01:30:00.003Z,Charity Gala,sira,low,3.4,Weddings,Alexander Hernandez,0,751,32.835777
+2918988666,1098509207,2012-10-29T22:30:00.003Z,Outdoor Adventure,bardibas,medium,3.5,Private Parties,Charlotte Davis,0,461,17.097041
+46930776,3598071768,2013-03-15T11:00:00.002Z,Community Event,mugu,high,4.2,Corporate Events,Isaac Wilson,0,254,14.414937
+2433114557,4252244266,2012-10-14T17:00:00.003Z,Local Market,jumla,medium,4.1,Weddings,Mia Garcia,1,1633,45.856409
+3614860500,4083498051,2012-11-22T02:00:00.003Z, Broozed & Broken-Boned,humla,low,3.5,Weddings,Oliver Thompson,1,120,7.027139
+4043675568,711497121,2012-10-18T18:00:00.003Z,Street Art Festival,mustang,high,4,Private Parties,Emily Hernandez,1,658,32.657488
+1791006714,1020819241,2012-07-26T11:00:00.000Z,Street Performances,pokhara,low,4.5,Corporate Events,William Rodriguez,1,236,12.46525
+2704128184,881617516,2012-08-04T08:00:00.000Z,Beach Party,nepalgung,medium,4,Weddings,Emma Martinez,0,883,39.882276
+3877594933,3832426265,2013-06-16T00:00:00.001Z,Music Festival,sira,high,3.5,Weddings,Noah Davis,1,881,39.395881
+2024635530,4185999054,2012-10-13T00:00:00.003Z,Comic Con,bardibas,high,3.5,Private Parties,Olivia Hernandez,1,189,8.634954
+2533212840,1240515743,2012-09-08T21:00:00.003Z,Street Food Festival,mugu,medium,3,Corporate Events,James Taylor,1,146,7.386394
+320526920,1999363021,2012-07-04T22:00:00.000Z,Car Show,jumla,high,4.5,Weddings,Sophia Brown,1,188,8.802525
+3768483386,44098316,2012-11-03T20:00:00.002Z,Science Fair,humla,medium,3.4,Weddings,Liam Johnson,1,251,10.449975
+3260243095,1918590410,2012-08-05T00:00:00.000Z,Health Expo,mustang,low,3.5,Private Parties,Sophie Smith,1,374,23.700759
+591048011,1768539776,2012-09-02T23:00:00.003Z,Summer Festival,pokhara,high,4.2,Corporate Events,Alexander Hernandez,1,1131,27.50916
+4152358995,4235478695,2012-09-29T21:30:00.002Z,Art Exhibition,nepalgung,low,4.1,Weddings,Charlotte Davis,0,284,20.58862
+2278244909,3324266513,2012-12-07T16:00:00.003Z,Movie Premiere,sira,medium,3,Weddings,Isaac Wilson,1,194,4.366488
+3513599911,3686526729,2012-06-27T11:00:00.000Z,Music Concert,bardibas,high,3.5,Private Parties,Mia Garcia,1,438,18.927463
+3890607081,4120508790,2012-11-19T01:26:27.002Z,Fashion Show,mugu,medium,4,Corporate Events,Oliver Thompson,0,303,15.274137
+3948281695,3214543653,2012-11-22T04:30:00.003Z,Local Market,jumla,low,4.5,Weddings,Emily Hernandez,1,703,29.954302
+910196085,813883609,2012-11-21T00:00:00.001Z,Street Parade,humla,high,4,Awards events,William Rodriguez,0,48,4.362535
+2538439083,375876914,2013-01-13T00:00:00.001Z,Beach Party,mustang,low,3.5,Weddings,Emma Martinez,0,62,4.700024
+2878363897,1065410499,2012-11-09T20:00:00.003Z,Music Festival,pokhara,medium,3.5,Private Parties,Noah Davis,1,134,12.340384
+3524397386,1900245709,2012-11-04T00:00:00.001Z,Comic Con,kalikot,high,4,Corporate Events,Olivia Hernandez,1,316,14.808304
+2109233260,2939696577,2012-12-21T16:30:00.003Z,Street Food Festival,sunsari,high,4.5,Weddings,James Taylor,0,91,9.27875
+367292025,934253914,2012-12-01T20:00:00.003Z,Outdoor Adventure,Kampot,medium,3.4,Weddings,Sophia Brown,1,573,22.863516
+670892108,1733069841,2012-09-28T10:00:00.003Z, Inc.,kathmandu,high,3.5,Private Parties,Liam Johnson,0,346,23.05451
+1363599562,1905079423,2012-06-03T21:30:00.000Z,Science Fair,chitwan,medium,4.2,Corporate Events,Sophie Smith,0,395,23.962109
+1971308807,2746451489,2012-12-16T18:00:00.003Z,Health Expo,birgung,low,4.1,Weddings,Alexander Hernandez,1,123,12.669778
+372708290,2305902318,2012-07-21T15:00:00.000Z,Book Fair,chitwan,high,3.5,Weddings,Charlotte Davis,0,1528,67.169587
+4040103238,1055441237,2012-08-13T22:00:00.000Z,Charity Gala,parsa,low,4,Private Parties,Isaac Wilson,1,2039,41.472404
+2522264405,3344985936,2012-11-14T08:00:00.003Z,Food Festival,balglung,medium,4.5,Corporate Events,Mia Garcia,0,481,22.503935
+249123341,641912619,2012-06-06T22:00:00.000Z,Street Art Festival,hetauda,high,4,Weddings,Oliver Thompson,1,1546,59.194915
+1937282755,3053278014,2012-10-13T03:00:00.003Z,Movie Premiere,lalitpur,medium,3.5,Weddings,Emily Hernandez,0,327,22.894898
+25766138,1434745018,2012-10-09T23:00:00.003Z,Music Concert,bara,low,3.5,Private Parties,William Rodriguez,1,407,18.600367
+94139756,3026659950,2012-12-01T18:00:00.003Z,Fashion Show,japan,high,4,Corporate Events,Emma Martinez,0,629,30.515175
+638752549,1018564374,2012-12-09T23:00:00.003Z,Art Exhibition,india,low,4.5,Weddings,Noah Davis,1,104,9.053456
+461821474,1388567623,2012-12-15T17:00:00.003Z,Summer Festival,china,medium,3.4,Weddings,Olivia Hernandez,0,95,7.768223
+2801865419,3076890398,2012-06-03T00:00:00.000Z,Art Exhibition,galgi,high,3.5,Private Parties,James Taylor,1,308,19.643365
+1416915019,4235478695,2013-01-01T19:00:00.003Z,Music Concert,galli,high,4.2,Corporate Events,Sophia Brown,1,1432,45.565918
+2252223613,657882633,2012-12-18T21:30:00.002Z,Movie Premiere,nepalgung,medium,4.1,Weddings,Liam Johnson,1,1300,57.374341
+3175819236,208532117,2012-11-04T00:00:00.001Z,Local Market,sira,high,3.5,Weddings,Super Gals,1,113,8.41856
+2013519290,1733069841,2012-10-15T01:00:00.003Z,Outdoor Adventure,bardibas,high,4,Private Parties,A Love Divided,0,1242,46.049902
+3996571072,3029409500,2012-07-20T09:30:00.000Z,Music Festival,mugu,medium,4.5,Corporate Events,Short: International Release #2,0,526,23.9366
+274783596,2509951454,2012-12-21T17:00:00.003Z,Street Parade,jumla,high,4,Weddings,Mikey and Nicky,0,1486,49.593978
+1419735084,4185863978,2012-05-02T11:00:00.000Z,Street Food Festival,humla,medium,3.5,Weddings,Sharpe 4: Sharpe's Enemy,1,459,16.637642
+622768449,941664829,2012-12-02T01:00:00.003Z,Outdoor Adventure,mustang,low,3.5,Private Parties,Mating Habits of the Earthbound Human,1,26,1.453765
+209009003,911998654,2014-02-26T23:00:00.002Z,Comic Con,pokhara,high,3,Corporate Events,Gloria Estefan: Evolution Tour: Live in Miami,1,81,6.162872
+3680158231,2560826107,2012-12-31T00:00:00.001Z,Science Fair,nepalgung,low,4.5,Weddings,Deep Cover,1,3795,73.944049
+3931428544,1817277614,2012-12-12T10:00:00.002Z,Health Expo,sira,medium,3.4,Weddings,Cup Final,0,1702,38.306954
+539740530,3954474781,2012-06-11T00:00:00.000Z,Charity Gala,bardibas,high,3.5,Private Parties,The Maldonado Miracle,1,832,26.251217
+2898468358,2579961268,2012-10-20T03:00:00.003Z,Community Event,mugu,medium,4.2,Corporate Events,Ray,1,1386,30.780599
+2503835851,3271102461,2012-12-29T19:00:00.002Z,Book Fair,jumla,low,4.1,Weddings,Monster-in-Law: Bonus Material,1,1013,25.41929
+3596668357,415464198,2012-10-17T00:00:00.001Z,Movie Premiere,humla,high,3,Awards events,Discovering Australia,1,316,15.98212
+22056281,2597689396,2012-12-06T20:00:00.003Z,Food Festival,mustang,low,3.5,Weddings,Reno 911: Season 2,1,771,40.072583
+2067710285,3642324803,2012-11-04T07:00:00.003Z,Outdoor Adventure,pokhara,medium,4,Private Parties,Harsh Realm: The Complete Series,1,736,32.015477
+2676974579,3975206093,2012-10-30T00:00:00.001Z,Street Art Festival,nepalgung,high,4.5,Corporate Events,Zakk Wylde's Black Label Society: Boozed,1,435,24.444186
+3013377882,708665138,2012-10-27T13:00:00.003Z, Can You Spare a Dime?,sira,high,4,Weddings,The Bedford Incident,0,1307,40.06688
+171938039,1007347480,2013-01-01T00:00:00.001Z,Street Parade,bardibas,medium,3.5,Weddings,Blue's Clues: Classic Clues,1,675,27.916284
+2705809839,3137081969,2012-12-01T02:00:00.003Z,Art Exhibition,mugu,high,3.5,Private Parties,The Muse,1,278,15.20707
+3615226130,1294698325,2012-06-30T13:00:00.000Z,Music Concert,jumla,medium,4,Corporate Events,Dersu Uzala,0,927,39.001682
+2035585763,4150140610,2012-07-20T18:30:00.000Z,Fashion Show,humla,low,4.5,Weddings,Dangerous Minds,1,225,10.430832
+543189876,517514445,2012-11-11T19:00:00.003Z,Local Market,mustang,high,3.4,Weddings,Bride and Prejudice,0,109,5.952527
+1984679844,781585781,2012-10-26T20:00:00.003Z,Outdoor Adventure,pokhara,low,3.5,Private Parties,The Body,0,2436,94.815867
+3807473703,1016098580,2012-04-20T18:30:00.000Z,Comic Con,kalikot,medium,4.2,Corporate Events,Out of Ireland: The Hit Songs and Artists of Irish Music,1,4056,67.298732
+1974635237,1426522332,2013-07-19T02:00:00.002Z,Science Fair,sunsari,high,4.1,Weddings,Eat Drink Man Woman,1,1652,26.60772
+3762734970,725266702,2012-10-28T02:00:00.003Z,Health Expo,Kampot,medium,3.5,Weddings,Diary of a Country Priest,0,909,28.803729
+103590222,613687941,2012-11-25T20:00:00.003Z,Street Food Festival,kathmandu,low,4,Private Parties,Fascination,1,913,27.039636
+773399280,1098509207,2012-11-09T02:00:00.003Z,Charity Gala,chitwan,high,4.5,Corporate Events,Hamlet,0,4697,68.87691
+3340573405,3598071768,2012-11-23T00:00:00.001Z,Community Event,birgung,low,4,Weddings,Gargoyles,0,915,37.885022
+1664835126,4252244266,2012-11-18T05:00:00.003Z,Book Fair,chitwan,medium,3.5,Weddings,Remedy,1,832,35.537397
+1185803846,4083498051,2012-09-08T00:00:00.001Z,Movie Premiere,parsa,high,3.5,Private Parties,Benny Hill: Complete and Unadulterated: The Naughty Early Years: Set 1,0,923,38.125008
+889564561,711497121,2012-08-18T00:00:00.003Z,Music Concert,balglung,high,4,Corporate Events,Animal Crackers,1,644,18.121404
+374048142,1020819241,2012-12-10T00:00:00.003Z,Fashion Show,hetauda,medium,4.5,Weddings,Sense and Sensibility,0,2435,37.069253
+2426388013,881617516,2013-11-23T08:00:00.002Z,Street Parade,lalitpur,high,3.4,Weddings,Too Young to Die,1,716,30.347332
+1616708432,3832426265,2013-01-20T00:00:00.001Z,Street Food Festival,bara,medium,3.5,Private Parties,Santa Fe Trail,0,850,23.854701
+2224639772,4185999054,2012-12-11T19:30:00.003Z,Outdoor Adventure,japan,low,4.2,Corporate Events,Buck Rogers,1,3319,52.380982
+1301669091,1240515743,2012-06-20T02:00:00.000Z,Comic Con,india,high,4.1,Weddings,Angelina Ballerina: Friends Forever,0,1516,50.163785
+1735709930,1999363021,2012-11-13T22:00:00.003Z,Summer Festival,china,low,3.5,Weddings,Dead Kennedys: In God We Trust,1,1813,43.849351
+1149638753,44098316,2012-06-26T14:30:00.000Z,Art Exhibition,galgi,medium,4,Private Parties,R.E.M.: Road Movie,0,1650,45.318703
+3827397292,1918590410,2012-11-24T00:00:00.003Z,Music Concert,galli,high,4.5,Corporate Events,Haven,1,277,16.368283
+3534614322,1768539776,2012-06-28T19:00:00.000Z,Fashion Show,nepalgung,medium,4,Weddings,Earth 2: The Complete Series,1,854,38.616744
+3868051210,4235478695,2012-11-18T00:00:00.001Z,Movie Premiere,sira,low,3.5,Weddings,String Cheese Incident: Live at the Fillmore,1,1652,65.90161
+704788176,3324266513,2012-10-26T20:00:00.003Z,Street Food Festival,bardibas,high,3.5,Private Parties,A Hard Day's Night: Collector's Series,1,1630,45.220386
+2861834535,3686526729,2012-11-17T14:19:13.002Z,Health Expo,mugu,low,3,Corporate Events,Comedian,0,548,17.457947
+2215398706,4120508790,2012-04-21T14:00:00.000Z,Charity Gala,jumla,medium,4.5,Weddings,Satanis: The Devil's Mass / Sinthia: The Devil's Doll: Double Feature,0,213,10.755847
+747554299,3214543653,2012-08-25T18:00:00.003Z, Jr.: A Historical Perspective,humla,high,3.4,Awards events,Don't Bother to Knock,0,909,38.629763
+3490999933,813883609,2012-11-23T18:00:00.002Z,Outdoor Adventure,mustang,high,3.5,Weddings,Gojoe: Spirit War Chronicle,1,5.9,32.693093
+826092517,375876914,2012-11-03T18:30:00.002Z,Food Festival,pokhara,medium,4.2,Private Parties,Giant Robo,1,399,18.806031
+2296924167,1065410499,2012-06-23T19:00:00.000Z,Music Festival,nepalgung,high,4.1,Corporate Events,Taxi Zum Klo,1,632,32.233713
+956755358,1900245709,2012-11-10T21:00:00.002Z,Street Parade,sira,medium,3,Weddings,Dodsworth,1,2443,37.990705
+2305604511,2939696577,2012-10-20T18:00:00.002Z,Comic Con,bardibas,low,3.5,Weddings,Fear Of A Punk Planet,0,820,17.667826
+1018847377,934253914,2012-11-16T05:00:00.003Z,Street Food Festival,mugu,high,4,Private Parties,Danielle Steel's Changes,1,193,9.225166
+284092691,1733069841,2012-12-03T01:30:00.003Z,Outdoor Adventure,jumla,low,4.5,Corporate Events,The Night That Never Happened,1,1381,46.180421
+2821614227,1905079423,2012-03-16T02:00:00.000Z,Movie Premiere,humla,medium,4,Weddings,Journeys with George,1,513,30.397496
+3441297029,2746451489,2012-12-04T22:30:00.003Z,Music Concert,mustang,high,3.5,Weddings,Back to the Beach,1,2268,83.295796
+1048852222,2305902318,2012-12-12T23:15:00.003Z,Community Event,pokhara,medium,3.5,Private Parties,Another Day in Paradise,1,509,23.935053
+536760421,1055441237,2012-11-11T01:00:00.003Z,Summer Festival,nepalgung,low,4,Corporate Events,Where Are We?,1,4442,84.630969
+1049220100,3344985936,2012-11-24T17:00:00.003Z,Art Exhibition,sira,high,4.5,Weddings,Backyardigans: It's Great to Be a Ghost,1,692,16.251204
+3559843167,641912619,2012-08-25T11:00:00.002Z,Food Festival,bardibas,low,3.4,Weddings,River of No Return,0,106,9.894346
+4071576342,3053278014,2012-10-18T22:30:00.003Z,Fashion Show,mugu,medium,3.5,Private Parties,Read Or Die,1,542,12.050755
+1967264384,1434745018,2012-12-01T18:00:00.003Z,Local Market,jumla,high,4.2,Corporate Events,A Dangerous Man: Lawrence After Arabia,1,220,11.596207
+3851452731,3026659950,2012-12-07T22:00:00.003Z,Outdoor Adventure,humla,high,4.1,Weddings,Fallen,0,3239,53.02787
+3755605745,1018564374,2012-07-06T00:00:00.000Z,Street Parade,mustang,medium,3.5,Weddings,Scarecrow,1,276,14.382253
+2028799780,1388567623,2012-10-28T02:00:00.003Z,Music Concert,pokhara,high,4,Private Parties,Midsomer Murders: A Tale of Two Hamlets,0,1567,43.450266
+4172033582,3076890398,2012-11-02T17:30:00.002Z,Street Food Festival,kalikot,medium,4.5,Corporate Events,Hercules,0,451,16.871194
+2321079855,4235478695,2012-06-29T19:00:00.000Z,Outdoor Adventure,sunsari,low,4,Weddings,Screw Loose,1,938,42.526529
+3077306146,657882633,2012-07-06T02:00:00.000Z,Comic Con,Kampot,high,3.5,Weddings,The Pagemaster,1,755,34.890999
+1334598769,208532117,2013-11-23T22:00:00.002Z,Movie Premiere,kathmandu,low,3.5,Private Parties,Dave Chappelle: For What It's Worth,0,267,18.186026
+8800310,1733069841,2012-09-01T20:00:00.003Z,Music Concert,chitwan,medium,4,Corporate Events,Brother,1,223,13.576765
+2439659702,3029409500,2012-08-25T21:00:00.003Z,Fashion Show,birgung,high,4.5,Weddings,The Duel at Silver Creek,0,395,19.434672
+345032114,2509951454,2012-04-29T21:00:00.000Z,Art Exhibition,chitwan,medium,3.4,Weddings,Sex and the Teenage Mind,0,1506,62.925175
+3596511766,4185863978,2012-08-18T20:00:00.003Z,Summer Festival,parsa,low,3.5,Private Parties,The Cincinnati Kid,1,1067,32.927994
+2359059226,941664829,2012-12-11T01:00:00.003Z,Music Concert,balglung,high,4.2,Corporate Events,Aap Mujhe Achche Lagne Lage,0,203,14.837288
+1831375037,911998654,2012-06-30T20:30:00.000Z,New York,hetauda,low,4.1,Weddings,Henry Fool,1,1611,39.920035
+3468776735,2560826107,2012-12-24T19:00:00.002Z,upside,lalitpur,medium,3.5,Weddings,Explosive Dance,0,582,28.725621
+2579099444,1817277614,2013-01-05T03:00:00.003Z,Milwaukee,bara,medium,4,Private Parties,Richard Rodgers: The Sweetest Sounds,1,817,20.566554
+1173568395,3954474781,2012-06-29T13:00:00.000Z,Magdeburg,japan,high,4.5,Corporate Events,My Favorite Wife,0,434,20.333953
+1985674305,2579961268,2012-08-18T19:30:00.000Z,Maumee,india,high,4,Weddings,Fahrenheit 451,1,652,33.98637
+208543108,3271102461,2013-04-28T08:00:00.002Z,downdown,china,medium,3.5,Awards events,I Capture the Castle,0,1417,42.472324
+1628587864,415464198,2012-07-21T15:00:00.000Z,Amsterdam,galgi,high,3.5,Weddings,Rhyme & Reason,1,255,15.931084
+3566672382,2597689396,2013-06-30T09:00:00.002Z,hiade,galli,medium,3,Private Parties,Blankman,0,1267,29.880122
+4290834741,3642324803,2012-05-15T19:00:00.000Z,lungdd,nepalgung,low,4.5,Corporate Events,Lost in Space: Season 2: Vol. 1,1,750,28.803802
+2270982980,3975206093,2012-09-19T00:00:00.003Z,Austin,sira,high,3.4,Weddings,World Cup Soccer Highlights: 1966-1974,1,298,14.993459
+1572254883,708665138,2012-06-14T13:00:00.000Z,ashish,bardibas,low,3.5,Weddings,Jay Jay the Jet Plane: Lessons for All Seasons,1,104,9.114168
+2554796748,1007347480,2012-11-24T16:00:00.003Z,Oakville,mugu,medium,4.2,Private Parties,The Unforgiven,1,269,12.31101
+671830406,3137081969,2012-11-11T16:00:00.003Z,bake event,jumla,high,4.1,Corporate Events,Love in the Afternoon,0,1233,41.362082
+3207172764,1294698325,2012-12-08T20:00:00.003Z,planmeup,humla,medium,3,Weddings,I Spy,0,189,13.298205
+3154054521,4150140610,2012-11-04T16:00:00.003Z,Clarksville,mustang,low,3.5,Weddings,A Streetcar Named Desire,0,371,19.085403
+3585232042,1082663738,2012-06-23T22:00:00.000Z,Buffalo,pokhara,high,4,Private Parties,The Tick: The Entire Series,1,88,9.622345
+1999687206,4260229419,2012-12-14T03:00:00.003Z,Huntington Beach,nepalgung,low,4.5,Corporate Events,Metropolitan Opera: Puccini: Tosca,1,205,11.106006
+2789362944,375876914,2012-12-01T17:00:00.003Z,Clovis,sira,medium,4,Weddings,Young and Dangerous 2,1,149,12.25622
+2005469055,915567472,2012-10-28T00:00:00.001Z,choktheplan,bardibas,high,3.5,Weddings,Main Hoon Na,1,510,13.365715
+520972156,3677512893,2012-11-24T22:00:00.003Z,desikodhan,mugu,high,3.5,Private Parties,Dottie Gets Spanked,0,268,16.167093
+745551106,1819026847,2012-11-17T03:00:00.003Z,New York,jumla,medium,4,Corporate Events,Stripteaser,1,387,23.073933
+615455831,2725058216,2012-12-10T00:00:00.001Z,Bucharest,humla,high,4.5,Weddings,Yesterday Once More,1,654,6.567065
+1185341478,829861497,2012-10-05T22:30:00.003Z,bachkahta event,mustang,medium,3.4,Weddings,Unprecedented: The 2000 Presidential Election,1,75,6.22577
+3642151870,2092586885,2012-07-28T04:00:00.000Z,San Diego,pokhara,low,3.5,Private Parties,Ben Harper: Live at the Hollywood Bowl,1,1817,42.933027
+4100325227,3395965531,2012-06-23T12:00:00.000Z,Gardone Riviera,nepalgung,high,4.2,Corporate Events,Dr. Martin Luther King,1,286,19.226763
+1608368938,3692226187,2012-10-04T00:00:00.003Z,Lawrence,sira,low,4.1,Weddings,The Devil and Daniel Webster,1,206,10.089065
+3577533499,1206071154,2012-11-23T18:00:00.002Z,laure eent,bardibas,medium,3.5,Weddings,Convict 762,1,368,13.391833
+1815015202,3852181952,2012-11-01T17:30:00.003Z,Regina,mugu,high,4,Private Parties,Tom and Jerry: Paws for a Holiday,0,373,21.637234
+2378269062,2109081461,2012-11-14T05:00:00.003Z,regine event,jumla,medium,4.5,Corporate Events,Our Lady of the Assassins,1,1436,61.245957
+1418026382,2681589650,2012-12-16T01:00:00.003Z,Daly City,humla,low,4,Weddings,Yi Yi,1,775,25.237969
+1952078807,2173535301,2012-10-06T02:00:00.003Z,deshmal,mustang,high,3.5,Weddings,A Moment of Romance,0,428,21.589393
+1720447783,3230808317,2012-11-02T21:00:00.003Z,Fredericton,pokhara,low,3.5,Private Parties,The Swan Princess,1,480,22.442241
+4032864503,902162282,2012-09-16T02:30:00.003Z,Plymouth,kalikot,medium,4,Corporate Events,How I Got into College,0,120,6.004422
+1715375387,854084454,2012-10-31T00:00:00.001Z,parigang,sunsari,high,4.5,Weddings,Dil Chahta Hai,0,1148,74.64653
+2155093174,4038178742,2012-11-14T20:00:00.003Z,Timisoara,Kampot,high,3.4,Weddings,Wishful Thinking,1,848,35.481169
+917037467,4185999054,2012-11-17T15:00:00.003Z,harichand,kathmandu,medium,3.5,Private Parties,The Young Lions,1,458,14.723467
+2860303065,923044431,2030-11-11T04:30:00.002Z,benchoeevnet,chitwan,high,4.2,Corporate Events,The Mummy,0,6.2,21.084542
+1584649093,4219060195,2012-08-18T23:00:00.003Z,Mexicali,birgung,medium,4.1,Weddings,The Trip,1,501,21.408222
+2955136153,436820041,2012-07-08T10:00:00.000Z,mexicanevent,chitwan,low,3.5,Awards events,Rescue from Gilligan's Island,0,391,19.267479
+1314501386,2152760920,2012-12-29T19:00:00.002Z,brokeeevn,parsa,high,4,Weddings,Operation Pacific,0,81,3.314004
+2458234043,1540268976,2012-08-29T00:00:00.003Z,Brooklyn,balglung,low,4.5,Private Parties,The Door in the Floor,1,274,21.312186
+2602266633,2649231959,2012-11-16T08:00:00.003Z,hang,hetauda,medium,4,Corporate Events,Meet John Doe,0,108,7.44268
+1571946233,2080183227,2012-06-22T21:30:00.000Z,Toronto,lalitpur,high,3.5,Weddings,Burn Up Excess: Vol. 2: Crimes and Missed Demeanors,1,235,12.54949
+2413438203,2597689396,2012-12-15T02:00:00.003Z,jack,bara,medium,3.5,Weddings,The Cowboys,0,444,18.394571
+1830989879,1815300560,2012-12-30T02:00:00.003Z,Savannah,japan,low,3,Private Parties,The Shadow,1,44,8.189406
+3533179471,1844552986,2012-11-18T18:00:00.003Z,Jon,india,high,4.5,Corporate Events,Children of the Corn,0,760,27.631262
+2338241717,507118660,2012-08-11T16:00:00.000Z,Jason,china,low,3.4,Weddings,Dark Town,1,984,40.721373
+416861949,565395717,2012-10-26T12:00:00.003Z,Joshua,galgi,medium,3.5,Weddings,Yojimbo,0,132,11.329727
+953702623,1423428565,2012-11-11T09:30:00.003Z,Paul,galli,high,4.2,Private Parties,Miracle of the White Stallions,1,797,37.253774
+1204122424,3613123704,2012-09-01T19:00:00.003Z,Harry,nepalgung,high,4.1,Corporate Events,Frida: Bonus Material,0,76,6.397388
+180926260,2811169496,2012-12-02T03:00:00.003Z,Christopher,sira,medium,3,Weddings,The Favor,1,37,2.275331
+2029119577,3284791908,2012-10-28T23:30:00.003Z,Katie,bardibas,high,3.5,Weddings,Jim Breuer: Hardcore,1,600,30.387148
+3779504700,231277497,2012-10-18T00:00:00.001Z,Brandon,mugu,medium,4,Private Parties,Sophia Brown,1,112,8.139676
+2430975141,3244665695,2012-10-07T06:00:00.002Z,James,jumla,low,4.5,Corporate Events,Liam Johnson,1,437,21.746245
+2491948818,2564676004,2012-08-18T02:00:00.003Z,Robin,humla,high,4,Weddings,Super Gals,0,71,2.808428
+1574835046,1957374656,2013-08-20T04:00:00.002Z,Jesse,mustang,low,3.5,Weddings,A Love Divided,0,666,31.02233
+3241562243,4287559096,2012-11-10T19:00:00.002Z,Elizabeth,pokhara,medium,3.5,Private Parties,Short: International Release #2,0,562,25.170217
+772899545,1090423841,2012-11-03T00:00:00.001Z,Daniel,nepalgung,high,4,Corporate Events,Mikey and Nicky,1,3152,80.972475
+628616862,903361356,2012-06-14T21:00:00.000Z,Anne,sira,medium,4.5,Weddings,Sharpe 4: Sharpe's Enemy,1,639,26.38704
+3795421454,3559628294,2012-10-19T23:00:00.003Z,Easton,bardibas,low,3.4,Weddings,Mating Habits of the Earthbound Human,1,3062,116.700319
+444092634,827975580,2012-06-06T13:00:00.000Z,event_planner,mugu,high,3.5,Private Parties,Gloria Estefan: Evolution Tour: Live in Miami,1,826,33.884459
+1555666390,1880889337,2012-07-13T20:00:00.000Z,Winnetka,jumla,low,4.2,Corporate Events,Deep Cover,0,1267,53.043124
+1456219652,2442308366,2012-04-13T22:00:00.000Z,Toronto,humla,medium,4.1,Weddings,Cup Final,1,13,0.716764
+2797582750,1812679891,2012-07-14T13:30:00.000Z,Dublin,mustang,high,3.5,Weddings,The Maldonado Miracle,1,692,34.973086
+4036034245,2660950647,2012-11-07T04:00:00.003Z,dustin,pokhara,high,4,Private Parties,Ray,1,547,40.371098
+1852610112,3538131375,2012-10-05T00:00:00.003Z,Tallahassee,nepalgung,medium,4.5,Corporate Events,Monster-in-Law: Bonus Material,1,518,18.60049
+255881582,676296945,2012-11-25T01:00:00.003Z,Jakarta,sira,high,4,Weddings,Discovering Australia,1,695,30.920075
+3875071360,4038851801,2012-11-17T04:00:00.003Z,Michael,bardibas,medium,3.5,Weddings,Reno 911: Season 2,1,418,11.940711
+1539241888,1865661506,2012-09-15T16:00:00.003Z,Julie,mugu,low,3.5,Private Parties,Harsh Realm: The Complete Series,1,512,19.348007
+2689810425,2123885758,2012-11-21T20:00:00.002Z,Kim,jumla,high,4,Corporate Events,Zakk Wylde's Black Label Society: Boozed,0,68,8.59075
+2770725368,3569391490,2012-11-17T04:00:00.003Z,Andrew,humla,low,4.5,Weddings,The Bedford Incident,1,1188,48.801089
+22148106,415464198,2012-06-13T20:00:00.000Z,Charles,mustang,medium,3.4,Weddings,Blue's Clues: Classic Clues,1,2200,88.844777
+3476445146,1011055202,2012-09-23T23:00:00.003Z,Jessica,pokhara,high,3.5,Private Parties,The Muse,0,333,16.000178
+2252542154,4204855944,2012-12-22T00:10:00.003Z,Michael,kalikot,medium,4.2,Corporate Events,Dersu Uzala,1,594,19.525659
+117216328,3034024635,2012-11-14T08:00:00.003Z,Paul,sunsari,low,4.1,Weddings,Dangerous Minds,0,9,1.246883
+2708576666,2046527284,2012-12-08T00:00:00.001Z,Joseph,Kampot,high,3.5,Weddings,Bride and Prejudice,0,251,7.859226
+1441862665,1007191301,2012-04-02T00:30:00.000Z,Jon,kathmandu,low,4,Private Parties,The Body,1,339,18.102572
+903499581,1459769259,2012-11-04T00:00:00.001Z,jonny,chitwan,medium,4.5,Corporate Events,Out of Ireland: The Hit Songs and Artists of Irish Music,1,6.5,7.226115
+954482745,1797349124,2012-10-28T15:00:00.003Z,Jackson,birgung,medium,4,Weddings,Eat Drink Man Woman,0,1488,63.071046
+1935284852,1397071192,2012-08-27T00:00:00.003Z,Brooklyn,chitwan,high,3.5,Weddings,Diary of a Country Priest,1,357,24.132271
+1617330573,1038314502,2012-10-19T04:00:00.003Z,Montebello,parsa,high,3.5,Private Parties,Fascination,0,104,10.410933
+3545378315,973165417,2012-06-10T12:00:00.000Z,hackk,balglung,medium,3,Corporate Events,Hamlet,0,74,6.067212
+262856525,4159941994,2012-10-20T07:00:00.003Z,rack,hetauda,high,4.5,Weddings,Gargoyles,1,584,15.401855
+4284458231,1863752201,2012-09-11T14:00:00.003Z,Morrison,lalitpur,medium,3.4,Weddings,Remedy,0,252,10.698929
+1485186317,3967536640,2012-11-02T23:00:00.003Z,Denver,bara,low,3.5,Private Parties,Benny Hill: Complete and Unadulterated: The Naughty Early Years: Set 1,1,1148,41.322708
+590373702,1692276935,2012-10-09T00:00:00.001Z,black,japan,high,4.2,Corporate Events,Animal Crackers,0,661,25.6713
+368688218,1053645469,2012-11-16T00:00:00.003Z,Cloverdale,india,low,4.1,Weddings,Sense and Sensibility,1,420,22.581313
+87345208,3266809215,2012-12-01T14:30:00.003Z,apain,china,medium,3,Weddings,Too Young to Die,0,232,12.971122
+1302333203,3369847197,2012-11-02T22:30:00.003Z,Gainesville,galgi,high,3.5,Private Parties,Santa Fe Trail,1,1424,26.721386
+3778529460,531193568,2012-10-13T15:00:00.003Z,Brentonico,galli,medium,4,Corporate Events,Buck Rogers,0,573,24.672234
+3193702044,2747591385,2012-10-14T01:00:00.003Z,Ambridge,nepalgung,low,4.5,Weddings,Angelina Ballerina: Friends Forever,1,2,0.146783
+2388329316,1036311779,2012-10-05T12:00:00.003Z,South Melbourne,sira,high,4,Weddings,Dead Kennedys: In God We Trust,0,543,28.964162
+3045034349,1562961445,2012-11-07T00:00:00.003Z,Sarasota,bardibas,low,3.5,Private Parties,R.E.M.: Road Movie,1,2757,49.353524
+3230236382,2189634830,2012-11-18T10:00:00.003Z,sarsa,mugu,medium,3.5,Corporate Events,Haven,1,912,36.585509
+1282065302,2095852678,2012-10-27T09:00:00.003Z,Oradea,jumla,high,4,Weddings,Earth 2: The Complete Series,1,961,32.624355
+3300036356,3672277537,2012-04-11T19:00:00.000Z,Potts Point,humla,high,4.5,Weddings,String Cheese Incident: Live at the Fillmore,1,1309,53.090422
+3552734430,1570744263,2012-10-21T06:00:00.003Z,aramevent,mustang,medium,3.4,Private Parties,A Hard Day's Night: Collector's Series,0,6,30.002907
+1028484844,3794548558,2012-12-01T03:30:00.003Z,Anaheim,pokhara,high,3.5,Corporate Events,Comedian,0,371,17.923254
+1383259600,1423103500,2012-09-07T01:00:00.003Z,billo event,nepalgung,medium,4.2,Weddings,Satanis: The Devil's Mass / Sinthia: The Devil's Doll: Double Feature,0,278,17.746719
+1518970874,2750786683,2012-08-23T09:00:00.003Z,Brisbane,sira,low,4.1,Awards events,Don't Bother to Knock,1,1111,31.305336
+3859654859,3212649025,2012-09-22T19:00:00.003Z,bramin event,bardibas,high,3.5,Weddings,Gojoe: Spirit War Chronicle,1,433,19.637704
+3287174120,2137345617,2012-06-23T17:00:00.000Z,intel event,mugu,low,4,Private Parties,Giant Robo,1,406,10.411996
+1222195086,430587397,2012-10-18T13:00:00.003Z,samundar,jumla,medium,4.5,Corporate Events,Taxi Zum Klo,1,3085,88.496873
+533037772,3324001380,2012-11-02T00:00:00.001Z,Butuan City,humla,high,4,Weddings,Dodsworth,0,1634,52.081131
+2415675545,4233240358,2012-12-01T16:00:00.003Z,Bloomington,mustang,medium,3.5,Weddings,Fear Of A Punk Planet,1,710,30.816341
+2929106216,3382033992,2012-06-28T23:30:00.000Z,parmetere,pokhara,low,3.5,Private Parties,Danielle Steel's Changes,1,982,35.376971
+4011664036,3217851091,2013-03-03T06:00:00.002Z,desihit,nepalgung,high,4,Corporate Events,The Night That Never Happened,1,501,17.047276
+4279779704,219783853,2012-05-30T15:45:00.000Z,Los Angeles,sira,low,4.5,Weddings,Journeys with George,1,1905,43.815492
+3294933817,429184250,2012-04-14T20:00:00.000Z,New York,bardibas,medium,3.4,Weddings,Back to the Beach,1,496,23.234651
+1728255365,415464198,2012-12-21T00:00:00.002Z,blacktop,mugu,high,3.5,Private Parties,Another Day in Paradise,1,299,17.270539
+2136226438,2926008530,2012-11-04T01:30:00.003Z,Brooklyn,jumla,high,4.2,Corporate Events,Where Are We?,1,610,27.684779
+1235337105,415464198,2012-08-01T00:15:00.000Z,Austin,humla,medium,4.1,Weddings,Backyardigans: It's Great to Be a Ghost,0,575,26.79781
+3809460356,4269917288,2012-12-13T01:30:00.003Z,Anaheim,mustang,high,3.5,Weddings,River of No Return,1,1869,37.073127
+3403067512,1869968483,2012-12-01T14:00:00.003Z,Upper Marlboro,pokhara,medium,4,Private Parties,Read Or Die,1,2303,87.350802
+4156776095,606127236,2012-09-29T03:00:00.003Z,sleva,kalikot,low,4.5,Corporate Events,A Dangerous Man: Lawrence After Arabia,0,741,26.134678
+3336486339,2630747564,2012-12-22T03:00:00.003Z,Statesville,sunsari,high,4,Weddings,Fallen,1,313,16.582709
+2846192664,3098349314,2012-11-04T05:00:00.003Z,began,Kampot,low,3.5,Weddings,Scarecrow,0,150,10.731574
+2604969915,3033289422,2013-04-16T18:00:00.002Z,hook,kathmandu,medium,3.5,Private Parties,Midsomer Murders: A Tale of Two Hamlets,0,26,2.094151
+2261777881,4107303658,2012-10-27T02:00:00.003Z,liliy,chitwan,high,3,Corporate Events,Hercules,1,176,8.99269
+446719709,21879627,2013-01-01T04:00:00.003Z,gardapan,birgung,medium,4.5,Weddings,Screw Loose,1,1315,51.742065
+4072047795,2525891053,2012-11-18T15:30:00.003Z,Guelph,chitwan,low,3.4,Weddings,The Pagemaster,0,69,7.157635
+2102651368,482815872,2012-08-11T17:00:00.000Z,Chloe,parsa,high,3.5,Private Parties,Dave Chappelle: For What It's Worth,1,1292,12.06538
+1145679885,933205564,2012-11-11T00:00:00.001Z,Justin,balglung,low,4.2,Corporate Events,Brother,0,1006,44.120328
+3818970726,2258380842,2012-11-11T01:30:00.003Z,Emma,hetauda,medium,4.1,Weddings,The Duel at Silver Creek,0,119,6.156015
+241079044,4045220494,2012-10-12T00:00:00.003Z,Springfield,lalitpur,high,3,Weddings,Sex and the Teenage Mind,1,210,12.362876
+292060687,348882271,2012-11-04T01:00:00.003Z,New York,bara,high,3.5,Private Parties,The Cincinnati Kid,0,134,11.095914
+2438655068,2648220383,2012-12-09T03:00:00.003Z,appa,japan,medium,4,Corporate Events,Aap Mujhe Achche Lagne Lage,1,766,31.856589
+1944205507,2107414735,2012-12-21T00:00:00.003Z,Lexington,india,high,4.5,Weddings,Henry Fool,0,537,24.459948
+2318311318,1199171978,2012-06-14T19:00:00.000Z,Austin,china,medium,4,Weddings,Explosive Dance,1,852,28.029015
+3987365215,2829828289,2012-09-12T14:30:00.003Z,Union,galgi,low,3.5,Private Parties,Richard Rodgers: The Sweetest Sounds,0,366,20.239061
+3612442868,1152135489,2012-10-27T01:00:00.003Z,Louisville,galli,high,3.5,Corporate Events,My Favorite Wife,1,562,25.876582
+1657307122,170531345,2012-12-22T03:00:00.003Z,Los Angeles,nepalgung,low,4,Weddings,Fahrenheit 451,0,410,11.872841
+4013431505,898081867,2012-05-25T21:00:00.000Z,Irvine,sira,medium,4.5,Awards events,I Capture the Castle,1,796,20.360549
+2088400426,24859591,2012-04-21T08:00:00.000Z,Nakuru,bardibas,high,3.4,Weddings,Rhyme & Reason,0,661,32.31022
+3579731683,3652935542,2012-12-06T14:00:00.003Z,apple event,mugu,medium,3.5,Private Parties,Blankman,1,676,27.568194
+3080495057,1888276696,2012-09-02T02:00:00.003Z,Apaseo el Grande,jumla,low,4.2,Corporate Events,Lost in Space: Season 2: Vol. 1,1,100,6.250282
+3572054999,1308909982,2012-12-01T18:00:00.003Z,Philadelphia,humla,high,4.1,Weddings,World Cup Soccer Highlights: 1966-1974,1,154,11.120344
+1805416901,3305427548,2012-11-06T19:30:00.003Z,Mario,mustang,low,3.5,Weddings,Jay Jay the Jet Plane: Lessons for All Seasons,1,244,13.707183
+1234057856,855964627,2012-10-27T15:00:00.003Z,Anna,pokhara,medium,4,Private Parties,The Unforgiven,0,215,12.495436
+819051500,243787227,2012-09-29T06:30:00.003Z,Alice,nepalgung,high,4.5,Corporate Events,Love in the Afternoon,0,151,6.803965
+759886376,2733626291,2012-12-01T00:30:00.003Z,Kevin,sira,high,4,Weddings,I Spy,0,136,9.025236
+1199575078,2184800759,2012-06-14T02:00:00.000Z,Julia,bardibas,medium,3.5,Weddings,A Streetcar Named Desire,1,60,7.524671
+2175971750,4017254256,2013-06-22T20:00:00.003Z,Christina,mugu,high,3.5,Private Parties,The Tick: The Entire Series,1,71,3.770161
+2369956359,1454581584,2012-09-30T00:00:00.001Z,Richard,jumla,medium,4,Corporate Events,Metropolitan Opera: Puccini: Tosca,1,670,21.118196
+367717839,3597518188,2012-09-15T00:00:00.001Z,Daniel,humla,low,4.5,Weddings,Young and Dangerous 2,1,154,6.513856
+1988758270,3076925574,2012-11-11T02:00:00.003Z,Lily,mustang,high,3.4,Weddings,Main Hoon Na,0,90,11.387408
+2906461846,1938969742,2012-06-21T16:00:00.000Z,Edward,pokhara,low,3.5,Private Parties,Dottie Gets Spanked,1,203,9.950505
+3317152414,1379176081,2012-11-15T06:00:00.003Z,Marcus,nepalgung,medium,4.2,Corporate Events,Stripteaser,1,332,14.813057
+3176992893,1576313854,2012-11-16T23:00:00.003Z,Beacon,sira,high,4.1,Weddings,Yesterday Once More,1,80,5.201688
+3174088827,3899958579,2012-09-20T21:30:00.003Z,Mario,bardibas,medium,3.5,Weddings,Unprecedented: The 2000 Presidential Election,1,81,5.361699
+1388817322,3396778263,2012-06-09T23:00:00.000Z,Anna,mugu,low,4,Private Parties,Ben Harper: Live at the Hollywood Bowl,1,11,3.848893
+2786936720,230673797,2012-11-03T00:00:00.001Z,Alice,jumla,high,4.5,Corporate Events,Dr. Martin Luther King,1,1007,35.6585
+1258694154,2312723737,2012-12-01T11:11:42.002Z,Kevin,humla,low,4,Weddings,The Devil and Daniel Webster,1,28,5.258726
+79923280,2676715911,2012-11-24T02:30:00.003Z,Julia,mustang,medium,3.5,Weddings,Convict 762,0,3423,62.01056
+1081826142,2991564217,2013-04-28T08:00:00.002Z,Christina,pokhara,medium,3.5,Private Parties,Tom and Jerry: Paws for a Holiday,1,1220,54.884297
+1042410395,2387077191,2012-09-29T02:30:00.003Z,Richard,kalikot,high,3,Corporate Events,Our Lady of the Assassins,1,858,33.747825
+1732220169,415464198,2012-07-27T01:00:00.000Z,Daniel,sunsari,high,4.5,Weddings,Yi Yi,0,715,16.245068
+2686395556,2364639496,2012-11-23T23:00:00.003Z,Lily,Kampot,medium,3.4,Weddings,A Moment of Romance,1,864,38.653969
+4166140869,3942936419,2012-09-26T00:00:00.003Z,Edward,kathmandu,high,3.5,Private Parties,The Swan Princess,0,89,3.937352
+3085257676,3425451337,2012-10-28T02:00:00.003Z,Marcus,chitwan,medium,4.2,Corporate Events,How I Got into College,0,1355,46.007991
+484380143,639966717,2012-11-03T18:00:00.003Z,grandhear,birgung,low,4.1,Weddings,Dil Chahta Hai,1,55,5.380124
+1286262735,244833508,2012-10-23T00:00:00.001Z,hashtag,chitwan,high,3,Weddings,Wishful Thinking,1,1528,49.020045
+29618089,3211347656,2012-09-23T01:00:00.003Z,Grand Prairie,parsa,low,3.5,Private Parties,The Young Lions,0,685,24.821138
+2938801516,1231248625,2012-10-19T00:00:00.001Z,piooner,balglung,medium,4,Corporate Events,The Mummy,1,302,19.043286
+821799525,967376134,2012-10-10T23:00:00.003Z,Lake Worth,hetauda,high,4.5,Weddings,The Trip,0,208,5.418921
+2281305877,3578144277,2012-11-21T21:30:00.002Z,Tulsa,lalitpur,medium,4,Awards events,Rescue from Gilligan's Island,0,518,25.999888
+279060254,2329805435,2012-11-15T05:00:00.003Z,tulsi,bara,low,3.5,Weddings,Operation Pacific,1,280,18.65632
+298506709,2811957932,2013-08-20T07:00:00.002Z,paan,japan,high,3.5,Private Parties,The Door in the Floor,0,501,23.736535
+3019767376,556976832,2013-04-17T21:00:00.003Z,Washington,india,low,4,Corporate Events,Meet John Doe,1,566,21.75433
+3551312376,2986835719,2012-11-06T00:00:00.001Z,waspas,china,medium,4.5,Weddings,Burn Up Excess: Vol. 2: Crimes and Missed Demeanors,0,1045,44.094856
+2493497745,507419279,2012-10-02T01:00:00.003Z,Dallas,galgi,high,3.4,Weddings,The Cowboys,1,4074,62.714026
+3575174919,461817940,2012-06-15T10:00:00.000Z,dateka,galli,high,3.5,Private Parties,The Shadow,0,1262,28.969151
+1812058555,277914976,2012-11-13T23:00:00.003Z,lahos,nepalgung,medium,4.2,Corporate Events,Children of the Corn,1,1150,31.789029
+2199462126,3594840350,2012-11-17T02:00:00.003Z,Annapolis,sira,high,4.1,Weddings,Dark Town,0,773,33.238296
+15253501,297918838,2012-10-12T23:00:00.003Z,Chesterfield,bardibas,medium,3.5,Weddings,Yojimbo,1,134,6.420434
+4224541459,1442213930,2012-10-27T15:00:00.003Z,Boston,mugu,low,4,Private Parties,Miracle of the White Stallions,0,1575,37.654688
+1610540953,3937161872,2012-12-31T21:00:00.003Z,bangu event,jumla,high,4.5,Corporate Events,Frida: Bonus Material,1,146,13.244365
+96642873,1607146340,2012-06-15T17:00:00.000Z,canti,humla,low,4,Weddings,The Favor,1,593,26.799913
+1978109112,2565013140,2012-11-09T00:00:00.001Z,Livorno,mustang,medium,3.5,Weddings,Sophia Brown,1,184,14.046705
+72387209,2138305804,2012-11-17T23:00:00.003Z,manti,pokhara,high,3.5,Private Parties,Liam Johnson,1,47,3.844926
+97765055,1795328005,2012-11-13T23:00:00.003Z,Saint Louis,nepalgung,medium,4,Corporate Events,Super Gals,0,305,14.733513
+3726146690,3055031577,2012-11-01T22:00:00.003Z,Tuscaloosa,sira,low,4.5,Weddings,A Love Divided,0,518,16.122168
+2791549375,4053017291,2012-11-15T08:00:00.003Z,Oliver Thompson,bardibas,high,3.4,Weddings,Short: International Release #2,0,541,28.22119
+2932035021,4288590569,2014-04-28T16:00:00.002Z,Emily Wilson,mugu,low,3.5,Private Parties,Mikey and Nicky,1,922,45.151657
+2896642039,1009926706,2012-10-20T16:00:00.003Z,William Rodriguez,jumla,medium,4.2,Corporate Events,Sharpe 4: Sharpe's Enemy,1,191,15.205371
+537858047,1976630026,2012-09-22T00:00:00.001Z,Emma Martinez,humla,high,4.1,Weddings,Mating Habits of the Earthbound Human,1,232,14.587367
+257506368,1661350612,2012-11-13T06:00:00.003Z,Noah Davis,mustang,high,3.5,Weddings,Gloria Estefan: Evolution Tour: Live in Miami,1,1335,34.828241
+2855238517,1301129103,2012-10-20T19:00:00.003Z,Olivia Hernandez,pokhara,medium,4,Private Parties,Deep Cover,0,635,23.607392
+3881050870,2535907951,2014-01-01T18:30:00.002Z,James Taylor,nepalgung,high,4.5,Corporate Events,Cup Final,1,388,19.438503
+554637539,4089857457,2012-10-11T18:00:00.003Z,Sophia Brown,sira,medium,4,Weddings,The Maldonado Miracle,1,2304,74.168016
+8586497,3047269751,2012-05-05T14:00:00.000Z,Liam Johnson,bardibas,low,3.5,Weddings,Ray,1,136,7.349497
+1792535551,236680311,2012-06-02T18:00:00.000Z,Sophie Smith,mugu,high,3.5,Private Parties,Monster-in-Law: Bonus Material,1,148,7.663515
+2934177959,3051092455,2012-10-26T01:30:00.003Z,Alexander Hernandez,jumla,low,3,Corporate Events,Discovering Australia,1,1626,32.798571
+3806158762,923930289,2012-11-21T01:00:00.003Z,Charlotte Davis,humla,medium,4.5,Weddings,Reno 911: Season 2,1,125,5.794466
+584629133,1645089698,2012-11-15T00:00:00.003Z,Isaac Wilson,mustang,high,3.4,Weddings,Harsh Realm: The Complete Series,1,907,36.670399
+3499549789,577406871,2012-11-27T00:00:00.001Z,Mia Garcia,pokhara,medium,3.5,Private Parties,Zakk Wylde's Black Label Society: Boozed,0,281,14.653718
+3499165502,3913925235,2012-11-26T21:00:00.003Z,Oliver Thompson,kalikot,low,4.2,Corporate Events,The Bedford Incident,1,3147,73.085576
+2761543440,415464198,2012-07-27T23:30:00.000Z,Emily Hernandez,sunsari,high,4.1,Weddings,Blue's Clues: Classic Clues,1,925,34.041407
+2851227073,709956055,2013-12-24T00:00:00.002Z,William Rodriguez,Kampot,low,3,Awards events,The Muse,0,248,9.419726
+823278337,4011958112,2012-03-12T22:00:00.000Z,Emma Martinez,kathmandu,medium,3.5,Weddings,Dersu Uzala,1,891,28.456572
+1940274571,2501644132,2012-10-13T12:00:00.003Z,Noah Davis,chitwan,high,4.1,Private Parties,Dangerous Minds,0,2807,49.664128
+669544125,2840183026,2012-09-09T00:00:00.003Z,Olivia Hernandez,birgung,high,3,Corporate Events,Bride and Prejudice,0,1804,36.238968
+1070855852,3024603905,2012-08-03T20:30:00.000Z,James Taylor,chitwan,medium,3.5,Weddings,The Body,1,278,19.439386
+3235316688,506323092,2012-09-20T13:00:00.003Z,Sophia Brown,parsa,high,4,Weddings,Out of Ireland: The Hit Songs and Artists of Irish Music,1,3829,43.345252
+4202458568,3520828313,2012-09-24T05:00:00.003Z,Liam Johnson,balglung,medium,4.5,Private Parties,Eat Drink Man Woman,0,5878,115.241998
+2159439238,2606632986,2012-11-14T08:00:00.003Z,Sophie Smith,hetauda,low,4,Corporate Events,Diary of a Country Priest,1,3254,98.755657
+913505426,2404495414,2012-10-12T19:00:00.003Z,Alexander Hernandez,lalitpur,high,3.5,Weddings,Fascination,0,511,21.998734
+3816530880,1886756161,2012-10-13T18:00:00.003Z,Charlotte Davis,bara,low,3.5,Weddings,Hamlet,0,509,25.219805
+310206277,3152086731,2012-11-11T02:00:00.003Z,Isaac Wilson,japan,medium,4,Private Parties,Gargoyles,1,699,26.516624
+94647623,1272242290,2012-10-04T18:00:00.002Z,Mia Garcia,india,high,4.5,Corporate Events,Remedy,0,1526,37.084384
+874573026,2502930213,2012-11-21T00:00:00.001Z,Oliver Thompson,china,medium,3.4,Weddings,Benny Hill: Complete and Unadulterated: The Naughty Early Years: Set 1,1,354,21.661028
+2861762659,2408789294,2012-11-17T00:00:00.003Z,Emily Hernandez,galgi,low,3.5,Weddings,Animal Crackers,0,1949,68.794673
+3784902233,1722590518,2012-08-27T02:00:00.003Z,William Rodriguez,galli,high,4.2,Private Parties,Sense and Sensibility,1,3391,69.27822
+2791186941,1585531625,2012-10-11T17:30:00.003Z,Emma Martinez,nepalgung,low,4.1,Corporate Events,Too Young to Die,0,959,26.253357
+491707793,435713374,2012-07-07T19:00:00.000Z,Noah Davis,sira,medium,3.5,Weddings,Santa Fe Trail,1,750,32.549282
+2389109451,1100555246,2012-07-21T10:00:00.000Z,Olivia Hernandez,bardibas,high,4,Weddings,Buck Rogers,0,736,24.992057
+708614830,4099403790,2012-11-16T10:00:00.003Z,James Taylor,mugu,high,4.5,Private Parties,Angelina Ballerina: Friends Forever,1,2900,45.769562
+742184922,1443894062,2014-04-28T18:00:00.002Z,Sophia Brown,jumla,medium,4,Corporate Events,Dead Kennedys: In God We Trust,0,944,36.301202
+2479244284,826848062,2012-07-12T17:30:00.000Z,Liam Johnson,humla,high,3.5,Weddings,R.E.M.: Road Movie,1,1056,45.022964
+3496107477,1222196463,2012-11-01T22:00:00.003Z,Sophie Smith,mustang,medium,3.5,Weddings,Haven,1,560,22.853006
+106728726,3815281382,2012-10-10T00:30:00.003Z,Alexander Hernandez,pokhara,low,4,Private Parties,Earth 2: The Complete Series,1,787,31.884559
+3786311636,1017329520,2012-09-22T14:00:00.003Z,Charlotte Davis,nepalgung,high,4.5,Corporate Events,String Cheese Incident: Live at the Fillmore,1,767,31.385257
+776631053,3958679438,2012-08-25T17:00:00.003Z,Isaac Wilson,sira,low,3.4,Weddings,A Hard Day's Night: Collector's Series,0,1127,67.767785
+984050448,415464198,2012-07-29T17:00:00.000Z,Mia Garcia,bardibas,medium,3.5,Weddings,Comedian,0,542,24.287306
+3239948508,3223831255,2012-12-02T18:00:00.003Z,Oliver Thompson,mugu,high,4.2,Private Parties,Satanis: The Devil's Mass / Sinthia: The Devil's Doll: Double Feature,0,1881,53.114573
+3539289434,2023932494,2012-10-14T00:00:00.003Z,Emily Hernandez,jumla,medium,4.1,Corporate Events,Don't Bother to Knock,1,555,25.136082
+3924419066,537266995,2012-09-09T03:00:00.003Z,William Rodriguez,humla,low,3.5,Weddings,Gojoe: Spirit War Chronicle,1,732,37.776566
+3244620185,1113025941,2012-12-15T17:30:00.003Z,Emma Martinez,mustang,high,4,Weddings,Giant Robo,1,467,21.743321
+1001836155,3145613491,2012-09-23T02:00:00.003Z,Noah Davis,pokhara,low,4.5,Private Parties,Taxi Zum Klo,1,2691,66.003433
+910841065,1746892330,2012-09-22T11:30:00.003Z,Olivia Hernandez,nepalgung,medium,4,Corporate Events,Dodsworth,0,716,24.862767
+664367167,761667556,2012-08-09T02:00:00.000Z,James Taylor,sira,medium,3.5,Weddings,Fear Of A Punk Planet,1,515,25.391899
+3813666733,3073654319,2012-10-27T19:30:00.003Z,Sophia Brown,bardibas,high,3.5,Awards events,Danielle Steel's Changes,1,731,29.854773
+415707105,415464198,2012-07-30T22:00:00.000Z,Liam Johnson,mugu,high,3,Weddings,The Night That Never Happened,1,502,26.82041
+246472864,109529328,2012-10-13T22:00:00.003Z,Sophie Smith,jumla,medium,4.5,Private Parties,Journeys with George,1,371,17.61292
+3574030351,1167884813,2012-11-01T00:00:00.003Z,Alexander Hernandez,humla,high,3.4,Corporate Events,Back to the Beach,1,441,21.021809
+710863656,3582692698,2012-11-08T11:30:00.003Z,Charlotte Davis,mustang,medium,3.5,Weddings,Another Day in Paradise,1,1350,52.571674
+4091764429,3808231134,2013-05-29T03:00:00.002Z,Isaac Wilson,pokhara,low,4.2,Weddings,Where Are We?,1,1437,34.519636
+1811709593,1983029570,2012-10-19T15:00:00.003Z,Mia Garcia,kalikot,high,4.1,Private Parties,Backyardigans: It's Great to Be a Ghost,0,831,32.478077
+2949422530,437499768,2012-09-14T07:00:00.003Z,Oliver Thompson,sunsari,low,3,Corporate Events,River of No Return,1,2583,48.445978
+1157003651,3710975426,2012-10-29T00:00:00.001Z,Emily Hernandez,Kampot,medium,3.5,Weddings,Read Or Die,1,457,24.012986
+1513654203,1571456650,2012-09-21T01:00:00.003Z,William Rodriguez,kathmandu,high,4.1,Weddings,A Dangerous Man: Lawrence After Arabia,0,612,17.869443
+3572131169,3146541614,2012-12-01T02:00:00.003Z,Emma Martinez,chitwan,medium,3,Private Parties,Fallen,1,297,14.231899
+379980463,17113327,2012-07-20T19:00:00.000Z,Noah Davis,birgung,low,3.5,Corporate Events,Scarecrow,0,511,23.088571
+1258600746,3894915877,2012-08-21T23:00:00.003Z,Olivia Hernandez,chitwan,high,4,Weddings,Midsomer Murders: A Tale of Two Hamlets,0,336,19.833664
+1773151258,1936821523,2012-06-25T19:00:00.000Z,James Taylor,parsa,low,4.5,Weddings,Hercules,1,453,26.595983
+256284059,3758437634,2012-11-17T18:00:00.003Z,Sophia Brown,balglung,medium,4,Private Parties,Screw Loose,1,902,26.072228
+3156266855,3039573971,2012-12-06T01:00:00.003Z,Liam Johnson,hetauda,high,3.5,Corporate Events,The Pagemaster,0,1265,38.643914
+2136567687,2500406401,2012-06-30T19:00:00.000Z,Sophie Smith,lalitpur,high,3.5,Weddings,Dave Chappelle: For What It's Worth,1,4391,74.440708
+3239044505,1273999927,2012-07-13T19:00:00.000Z,Alexander Hernandez,bara,medium,4,Weddings,Brother,0,1536,82.185281
+4258263078,943358131,2012-11-22T02:00:00.003Z,Charlotte Davis,japan,high,4.5,Private Parties,The Duel at Silver Creek,0,332,18.14218
+2670469301,2770219545,2012-10-14T01:00:00.003Z,Isaac Wilson,india,medium,3.4,Corporate Events,Sex and the Teenage Mind,1,1221,41.570047
+3340770527,866184451,2012-10-19T21:00:00.003Z,Mia Garcia,china,low,3.5,Weddings,The Cincinnati Kid,0,440,23.331459
+157092121,125967262,2012-08-12T04:00:00.000Z,Oliver Thompson,galgi,high,4.2,Weddings,Aap Mujhe Achche Lagne Lage,1,1206,47.649554
+132397340,3423954177,2012-09-05T20:00:00.002Z,Emily Hernandez,galli,low,4.1,Private Parties,Henry Fool,0,51,7.519433
+1219915827,1448816954,2012-12-24T03:00:00.003Z,William Rodriguez,nepalgung,medium,3.5,Corporate Events,Explosive Dance,1,972,32.908414
+3632003979,3982320065,2012-11-16T20:00:00.002Z,Emma Martinez,sira,high,4,Weddings,Richard Rodgers: The Sweetest Sounds,0,670,29.88736
+220070259,2140753049,2012-10-13T03:00:00.003Z,Noah Davis,bardibas,medium,4.5,Weddings,My Favorite Wife,1,573,29.105407
+4209960919,3561769490,2012-12-17T00:00:00.003Z,Olivia Hernandez,mugu,low,4,Private Parties,Fahrenheit 451,0,386,16.394452
+1171315742,790208759,2012-12-16T00:00:00.001Z,James Taylor,jumla,high,3.5,Corporate Events,I Capture the Castle,1,394,19.574774
+1642086734,972658774,2012-12-21T22:30:00.003Z,Sophia Brown,humla,low,3.5,Weddings,Rhyme & Reason,0,255,14.199933
+2352788576,1870227492,2012-12-28T09:00:00.003Z,Liam Johnson,mustang,medium,4,Weddings,Blankman,1,235,12.229516
+3534623034,1790440958,2012-03-31T20:00:00.000Z,Sophie Smith,pokhara,high,4.5,Private Parties,Lost in Space: Season 2: Vol. 1,1,629,27.303608
+799692764,4101406121,2012-08-04T02:00:00.000Z,Alexander Hernandez,nepalgung,high,3.4,Corporate Events,World Cup Soccer Highlights: 1966-1974,1,316,3.698276
+14559521,924418892,2012-11-05T23:00:00.003Z,Charlotte Davis,sira,medium,3.5,Weddings,Jay Jay the Jet Plane: Lessons for All Seasons,1,114,7.021871
+2820227104,4019024496,2012-08-18T01:00:00.003Z,Isaac Wilson,bardibas,high,4.2,Awards events,The Unforgiven,0,740,39.381913
+3993823061,2451122051,2012-11-16T23:00:00.003Z,Mia Garcia,mugu,medium,4.1,Weddings,Love in the Afternoon,0,415,14.398356
+1368913546,2772392021,2012-10-28T06:00:00.003Z,Oliver Thompson,jumla,low,3.5,Private Parties,I Spy,0,135,8.680334
+2141770207,3995283179,2012-12-07T14:00:00.003Z,Emily Hernandez,humla,high,4,Corporate Events,A Streetcar Named Desire,1,554,17.659032
+2020187352,41339612,2012-11-15T00:00:00.001Z,William Rodriguez,mustang,low,4.5,Weddings,The Tick: The Entire Series,1,1789,43.151268
+1455011781,948817442,2012-11-30T19:00:00.003Z,Emma Martinez,pokhara,medium,4,Weddings,Metropolitan Opera: Puccini: Tosca,1,284,15.283444
+3486740721,138140856,2012-10-27T00:00:00.001Z,Noah Davis,nepalgung,high,3.5,Private Parties,Young and Dangerous 2,1,902,35.21926
+785316803,1095032598,2012-07-26T07:30:00.000Z,Olivia Hernandez,sira,medium,3.5,Corporate Events,Main Hoon Na,0,474,25.580272
+2908763405,2877067677,2012-08-26T22:00:00.003Z,James Taylor,bardibas,low,3,Weddings,Dottie Gets Spanked,1,275,10.794175
+3984015797,1210644406,2012-11-30T00:00:00.001Z,Sophia Brown,mugu,high,4.5,Weddings,Stripteaser,1,1695,72.641296
+1748052015,2726861014,2012-12-10T16:30:00.003Z,Liam Johnson,jumla,low,3.4,Private Parties,Yesterday Once More,1,40,3.415534
+742958181,3321703634,2013-02-23T22:00:00.003Z,Sophie Smith,humla,medium,3.5,Corporate Events,Unprecedented: The 2000 Presidential Election,1,866,38.555482
+470435052,2864175456,2013-03-01T00:00:00.001Z,Alexander Hernandez,mustang,high,4.2,Weddings,Ben Harper: Live at the Hollywood Bowl,1,140,6.786117
+1037811009,2933995294,2012-11-02T01:00:00.003Z,Charlotte Davis,pokhara,high,4.1,Weddings,Dr. Martin Luther King,1,432,24.313684
+1011480759,3349066731,2012-12-01T00:00:00.001Z,Isaac Wilson,kalikot,medium,3,Private Parties,The Devil and Daniel Webster,1,182,9.965073
+1147124252,3453079787,2012-05-03T22:00:00.000Z,Mia Garcia,sunsari,high,3.5,Corporate Events,Convict 762,0,275,15.055732
+750297004,2654533086,2012-10-30T18:30:00.003Z,Oliver Thompson,Kampot,medium,4.1,Weddings,Tom and Jerry: Paws for a Holiday,1,1468,32.808675
+694987590,2385580880,2012-10-18T01:30:00.003Z,Emily Hernandez,kathmandu,low,3,Weddings,Our Lady of the Assassins,1,138,8.178203
+896611132,3030591008,2012-08-09T02:00:00.000Z,William Rodriguez,chitwan,high,3.5,Private Parties,Yi Yi,0,708,31.066874
+2769277182,2716941945,2012-05-09T20:00:00.000Z,Emma Martinez,birgung,low,4,Corporate Events,A Moment of Romance,1,412,22.491388
+2816514555,3203727159,2012-07-29T00:00:00.000Z,Noah Davis,chitwan,medium,4.5,Weddings,The Swan Princess,0,186,12.885985
+238940735,2891951979,2012-08-23T01:00:00.003Z,Olivia Hernandez,parsa,high,4,Weddings,How I Got into College,0,135,7.832337
+216719622,4008354908,2012-09-16T03:00:00.003Z,James Taylor,balglung,medium,3.5,Private Parties,Dil Chahta Hai,1,155,10.433667
+3577919320,4289453940,2012-09-03T03:00:00.003Z,Sophia Brown,hetauda,low,3.5,Corporate Events,Wishful Thinking,1,71,3.321949
+3517783695,369668503,2012-07-20T17:00:00.000Z,Liam Johnson,lalitpur,high,4,Weddings,The Young Lions,0,45,4.842626
+7313392,1859323842,2012-04-13T19:00:00.000Z,Sophie Smith,bara,low,4.5,Weddings,The Mummy,1,147,13.210898
+3707146052,938955132,2012-11-14T23:00:00.003Z,Alexander Hernandez,japan,medium,3.4,Private Parties,The Trip,0,56,3.296933
+5278914,1090064700,2012-09-22T04:00:00.003Z,Charlotte Davis,india,high,3.5,Corporate Events,Rescue from Gilligan's Island,0,477,22.939557
+3339492116,1299538713,2012-09-16T00:00:00.003Z,Isaac Wilson,china,high,4.2,Weddings,Operation Pacific,1,278,19.372805
+1173931059,421362877,2012-09-29T22:30:00.003Z,Mia Garcia,galgi,medium,4.1,Weddings,The Door in the Floor,0,205,13.445697
+385947017,4050066153,2012-06-12T12:00:00.000Z,Oliver Thompson,galli,high,3.5,Private Parties,Meet John Doe,1,345,17.002096
+3778851850,3618752738,2012-12-05T23:00:00.003Z,Emily Hernandez,nepalgung,medium,4,Corporate Events,Burn Up Excess: Vol. 2: Crimes and Missed Demeanors,0,81,4.516953
+2296824757,2376541213,2012-11-12T12:00:00.003Z,William Rodriguez,sira,low,4.5,Weddings,The Cowboys,1,824,33.785969
+1147506459,1924358067,2012-12-01T01:30:00.003Z,Emma Martinez,bardibas,high,4,Awards events,The Shadow,0,190,16.059443
+3383337018,268822526,2012-12-11T00:00:00.002Z,Noah Davis,mugu,low,3.5,Weddings,Children of the Corn,1,92,3.476966
+598608509,586819850,2013-03-04T06:00:00.002Z,Olivia Hernandez,jumla,medium,3.5,Private Parties,Dark Town,0,48,5.778724
+2354444364,1607434312,2012-11-20T08:00:00.003Z,James Taylor,humla,high,4,Corporate Events,Yojimbo,1,119,7.360793
+387100306,3903358203,2012-04-05T22:00:00.000Z,Sophia Brown,mustang,medium,4.5,Weddings,Miracle of the White Stallions,0,67,3.621837
+124507735,3607711104,2012-10-21T00:30:00.003Z,Liam Johnson,pokhara,low,3.4,Weddings,Frida: Bonus Material,1,256,14.513305
+1429654812,1891051084,2012-10-12T02:00:00.003Z,Sophie Smith,nepalgung,high,3.5,Private Parties,The Favor,1,642,22.364549
+2734038813,2005670452,2012-10-07T02:00:00.003Z,Alexander Hernandez,sira,low,4.2,Corporate Events,Sophia Brown,1,81,6.90894
+2738276644,718919482,2012-11-14T02:30:00.003Z,Charlotte Davis,bardibas,medium,4.1,Weddings,Liam Johnson,1,145,4.494788
+4209330191,1761173350,2012-12-23T02:00:00.003Z,Isaac Wilson,mugu,low,3.5,Weddings,Super Gals,0,2025,47.559928
+1489295540,615968803,2012-10-18T19:00:00.003Z,Mia Garcia,jumla,medium,4,Private Parties,A Love Divided,0,28,2.410546
+4134336822,3362647283,2012-09-28T17:00:00.003Z,Oliver Thompson,humla,high,4.5,Corporate Events,Short: International Release #2,0,1176,41.258956
+1000323192,1654435735,2012-08-08T09:00:00.000Z,Emily Hernandez,mustang,high,4,Weddings,Mikey and Nicky,1,124,8.980846
+1925214131,619662810,2012-10-27T09:00:00.002Z,William Rodriguez,pokhara,medium,3.5,Weddings,Sharpe 4: Sharpe's Enemy,1,125,7.222985
+1969559971,1113596334,2012-12-06T18:00:00.003Z,Emma Martinez,nepalgung,high,3.5,Private Parties,Mating Habits of the Earthbound Human,1,3310,73.720244
+2048487424,2956164826,2012-09-15T23:30:00.003Z,Noah Davis,sira,medium,3,Corporate Events,Gloria Estefan: Evolution Tour: Live in Miami,1,185,10.0403
+1879766624,1077387723,2020-11-05T00:30:00.002Z,Olivia Hernandez,bardibas,low,4.5,Weddings,Deep Cover,0,248,15.219263
+452918335,887257932,2012-09-27T21:00:00.003Z,James Taylor,mugu,high,3.4,Weddings,Cup Final,1,152,8.303696
+1742565108,3008132026,2012-09-22T02:00:00.003Z,Sophia Brown,jumla,low,3.5,Private Parties,The Maldonado Miracle,1,54,4.746085
+4270133472,2245751571,2012-10-01T00:30:00.003Z,Liam Johnson,humla,medium,4.2,Corporate Events,Ray,1,105,6.756886
+2233096420,1143524530,2012-06-07T19:00:00.000Z,Super Gals,mustang,high,4.1,Weddings,Monster-in-Law: Bonus Material,1,348,16.424807
+9226035,415464198,2014-06-14T10:00:00.002Z,A Love Divided,pokhara,medium,3,Weddings,Discovering Australia,1,482,15.590001
+1321219331,212577435,2012-10-18T21:42:32.002Z,Short: International Release #2,kalikot,low,3.5,Private Parties,Reno 911: Season 2,1,47,5.483671
+2816369250,1932265630,2012-11-13T23:00:00.003Z,Mikey and Nicky,sunsari,low,3,Corporate Events,Harsh Realm: The Complete Series,1,21,1.630541
+2107732441,1177983081,2012-03-24T18:00:00.000Z,Sharpe 4: Sharpe's Enemy,Kampot,high,3.5,Weddings,Zakk Wylde's Black Label Society: Boozed,0,135,14.566664
+2260856764,3735354675,2012-09-28T20:00:00.003Z,Mating Habits of the Earthbound Human,kathmandu,low,4,Weddings,The Bedford Incident,1,774,28.353517
+284489868,1373391195,2013-01-24T15:00:00.003Z,Gloria Estefan: Evolution Tour: Live in Miami,chitwan,medium,4.5,Private Parties,Blue's Clues: Classic Clues,1,135,9.579975
+604700253,3753424738,2012-10-07T01:00:00.003Z,Deep Cover,birgung,high,4,Corporate Events,The Muse,0,28,2.911819
+4027622050,103368015,2012-10-21T02:30:00.003Z,Cup Final,chitwan,medium,3.5,Weddings,Dersu Uzala,1,171,10.844882
+1959455059,2454038568,2012-06-30T12:00:00.000Z,The Maldonado Miracle,parsa,low,3.5,Weddings,Dangerous Minds,0,1182,51.502884
+127888743,4053516190,2012-10-13T02:00:00.003Z,Ray,balglung,high,4,Private Parties,Bride and Prejudice,0,373,13.119133
+168567413,2406711863,2012-09-06T19:00:00.003Z,Monster-in-Law: Bonus Material,hetauda,low,4.5,Corporate Events,The Body,1,15,4.238482
+1694833720,2232204022,2012-06-23T20:00:00.000Z,Discovering Australia,lalitpur,medium,3.4,Weddings,Out of Ireland: The Hit Songs and Artists of Irish Music,1,392,26.935458
+933580373,3108374025,2012-11-15T05:00:00.003Z,Reno 911: Season 2,bara,high,3.5,Awards events,Eat Drink Man Woman,0,213,16.282962
+2246574754,3376118508,2012-11-21T00:00:00.001Z,Harsh Realm: The Complete Series,japan,high,4.2,Weddings,Diary of a Country Priest,1,1006,31.690456
+3184003721,418132148,2012-10-09T22:00:00.003Z,Zakk Wylde's Black Label Society: Boozed,india,medium,4.1,Private Parties,Fascination,0,398,17.842246
+2001331522,173525537,2012-10-28T00:00:00.003Z,The Bedford Incident,china,high,3.5,Corporate Events,Hamlet,0,96,8.048305
+1673988968,3233661719,2012-04-20T23:30:00.000Z,Blue's Clues: Classic Clues,galgi,medium,4,Weddings,Gargoyles,1,275,14.188982
+2654817385,2085142424,2012-06-22T02:00:00.000Z,The Muse,galli,low,4.5,Weddings,Remedy,0,83,6.884467
+3939450803,1770613622,2012-06-10T03:00:00.000Z,Dersu Uzala,nepalgung,high,4,Private Parties,Benny Hill: Complete and Unadulterated: The Naughty Early Years: Set 1,1,17,8.212018
+412441183,1171439244,2012-09-21T20:30:00.002Z,Dangerous Minds,sira,low,3.5,Corporate Events,Animal Crackers,0,2854,64.238688
+513839109,1848737067,2012-10-14T00:00:00.003Z,Bride and Prejudice,bardibas,medium,3.5,Weddings,Sense and Sensibility,1,313,17.375562
+3698134081,3405333966,2012-10-13T00:00:00.003Z,The Body,mugu,high,4,Weddings,Too Young to Die,0,15,6.7698
+3055940786,356092328,2012-10-30T02:00:00.003Z,Out of Ireland: The Hit Songs and Artists of Irish Music,jumla,medium,4.5,Private Parties,Santa Fe Trail,1,953,44.690107
+849409305,1401522799,2012-11-11T01:00:00.003Z,Eat Drink Man Woman,humla,low,3.4,Corporate Events,Buck Rogers,0,135,16.254032
+2341362941,4286002253,2012-11-06T23:00:00.003Z,Diary of a Country Priest,mustang,high,3.5,Weddings,Angelina Ballerina: Friends Forever,1,798,37.492928
+2263779120,3884905136,2012-08-11T02:00:00.000Z,Fascination,pokhara,low,4.2,Weddings,Dead Kennedys: In God We Trust,0,191,18.678415
+1008530209,723580812,2012-08-22T03:30:00.003Z,Hamlet,nepalgung,medium,4.1,Private Parties,R.E.M.: Road Movie,1,932,27.908783
+1531856521,4015182138,2012-10-21T17:00:00.003Z,Gargoyles,sira,low,3.5,Corporate Events,Haven,1,1264,45.388937
+4147609167,1174280104,2012-08-12T04:00:00.000Z,Remedy,bardibas,medium,4,Weddings,Earth 2: The Complete Series,1,32,2.817364
+2260510445,679924102,2012-10-21T22:00:00.003Z,Benny Hill: Complete and Unadulterated: The Naughty Early Years: Set 1,mugu,high,4.5,Weddings,String Cheese Incident: Live at the Fillmore,1,490,22.164202
+3416498760,2978045457,2012-10-26T00:00:00.001Z,Animal Crackers,jumla,high,4,Private Parties,A Hard Day's Night: Collector's Series,0,433,21.362949
+2246216115,4217996131,2012-10-27T02:00:00.003Z,Sense and Sensibility,humla,medium,3.5,Corporate Events,Comedian,0,205,14.8375
+4192978438,592377309,2012-11-09T05:00:00.003Z,Too Young to Die,mustang,high,3.5,Weddings,Satanis: The Devil's Mass / Sinthia: The Devil's Doll: Double Feature,0,394,18.256028
+1799892405,1297623583,2014-03-27T11:00:00.002Z,Santa Fe Trail,pokhara,medium,3,Weddings,Don't Bother to Knock,1,972,22.332927
+1216254260,2311037946,2012-08-05T21:00:00.000Z,Buck Rogers,nepalgung,low,4.5,Private Parties,Gojoe: Spirit War Chronicle,1,94,5.417787
+640094267,1480202975,2012-10-26T16:00:00.003Z,Angelina Ballerina: Friends Forever,sira,high,3.4,Corporate Events,Giant Robo,1,521,24.085144
+678043956,2897989019,2012-09-02T00:00:00.001Z,Dead Kennedys: In God We Trust,bardibas,low,3.5,Weddings,Taxi Zum Klo,1,452,14.779041
+107903451,1011857284,2012-11-16T12:00:00.003Z,R.E.M.: Road Movie,mugu,medium,4.2,Weddings,Dodsworth,0,273,19.947265
+2602219547,1289684309,2012-12-01T08:00:00.003Z,Haven,jumla,high,4.1,Private Parties,Fear Of A Punk Planet,1,850,16.801218
+17402775,671098977,2012-11-14T01:00:00.003Z,Earth 2: The Complete Series,humla,medium,3,Corporate Events,Danielle Steel's Changes,1,19,5.057695
+28514814,2947969048,2012-11-09T00:00:00.001Z,String Cheese Incident: Live at the Fillmore,mustang,low,3.5,Weddings,The Night That Never Happened,1,396,20.825781
+1736830319,1277660023,2012-10-11T23:00:00.003Z,A Hard Day's Night: Collector's Series,pokhara,low,3,Weddings,Journeys with George,1,264,11.500783
+2001242110,1506289108,2012-12-03T14:54:09.002Z,Comedian,kalikot,high,3.5,Private Parties,Back to the Beach,1,254,13.932203
+795509310,1096143018,2012-10-28T05:00:00.003Z,Satanis: The Devil's Mass / Sinthia: The Devil's Doll: Double Feature,sunsari,low,4,Corporate Events,Another Day in Paradise,1,567,41.258487
+725077314,3400812864,2012-12-22T21:00:00.003Z,Don't Bother to Knock,Kampot,medium,4.5,Weddings,Where Are We?,1,88,6.454634
+1802506220,3743786761,2012-09-19T01:00:00.003Z,Gojoe: Spirit War Chronicle,kathmandu,high,4,Awards events,Backyardigans: It's Great to Be a Ghost,0,40,5.257009
+2347991609,202625933,2012-10-02T17:30:00.003Z,Giant Robo,chitwan,medium,3.5,Weddings,River of No Return,1,756,30.359164
+1004963427,1643420876,2012-12-13T17:00:00.003Z,Taxi Zum Klo,birgung,low,3.5,Private Parties,Read Or Die,1,80,3.426555
+3313775102,2670743089,2012-11-02T00:00:00.001Z,Dodsworth,chitwan,high,4,Corporate Events,A Dangerous Man: Lawrence After Arabia,0,190,11.60815
+1405728696,3899932037,2012-12-15T00:00:00.001Z,Fear Of A Punk Planet,parsa,low,4.5,Weddings,Fallen,1,417,18.664624
+3210901336,1741439765,2012-12-08T20:00:00.002Z,Danielle Steel's Changes,balglung,medium,3.4,Weddings,Scarecrow,0,86,10.047579
+2322410868,1484367790,2012-07-21T05:00:00.000Z,The Night That Never Happened,hetauda,high,3.5,Private Parties,Midsomer Murders: A Tale of Two Hamlets,0,1588,52.731379
+1427699697,198032243,2012-12-16T01:00:00.003Z,Journeys with George,lalitpur,high,4.2,Corporate Events,Hercules,1,2035,46.630062
+80712325,1083883329,2012-10-05T00:00:00.001Z,Back to the Beach,bara,medium,4.1,Weddings,Screw Loose,1,52,4.131546
+3419691981,1415060807,2012-12-12T01:00:00.003Z,Another Day in Paradise,japan,high,3.5,Weddings,The Pagemaster,0,19,5.641978
+864552222,1881674704,2012-09-30T00:00:00.001Z,Where Are We?,india,medium,4,Private Parties,Dave Chappelle: For What It's Worth,1,605,23.465539
+1482711227,1103115164,2012-06-16T21:00:00.000Z,Backyardigans: It's Great to Be a Ghost,china,low,4.5,Corporate Events,Brother,0,701,25.682509
+4177614144,2578266326,2012-11-21T00:00:00.001Z,River of No Return,galgi,high,4,Weddings,The Duel at Silver Creek,0,75,6.760922
+1058706028,3802412448,2012-04-28T09:00:00.000Z,Read Or Die,galli,low,3.5,Weddings,Sex and the Teenage Mind,1,71,3.87823
+1819420322,1796386306,2012-12-16T00:00:00.001Z,A Dangerous Man: Lawrence After Arabia,nepalgung,medium,3.5,Private Parties,The Cincinnati Kid,0,1945,57.889964
+503757402,1775122122,2012-10-24T00:00:00.001Z,Fallen,sira,high,4,Corporate Events,Aap Mujhe Achche Lagne Lage,1,1915,57.773583
+1822422922,2287326928,2012-09-29T04:00:00.003Z,Scarecrow,bardibas,medium,4.5,Weddings,Henry Fool,0,1468,24.218358
+4163401183,1374707071,2012-12-07T22:45:00.003Z,Midsomer Murders: A Tale of Two Hamlets,mugu,low,3.4,Weddings,Explosive Dance,1,594,27.009723
+127330087,2647942755,2013-03-21T12:30:00.002Z,Hercules,jumla,high,3.5,Private Parties,Richard Rodgers: The Sweetest Sounds,0,1222,31.941347
+2089269983,1644550739,2012-08-23T00:00:00.001Z,Screw Loose,humla,low,4.2,Corporate Events,My Favorite Wife,1,330,14.353279
+1991614681,1544030714,2012-11-09T02:00:00.003Z,The Pagemaster,mustang,medium,4.1,Weddings,Fahrenheit 451,0,2277,33.003828
+3196109603,2109306645,2012-08-10T02:00:00.000Z,Dave Chappelle: For What It's Worth,pokhara,low,3.5,Weddings,I Capture the Castle,1,825,30.993736
+4272928065,2818876346,2012-12-03T23:30:00.003Z,Brother,nepalgung,medium,4,Private Parties,Rhyme & Reason,0,511,25.825771
+2850002904,4282485143,2012-09-24T16:00:00.003Z,The Duel at Silver Creek,sira,high,4.5,Corporate Events,Blankman,1,1201,46.078371
+2822521592,3303590108,2012-08-24T23:00:00.003Z,Sex and the Teenage Mind,bardibas,high,4,Weddings,Lost in Space: Season 2: Vol. 1,1,163,6.63839
+458309846,2839444167,2012-10-27T23:15:00.003Z,The Cincinnati Kid,mugu,medium,3.5,Weddings,World Cup Soccer Highlights: 1966-1974,1,3561,127.084938
+1225402368,4044313740,2012-12-15T00:00:00.003Z,Aap Mujhe Achche Lagne Lage,jumla,high,3.5,Private Parties,Jay Jay the Jet Plane: Lessons for All Seasons,1,594,27.465433
+3852047805,35151107,2012-05-20T09:00:00.000Z,Henry Fool,humla,medium,3,Corporate Events,The Unforgiven,0,352,16.865782
+2593358539,998865660,2012-06-23T23:00:00.000Z,Explosive Dance,mustang,low,4.5,Weddings,Love in the Afternoon,0,2972,100.348805
+3549158773,2689184072,2012-11-08T22:00:00.003Z,Richard Rodgers: The Sweetest Sounds,pokhara,high,3.4,Weddings,I Spy,0,23,2.785832
+2946369544,4236892345,2012-10-06T19:00:00.002Z,My Favorite Wife,nepalgung,low,3.5,Private Parties,A Streetcar Named Desire,1,198,9.176339
+3126488810,1524979784,2012-09-29T04:00:00.003Z,Fahrenheit 451,sira,medium,4.2,Corporate Events,The Tick: The Entire Series,1,338,23.380757
+3295084350,3826227249,2012-09-15T16:00:00.003Z,I Capture the Castle,bardibas,high,4.1,Weddings,Metropolitan Opera: Puccini: Tosca,1,894,33.926473
+952224468,129259309,2012-07-28T20:30:00.000Z,Rhyme & Reason,mugu,medium,3,Awards events,Young and Dangerous 2,1,96,6.967857
+4272405733,1472224732,2012-06-16T18:30:00.000Z,Blankman,jumla,low,3.5,Weddings,Main Hoon Na,0,173,11.470135
+1334777997,780138444,2012-08-19T05:00:00.003Z,Lost in Space: Season 2: Vol. 1,humla,low,3,Private Parties,Dottie Gets Spanked,1,258,19.854932
+1103164760,2926793615,2012-11-15T06:00:00.003Z,World Cup Soccer Highlights: 1966-1974,mustang,high,3.5,Corporate Events,Stripteaser,1,692,29.652536
+3132346108,2276717872,2012-11-11T05:00:00.003Z,Jay Jay the Jet Plane: Lessons for All Seasons,pokhara,low,4,Weddings,Yesterday Once More,1,40,8.102925
+3529380741,2897077172,2012-12-13T03:00:00.003Z,The Unforgiven,kalikot,medium,4.5,Weddings,Unprecedented: The 2000 Presidential Election,0,32,2.79483
+3663251922,1537716619,2012-06-02T05:00:00.000Z,Love in the Afternoon,sunsari,high,4,Private Parties,Ben Harper: Live at the Hollywood Bowl,0,556,11.492474
+3510775414,865257598,2013-09-21T07:00:00.002Z,I Spy,Kampot,medium,3.5,Corporate Events,Dr. Martin Luther King,1,1808,70.398356
+166687754,826550051,2012-12-23T02:00:00.003Z,A Streetcar Named Desire,kathmandu,low,3.5,Weddings,The Devil and Daniel Webster,1,14,1.068453
+148795992,3732239474,2012-11-24T08:30:00.003Z,The Tick: The Entire Series,chitwan,high,4,Weddings,Convict 762,1,99,6.293217
+2709669163,3467421606,2012-11-03T18:00:00.003Z,Metropolitan Opera: Puccini: Tosca,birgung,low,4.5,Private Parties,Tom and Jerry: Paws for a Holiday,1,71,3.457194
+3023195561,3103960784,2012-11-30T23:00:00.003Z,Young and Dangerous 2,chitwan,medium,3.4,Corporate Events,Our Lady of the Assassins,0,6173,82.21166
+4003149452,35217265,2012-09-21T20:00:00.002Z,Main Hoon Na,parsa,high,3.5,Weddings,Yi Yi,1,379,19.167377
+4013884443,2478319807,2012-10-28T02:00:00.003Z,Dottie Gets Spanked,balglung,high,4.2,Weddings,A Moment of Romance,1,1011,18.316151
+2340420164,2217505210,2012-09-01T02:00:00.003Z,Stripteaser,hetauda,medium,4.1,Private Parties,The Swan Princess,0,2096,44.104469
+3675050328,415464198,2012-07-26T23:00:00.000Z,Yesterday Once More,lalitpur,high,3.5,Corporate Events,How I Got into College,1,27,6.668679
+1273098738,2569678608,2012-06-05T02:00:00.000Z,Unprecedented: The 2000 Presidential Election,bara,medium,4,Weddings,Dil Chahta Hai,0,811,36.172182
+2714425498,288184977,2012-10-16T21:00:00.003Z,Ben Harper: Live at the Hollywood Bowl,japan,low,4.5,Weddings,Wishful Thinking,0,1597,25.767395
+742386309,2740881289,2012-10-27T19:00:00.003Z,Dr. Martin Luther King,india,high,4,Private Parties,The Young Lions,1,867,21.543389
+3770253549,960485157,2013-01-06T22:00:00.003Z,The Devil and Daniel Webster,china,low,3.5,Corporate Events,The Mummy,1,2277,50.309843
+1817242392,1394604520,2012-10-05T00:30:00.003Z,Convict 762,galgi,medium,3.5,Weddings,The Trip,0,1668,49.292384
+586433846,1881708916,2012-10-19T15:55:00.003Z,Tom and Jerry: Paws for a Holiday,galli,high,4,Weddings,Rescue from Gilligan's Island,1,3088,83.893257
+45455230,2305573355,2012-12-12T19:00:00.003Z,Our Lady of the Assassins,nepalgung,medium,4.5,Private Parties,Operation Pacific,0,530,24.616634
+4161942003,1408414361,2012-09-12T00:30:00.003Z,Yi Yi,sira,low,3.4,Corporate Events,The Door in the Floor,0,1645,34.005726
+571948297,1615405623,2012-12-24T23:00:00.002Z,avilas,bardibas,high,3.5,Weddings,Meet John Doe,1,675,27.714043
+4124873032,3518085189,2012-08-28T00:00:00.001Z,Altavista,mugu,low,4.2,Weddings,Burn Up Excess: Vol. 2: Crimes and Missed Demeanors,0,1375,45.149948
+894368659,314584924,2012-05-12T22:00:00.000Z,ajita,jumla,medium,4.1,Private Parties,The Cowboys,1,1181,72.774941
+1200534865,295067406,2012-11-06T06:00:00.003Z,Hollywood,humla,low,3.5,Corporate Events,The Shadow,0,225,3.74263
+2124271121,1585760331,2012-10-04T00:00:00.003Z,Fayetteville,mustang,medium,4,Weddings,Children of the Corn,1,542,29.381878
+1850804472,3368162019,2012-11-15T00:00:00.001Z,ghus,pokhara,high,4.5,Weddings,Dark Town,0,1310,24.860326
+3428730590,2501469300,2012-06-09T15:00:00.000Z,Nampa,nepalgung,high,4,Private Parties,Yojimbo,1,550,11.041659
+576346461,2756944742,2012-09-22T23:00:00.003Z,New York,sira,medium,3.5,Corporate Events,Miracle of the White Stallions,0,177,11.897925
+1205456542,255104800,2012-09-08T01:30:00.003Z,Edmonton,bardibas,high,3.5,Weddings,Frida: Bonus Material,1,453,23.607071
+1820052618,887569857,2012-08-11T22:00:00.000Z,Haverhill,mugu,medium,3,Awards events,The Favor,0,1180,38.204158
+2079859998,2643756672,2012-12-02T01:00:00.003Z,hevaen,jumla,low,4.5,Weddings,Sophia Brown,1,436,25.413955
+4095484738,3812387739,2012-04-06T22:00:00.000Z,Tempe,humla,high,3.4,Private Parties,Liam Johnson,1,1018,28.98027
+3967304499,1281540471,2012-05-11T22:00:00.000Z,monkey,mustang,low,3.5,Corporate Events,Super Gals,1,103,9.525037
+3185012729,1181242894,2012-11-17T14:00:00.003Z,Nashua,pokhara,medium,4.2,Weddings,A Love Divided,1,345,18.39217
+291461615,295508045,2012-11-14T23:00:00.003Z,nasahasa,nepalgung,high,4.1,Weddings,Short: International Release #2,0,141,9.254647
+1303409017,1197096080,2012-06-11T17:30:00.000Z,hat top,sira,medium,3,Private Parties,Mikey and Nicky,0,2237,40.526587
+3625238230,608242781,2012-05-30T09:00:00.000Z,wake pop,bardibas,low,3.5,Corporate Events,Sharpe 4: Sharpe's Enemy,0,1462,50.179171
+3203080758,3639850329,2013-06-18T04:00:00.002Z,pop dj ,mugu,low,3,Weddings,Mating Habits of the Earthbound Human,1,1226,31.957947
+1790888447,3102779789,2012-11-03T01:00:00.003Z,Overland Park,jumla,high,3.5,Weddings,Gloria Estefan: Evolution Tour: Live in Miami,1,370,19.822791
+2901093201,1061273454,2012-11-29T00:00:00.001Z,sans eve,humla,low,4,Private Parties,Deep Cover,1,896,38.429648
+1953202168,31028711,2012-10-01T00:00:00.001Z,delux,mustang,medium,4.5,Corporate Events,Cup Final,1,210,13.707843
+2046368565,2890143643,2012-09-22T00:00:00.001Z,Neiva,pokhara,high,4,Weddings,The Maldonado Miracle,0,1428,51.927471
+3672225204,1072633089,2012-11-03T01:30:00.003Z,Meriden,kalikot,medium,3.5,Weddings,Ray,1,253,14.503568
+3787463578,3773729756,2012-12-28T07:00:00.003Z,Las Vegas,sunsari,low,3.5,Private Parties,Monster-in-Law: Bonus Material,1,242,6.74556
+347223367,930953241,2012-11-24T14:00:00.003Z,London,Kampot,high,4,Corporate Events,Discovering Australia,1,140,11.120167
+116409056,533845032,2012-12-15T01:30:00.003Z,remote event,kathmandu,low,4.5,Weddings,Reno 911: Season 2,1,1147,40.370442
+2551057005,65174564,2012-12-08T08:00:00.003Z,Amsterdam,chitwan,medium,3.4,Weddings,Harsh Realm: The Complete Series,1,2065,40.715623
+3314304607,3982320065,2012-11-23T17:30:00.002Z,Los Angeles,birgung,high,3.5,Private Parties,Zakk Wylde's Black Label Society: Boozed,1,794,36.230204
+3061335892,2759110681,2013-06-18T23:00:00.002Z,,chitwan,high,4.2,Corporate Events,The Bedford Incident,1,415,23.666229
+94819510,2836329737,2012-06-01T19:30:00.000Z,,parsa,medium,4.1,Weddings,Blue's Clues: Classic Clues,0,613,25.903237
+2932429747,415464198,2013-01-01T09:00:00.002Z,,balglung,high,3.5,Weddings,The Muse,1,3417,60.231382
+1776943103,4236892345,2012-10-04T19:00:00.002Z,,hetauda,medium,4,Private Parties,Dersu Uzala,1,458,18.38292
+2167596975,568318924,2012-06-16T16:00:00.000Z,,lalitpur,low,4.5,Corporate Events,Dangerous Minds,0,296,14.029012
+2945705652,415464198,2012-07-26T22:00:00.000Z,,bara,high,4,Weddings,Bride and Prejudice,1,287,15.913783
+2348525535,3672239853,2012-10-29T16:00:00.003Z,,japan,low,3.5,Weddings,The Body,0,97,6.889633
+2763631537,2239090871,2012-11-16T08:00:00.003Z,,india,medium,3.5,Private Parties,Out of Ireland: The Hit Songs and Artists of Irish Music,0,325,19.286099
+926657283,4236892345,2012-11-25T18:00:00.002Z,San Diego,china,high,4,Corporate Events,Eat Drink Man Woman,1,1864,50.587541
+1840608646,562288949,2012-10-12T21:00:00.003Z,Pittsfield,galgi,medium,4.5,Weddings,Diary of a Country Priest,1,35,3.721272
+3612276314,3170824600,2012-11-20T00:00:00.001Z,Anaheim,galli,low,3.4,Weddings,Fascination,0,677,17.157738
+962283003,1745197687,2012-09-29T08:00:00.003Z,,nepalgung,high,3.5,Private Parties,Hamlet,1,811,22.636908
+3771335843,763626808,2013-01-18T00:00:00.001Z,Palm Desert,sira,low,4.2,Corporate Events,Gargoyles,0,741,28.069419
+4272911320,2012579304,2012-10-11T21:00:00.003Z,Toronto,bardibas,medium,4.1,Weddings,Remedy,0,485,19.774543
+3640178412,771586910,2012-11-29T12:37:21.002Z,,mugu,low,3.5,Awards events,Benny Hill: Complete and Unadulterated: The Naughty Early Years: Set 1,1,239,11.644243
+818704724,1863742623,2012-09-23T00:00:00.003Z,West Milford,jumla,medium,4,Weddings,Animal Crackers,0,730,27.934978
+2318014312,3453812692,2012-06-16T00:00:00.000Z,,humla,high,4.5,Private Parties,Sense and Sensibility,1,238,12.677505
+1730578305,3665895773,2012-12-10T00:00:00.001Z,,mustang,high,4,Corporate Events,Too Young to Die,0,245,8.737058
+10434065,4061149027,2012-08-02T16:00:00.000Z,Inverness,pokhara,medium,3.5,Weddings,Santa Fe Trail,1,233,12.343507
+853741939,2765192170,2012-10-17T23:30:00.003Z,,nepalgung,high,3.5,Weddings,Buck Rogers,0,325,14.699342
+1652565532,1787674057,2012-10-14T00:30:00.002Z,,sira,medium,3,Private Parties,Angelina Ballerina: Friends Forever,1,300,14.513243
+841250291,3139735332,2012-09-29T23:00:00.003Z,Toronto,bardibas,low,4.5,Corporate Events,Dead Kennedys: In God We Trust,0,157,5.525544
+357700233,3365898034,2012-11-15T06:00:00.003Z,,mugu,high,3.4,Weddings,R.E.M.: Road Movie,1,318,15.079993
+2280544996,518203556,2012-06-17T11:00:00.000Z,Sioux Falls,jumla,low,3.5,Weddings,Haven,0,436,23.835055
+3335763962,3150337903,2013-01-04T03:00:00.003Z,Eugene,humla,medium,4.2,Private Parties,Earth 2: The Complete Series,1,81,5.926966
+3248585097,1039757637,2012-11-24T08:00:00.003Z,,mustang,high,4.1,Corporate Events,String Cheese Incident: Live at the Fillmore,1,523,25.454549
+3167158602,2104574080,2012-09-22T03:00:00.003Z,,pokhara,medium,3,Weddings,A Hard Day's Night: Collector's Series,1,437,22.71592
+3374356309,50024310,2013-10-11T00:00:00.001Z,Santa Fe,nepalgung,low,3.5,Weddings,Comedian,1,823,35.120736
+64795887,407293436,2012-12-08T04:00:00.003Z,Dallas,sira,medium,3,Private Parties,Satanis: The Devil's Mass / Sinthia: The Devil's Doll: Double Feature,0,961,19.893646
+4198283967,1650135032,2012-08-27T13:00:00.002Z,,bardibas,low,4.5,Corporate Events,Don't Bother to Knock,0,235,14.051852
+2537074413,6876012,2013-04-12T19:00:00.003Z,Nassau City,mugu,high,3.4,Weddings,Gojoe: Spirit War Chronicle,0,161,9.011729
+3706420497,3596815163,2012-10-28T19:00:00.003Z,Lake Placid,jumla,low,3.5,Weddings,Giant Robo,1,379,19.088655
+2368071112,662438938,2012-09-16T01:00:00.003Z,,humla,medium,4.2,Private Parties,Taxi Zum Klo,1,593,29.490057
+2771875625,3207637898,2012-10-10T16:10:00.003Z,Portland,mustang,high,4.1,Corporate Events,Dodsworth,1,167,11.195593
+2254762804,3344128905,2012-06-30T18:00:00.000Z,,pokhara,medium,3,Weddings,Fear Of A Punk Planet,1,832,17.709888
+3327464880,247486038,2012-11-18T01:00:00.003Z,Bridgewater,kalikot,low,3.5,Weddings,Danielle Steel's Changes,0,647,18.262017
+389488599,3982320065,2012-10-25T19:00:00.002Z,Rochester,sunsari,low,3,Private Parties,The Night That Never Happened,1,159,10.10364
+829535425,3600055628,2012-12-15T17:00:00.003Z,,Kampot,high,3.5,Corporate Events,Journeys with George,1,1455,28.670477
+494454333,3982320065,2012-11-15T19:00:00.002Z,Amherst,kathmandu,low,4,Weddings,Back to the Beach,1,293,16.736734
+112673609,2974685230,2012-10-12T16:30:00.003Z,Cornwall,chitwan,medium,4.5,Weddings,Another Day in Paradise,1,149,13.668633
+4112951228,502528559,2012-09-29T22:00:00.003Z,Miramar,birgung,high,4,Private Parties,Where Are We?,1,191,9.780588
+1099079849,3360378404,2012-09-01T00:00:00.001Z,,chitwan,medium,3.5,Corporate Events,Backyardigans: It's Great to Be a Ghost,1,129,9.904881
+3527858449,583878665,2012-12-23T05:00:00.003Z,Laytonville,parsa,low,3.5,Weddings,River of No Return,1,216,9.789027
+2994384076,129845432,2012-12-12T12:00:00.002Z,,balglung,high,4,Weddings,Read Or Die,0,31,6.81729
+3211155871,688491691,2012-10-28T04:00:00.003Z,,hetauda,low,4.5,Private Parties,A Dangerous Man: Lawrence After Arabia,1,212,10.73522
+1427080209,415464198,2015-09-20T10:00:00.002Z,,lalitpur,medium,3.4,Corporate Events,Fallen,1,108,11.1399
+144576760,168345599,2013-01-07T00:00:00.001Z,Lima,bara,high,3.5,Weddings,Scarecrow,0,55,6.727949
+2771935972,2836118071,2012-11-24T00:00:00.001Z,Pasadena,japan,high,4.2,Awards events,Midsomer Murders: A Tale of Two Hamlets,1,322,16.343317
+3248575124,2875757153,2012-12-31T00:00:00.001Z,,india,medium,4.1,Weddings,Hercules,0,220,14.818718
+4018390971,3396925287,2012-12-16T04:00:00.003Z,Prince Rupert,china,high,3.5,Private Parties,Screw Loose,0,987,43.862456
+494848400,103840615,2012-12-03T21:00:00.002Z,New York,galgi,medium,4,Corporate Events,The Pagemaster,1,64,2.706207
+133279315,1506607708,2012-11-14T13:00:00.003Z,,galli,low,4.5,Weddings,Dave Chappelle: For What It's Worth,1,555,27.903999
+689263547,1783068998,2012-09-30T01:00:00.003Z,Atlanta,nepalgung,high,4,Weddings,Brother,0,91,3.746806
+3219310589,3148932631,2012-10-27T02:35:00.003Z,,sira,low,3.5,Private Parties,The Duel at Silver Creek,1,294,17.112498
+2077310230,994450467,2012-12-03T00:00:00.001Z,Barcelona,bardibas,medium,3.5,Corporate Events,Sex and the Teenage Mind,0,135,10.304172
+564723139,353017097,2012-09-09T03:30:00.003Z,San Diego,mugu,high,4,Weddings,The Cincinnati Kid,0,1121,37.335721
+1055972216,2898897814,2012-08-28T03:00:00.003Z,Los Angeles,jumla,medium,3,Weddings,Aap Mujhe Achche Lagne Lage,1,9,0.912395
+2393591080,2446062018,2012-11-16T22:00:00.003Z,,humla,low,4.5,Private Parties,Henry Fool,0,357,16.782471
+1644658511,3479523021,2012-10-05T22:30:00.003Z,Bondi,mustang,high,3.4,Corporate Events,Explosive Dance,1,53,3.503408
+3625594170,1651937265,2012-06-17T16:00:00.000Z,Bronx,pokhara,low,3.5,Weddings,Richard Rodgers: The Sweetest Sounds,0,115,9.122828
+701408478,2758344088,2012-09-24T22:00:00.003Z,Fayetteville,nepalgung,medium,4.2,Weddings,My Favorite Wife,1,60,5.419181
+1299761015,3777585566,2012-10-20T00:00:00.003Z,Aracaju,sira,high,4.1,Private Parties,Fahrenheit 451,0,142,9.07278
+1322340964,2083189261,2012-11-11T18:00:00.003Z,Weyers Cave,bardibas,medium,3,Corporate Events,I Capture the Castle,1,34,2.864979
+234670463,1612279160,2012-06-11T11:00:00.000Z,Ulaanbaatar,mugu,low,3.5,Weddings,Rhyme & Reason,0,25,2.877488
+1051717178,1936556793,2012-10-21T03:00:00.003Z,Lynnwood,jumla,low,3,Weddings,Blankman,1,49,5.516207
+2236055416,3930240383,2012-07-07T19:00:00.000Z,Cleveland,humla,high,3.5,Private Parties,Lost in Space: Season 2: Vol. 1,0,291,13.930763
+1951616479,4259663411,2012-08-11T02:00:00.000Z,Cornwall,mustang,low,4,Corporate Events,World Cup Soccer Highlights: 1966-1974,1,307,20.27704
+1512015439,2801967144,2012-11-07T02:30:00.003Z,Portland,pokhara,medium,4.5,Weddings,Jay Jay the Jet Plane: Lessons for All Seasons,1,0,0.126738
+1875743955,4236892345,2012-09-16T20:00:00.002Z,,nepalgung,high,4,Weddings,The Unforgiven,1,5371,131.815575
+1926016144,913738461,2012-08-18T02:00:00.003Z,,sira,medium,3.5,Private Parties,Love in the Afternoon,1,320,16.832312
+3367955402,3264737073,2012-11-04T14:00:00.003Z,Fairborn,bardibas,low,3.5,Corporate Events,I Spy,0,169,9.133747
+1450269242,4192701187,2012-10-27T01:00:00.003Z,Indianapolis,mugu,high,4,Weddings,A Streetcar Named Desire,0,827,24.606012
+4184458463,4170430276,2012-07-07T08:00:00.000Z,Ancaster,jumla,low,4.5,Weddings,The Tick: The Entire Series,0,29,3.276912
+1800593895,2288720452,2012-07-20T18:00:00.000Z,Dearborn,humla,medium,3.4,Private Parties,Metropolitan Opera: Puccini: Tosca,1,344,16.830184
+642730766,3415805058,2012-10-04T00:00:00.001Z,Rancho Cordova,mustang,high,3.5,Corporate Events,Young and Dangerous 2,1,926,39.58676
+3017800232,3117515685,2012-06-29T18:00:00.000Z,,pokhara,high,4.2,Weddings,Main Hoon Na,1,1064,41.946523
+3679021532,4085238060,2012-11-21T12:17:08.002Z,,kalikot,medium,4.1,Weddings,Dottie Gets Spanked,1,254,20.697556
+1585491355,3476685589,2012-10-13T12:00:00.003Z,,sunsari,high,3.5,Private Parties,Stripteaser,0,18,1.656695
+1195195222,3709122104,2012-11-24T00:41:47.002Z,,Kampot,medium,4,Corporate Events,Yesterday Once More,1,240,17.932561
+3961166154,1108530306,2012-11-17T22:00:00.003Z,Athens,India,low,4.5,Weddings,Unprecedented: The 2000 Presidential Election,1,224,15.50957
+717715553,1417872385,2012-09-15T02:00:00.003Z,Yonkers,kathmandu,high,4,Awards events,Ben Harper: Live at the Hollywood Bowl,1,67,4.602185
+2833289965,1303730024,2012-12-01T18:00:00.003Z,,chitwan,low,3.5,Weddings,Dr. Martin Luther King,1,877,40.379966
+4043535917,3695312442,2012-06-07T19:30:00.000Z,Brantford,birgung,medium,3.5,Private Parties,The Devil and Daniel Webster,1,110,12.601306
+2736737731,2687866426,2012-12-13T17:50:00.003Z,,chitwan,high,4,Corporate Events,Convict 762,1,506,24.389194
+2018576103,3708022482,2012-10-24T00:30:00.003Z,Irvine,parsa,medium,3,Weddings,Tom and Jerry: Paws for a Holiday,1,121,12.867326
+263168437,1036957290,2012-09-15T16:00:00.003Z,Greenville,balglung,low,4.5,Weddings,Our Lady of the Assassins,0,469,23.328823
+3615246335,1184112989,2012-07-02T02:00:00.000Z,,hetauda,high,3.4,Private Parties,Yi Yi,1,663,29.775441
+3243944770,204062324,2012-09-22T02:00:00.003Z,,lalitpur,low,3.5,Corporate Events,A Moment of Romance,1,497,19.642328
+2825913869,3175235416,2012-09-13T22:00:00.003Z,New York,bara,medium,4.2,Weddings,The Swan Princess,0,110,7.339908
+2078090078,2411571175,2012-07-19T23:30:00.000Z,Amsterdam,japan,high,4.1,Weddings,How I Got into College,1,766,35.099611
+2622732795,317376958,2012-10-28T00:00:00.003Z,,india,medium,3,Private Parties,Dil Chahta Hai,0,238,16.541791
+4255489862,3659862319,2012-10-20T20:00:00.003Z,Lowestoft,china,low,3.5,Corporate Events,Wishful Thinking,0,799,31.92695
+4183852366,1202949614,2012-03-30T19:30:00.000Z,,galgi,low,3,Weddings,The Young Lions,1,116,9.060642
+3720451542,4269926966,2012-10-03T01:00:00.003Z,,galli,high,3.5,Weddings,The Mummy,1,4665,46.509071
+3704887732,385587110,2012-09-22T20:00:00.002Z,,nepalgung,low,4,Private Parties,The Trip,0,363,21.538222
+613765839,2161287927,2012-10-01T00:00:00.001Z,,sira,medium,4.5,Corporate Events,Rescue from Gilligan's Island,1,813,33.923786
+2105896460,90465988,2013-06-30T02:00:00.002Z,,bardibas,high,4,Weddings,Operation Pacific,0,394,20.908494
+3046996699,2291284905,2012-09-11T00:00:00.001Z,,mugu,medium,3.5,Weddings,The Door in the Floor,0,987,16.901954
+2033777194,4216670704,2012-08-06T18:00:00.000Z,Leeds,jumla,low,3.5,Private Parties,Meet John Doe,1,323,15.039407
+3887282152,614168742,2012-09-08T02:00:00.003Z,Indianapolis,humla,high,4,Corporate Events,Burn Up Excess: Vol. 2: Crimes and Missed Demeanors,0,185,13.655735
+3510210290,2959282597,2012-11-11T04:30:00.003Z,,mustang,low,4.5,Weddings,The Cowboys,1,390,21.620317
+4126171685,1485038116,2012-05-31T14:00:00.000Z,,pokhara,medium,3.4,Weddings,The Shadow,0,359,14.642055
+1879241170,1989885370,2012-05-14T02:00:00.000Z,,nepalgung,high,3.5,Private Parties,Children of the Corn,1,1661,17.107065
+435021773,705119488,2012-09-23T01:00:00.003Z,,sira,high,4.2,Corporate Events,Dark Town,0,2359,38.21708
+958407882,164269222,2012-09-02T02:00:00.003Z,,bardibas,medium,4.1,Weddings,Yojimbo,1,242,14.993169
+4167749572,3217862639,2012-10-05T00:00:00.001Z,Las Vegas,mugu,high,3.5,Weddings,Miracle of the White Stallions,0,544,24.147269
+1262754606,2094974207,2012-04-25T07:30:00.000Z,,jumla,medium,4,Private Parties,Frida: Bonus Material,1,394,18.47242

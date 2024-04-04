@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Planner</title>
+    <title>Event Recommendation System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        h1 {
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        form {
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        input[type="text"],
+        input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            box-sizing: border-box;
+        }
+
+        input[type="submit"] {
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>Event Recommendation System</h1>
+    <form action="/recommendations" method="post">
+        {% csrf_token %}
+        <label for="client_id">Client ID:</label>
+        <input type="text" id="client_id" name="client_id"><br><br>
+        <label for="k">Number of Recommendations:</label>
+        <input type="text" id="k" name="k" value="5"><br><br>
+        <input type="submit" value="Get Recommendations">
+    </form>
+</body>
+</html>
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+   
+</head>
+<body>
+    <h1>Welcome to Event Planner</h1>
+    <form action="{% url 'recommendations' %}" method="post">
+        {% csrf_token %}
+        <label for="client_id">Client ID:</label>
+        <input type="text" id="client_id" name="client_id"><br><br>
+        <label for="k">K:</label>
+        <input type="text" id="k" name="k"><br><br>
+        <input type="submit" value="Get Recommendations">
+    </form>
+</body>
+</html> -->

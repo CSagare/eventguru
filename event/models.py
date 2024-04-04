@@ -1,9 +1,9 @@
 from django.db import models
-from django.core.validators import FileExtensionValidator
+# from django.core.validators import FileExtensionValidator
 from authuser.models import CustomUser
-validate_image_file_extension = FileExtensionValidator(
-    allowed_extensions=['jpg', 'jpeg', 'png', 'gif']
-)
+# validate_image_file_extension = FileExtensionValidator(
+#     allowed_extensions=['jpg', 'jpeg', 'png', 'gif']
+# )
 class Eventplanner(models.Model):
     title = models.CharField(max_length=200)
     description = models.TextField()
@@ -50,6 +50,4 @@ class planner_category(models.Model):
 #     categories = models.ManyToManyField(category, related_name='events')
 #     def __str__(self):
 #         return self.title
-    
-
     
